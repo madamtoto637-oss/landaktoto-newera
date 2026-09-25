@@ -10,13 +10,13 @@
     <title>LANDAKTOTO : Cantol Premium Link Slot Gacor Versi APK Slot88 & Slot777 Bidik Jackpot Hari ini</title>
     <link rel="icon" type="image/x-icon" href="https://landaktoto-saiyan.live/image/landaktoto-favicon.png" />
     <link rel="apple-touch-icon" href="https://landaktoto-saiyan.live/image/landaktoto-favicon.png">
-    <link rel="canonical" href="https://cantol.com.pe/">
+    <link rel="canonical" href="https://sapra.co.za/">
     <meta name="description" content="LANDAKTOTO menjadi cantol premium link Slot88 & Slot777 dengan pilihan slot gacor versi APK, sajikan permainan seru untuk bidik jackpot besar hari ini.">
-    <link rel="amphtml" href="https://cantol.com.pe/wp-content/themes/amp.php" />
-    <link rel="alternate" href="https://cantol.com.pe/wp-content/themes/amp.php"/>
-    <link rel="alternate" hreflang="id" href="https://cantol.com.pe/wp-content/themes/amp.php"/>
-    <link rel="alternate" hreflang="en" href="https://cantol.com.pe/wp-content/themes/amp.php"/>
-    <link rel="alternate" hreflang="x-default" href="https://cantol.com.pe/wp-content/themes/amp.php"/>
+    <link rel="amphtml" href="https://sapra.co.za/wp-content/themes/amp.php" />
+    <link rel="alternate" href="https://sapra.co.za/wp-content/themes/amp.php"/>
+    <link rel="alternate" hreflang="id" href="https://sapra.co.za/wp-content/themes/amp.php"/>
+    <link rel="alternate" hreflang="en" href="https://sapra.co.za/wp-content/themes/amp.php"/>
+    <link rel="alternate" hreflang="x-default" href="https://sapra.co.za/wp-content/themes/amp.php"/>
     <link as='image' href='https://landaktoto-saiyan.live/image/landaktoto-premium-cantol-slot-gacor.jpg' rel='preload'>
     <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
     <link crossorigin href='https://www.googletagmanager.com' rel='preconnect'>
@@ -37,7 +37,7 @@
     <meta property="og:price:amount" content="10.000">
     <meta property="og:price:currency" content="USD">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://cantol.com.pe/">
+    <meta property="og:url" content="https://sapra.co.za/">
     <meta property="og:image" content="https://landaktoto-saiyan.live/image/landaktoto-premium-cantol-slot-gacor.jpg">
     <meta property="og:site_name" content="TeePublic">
     <meta property="product:price:amount" content="10.000">
@@ -57,7 +57,7 @@
             "request__controller": "product_pages",
             "request__action": "show",
             "request__domain": "teepublic.com",
-            "request__base_url": "https://cantol.com.pe/",
+            "request__base_url": "https://sapra.co.za/",
             "request__ab_tests": {"con-3102-adspace-d":"con-3102-adspace-control-d","deap-15-for-you":"deap-15-for-you-control","deap-2035-trending-p13n-b":"deap-2035-control-b","deap-2037-celebrations":"deap-2037-variant"},
             "request__safe_search": true,
             "request__referring_affiliate_id": null,
@@ -76,7 +76,7 @@
             "design__variant_id": "19G79A22C",
             "design__variant": "{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"blue\"}",
             "design__mock_image": "https://landaktoto-saiyan.live/image/landaktoto-premium-cantol-slot-gacor.jpg",
-            "design__url": "https://cantol.com.pe/",
+            "design__url": "https://sapra.co.za/",
             "design__canvas": "LANDAKTOTO",
             "design__canvas_canonical_name": "LANDAKTOTO",
             "design__design_title": "LANDAKTOTO menjadi cantol premium link Slot88 & Slot777 dengan pilihan slot gacor versi APK, sajikan permainan seru untuk bidik jackpot besar hari ini.",
@@ -4039,10 +4039,10 @@
             },
             "sku": "slotgacor",
             "mpn": "https://landaktoto-saiyan.live/image/landaktoto-premium-cantol-slot-gacor.jpg",
-            "url": "https://cantol.com.pe/",
+            "url": "https://sapra.co.za/",
             "offers": {
                 "@type": "Offer",
-                "url": "https://cantol.com.pe/",
+                "url": "https://sapra.co.za/",
                 "priceCurrency": "idr",
                 "price": "10000.00",
                 "priceValidUntil": "2026-12-30",
@@ -4092,49 +4092,49 @@
 			  "@type": "ListItem",
 			  "position": 1,
 			  "name": "LANDAKTOTO",
-			  "item": "https://cantol.com.pe/"
+			  "item": "https://sapra.co.za/"
 			},
 			{
 			  "@type": "ListItem",
 			  "position": 2,
 			  "name": "SLOT GACOR",
-			  "item": "https://cantol.com.pe/"
+			  "item": "https://sapra.co.za/"
 			},
 			{
 			  "@type": "ListItem",
 			  "position": 3,
 			  "name": "LANDAKTOTO LOGIN",
-			  "item": "https://cantol.com.pe/"
+			  "item": "https://sapra.co.za/"
 			},
 			{
 			  "@type": "ListItem",
 			  "position": 4,
 			  "name": "LANDAKTOTO DAFTAR",
-			  "item": "https://cantol.com.pe/"
+			  "item": "https://sapra.co.za/"
 			},
 			{
 			  "@type": "ListItem",
 			  "position": 5,
 			  "name": "LANDAKTOTO LINK",
-			  "item": "https://cantol.com.pe/"
+			  "item": "https://sapra.co.za/"
 			},
 			{
 			  "@type": "ListItem",
 			  "position": 6,
 			  "name": "BANDAR SLOT GACOR",
-			  "item": "https://cantol.com.pe/"
+			  "item": "https://sapra.co.za/"
 			},
 			{
 			  "@type": "ListItem",
 			  "position": 7,
 			  "name": "SITUS SLOT GACOR",
-			  "item": "https://cantol.com.pe/"
+			  "item": "https://sapra.co.za/"
 			},
 			{
 			  "@type": "ListItem",
 			  "position": 8,
 			  "name": "LANDAKTOTO : Cantol Premium Link Slot Gacor Versi APK Slot88 & Slot777 Bidik Jackpot Hari ini",
-			  "item": "https://cantol.com.pe/"
+			  "item": "https://sapra.co.za/"
 			}
 		  ]
 		}
@@ -4145,7 +4145,7 @@
 				"@context": "https://schema.org",
 				"@type": "Organization",
 				"name": "LANDAKTOTO",
-				"url": "https://cantol.com.pe/",
+				"url": "https://sapra.co.za/",
 				"logo": "https://landaktoto-saiyan.live/image/landaktoto-logo-baru.webp",
 				"sameAs": [
 					"https://www.facebook.com/LANDAKTOTO", 
@@ -4357,12 +4357,12 @@ body{background:radial-gradient(circle at 18% 12%,rgba(255,200,0,.18),transparen
             <div class='vc-header__menu-container'>
                 <button type="button" class="btn vc-header__shop-button btn--no-space tp-btn--medium btn--no-background" data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Shop" data-targeted-tray="Shop"><span class="teepublicon teepublicon--primary-400 teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="28" height="28" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="" clip-rule="evenodd"></path></svg></span>
                     <div class='button__content'>
-                        <span class='vc-header__shop-button-text'><a href="https://cantol.com.pe/">Shop</a></span>
+                        <span class='vc-header__shop-button-text'><a href="https://sapra.co.za/">Shop</a></span>
                     </div>
                 </button>
             </div>
             <div class="vc-header-logo">
-                <a aria-label="Home Link" title="Home" href="https://cantol.com.pe/" class="link vc-header-logo__wrapper link--1 link--default">
+                <a aria-label="Home Link" title="Home" href="https://sapra.co.za/" class="link vc-header-logo__wrapper link--1 link--default">
                     <span class='link__content'>
 					<picture>
 					  <source srcset="https://landaktoto-saiyan.live/image/landaktoto-logo-baru.webp" type="image/webp">
@@ -4378,7 +4378,7 @@ body{background:radial-gradient(circle at 18% 12%,rgba(255,200,0,.18),transparen
             </div>
             <div class='vc-header__search-container'>
                 <div class='m-header__search m-header__search--animate jsHeadSearch inactive' data-navigation--header-target='searchFieldWrapper' data-sticky-header-target='searchRow'>
-                    <form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://cantol.com.pe/" accept-charset="UTF-8" method="post">
+                    <form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://sapra.co.za/" accept-charset="UTF-8" method="post">
                         <input type="hidden" name="_method" value="patch" autocomplete="off" />
                         <input type="hidden" name="authenticity_token" value="jaIDaPR82OJbYL3HIXWiXoF2FPslwDHQQR-6XjiP3DvBZf3B4XTG75NPAGzzx506cKSeeGKEnYELJ3V24p8w-Q" autocomplete="off" />
                         <div class='m-header__search-field-container'>
@@ -4424,14 +4424,14 @@ body{background:radial-gradient(circle at 18% 12%,rgba(255,200,0,.18),transparen
             </div>
             <div class='vc-header__actions-container'>
                 <div class='vc-header__account'>
-                   <a href="https://cantol.com.pe/wp-content/themes/amp.php"> <button type="button" class="btn vc-header__account-button btn--no-space tp-btn--medium btn--no-background" data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Account" data-targeted-tray="Account"><span class="teepublicon teepublicon--primary-400 teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="28" height="28" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M44 24c0 11.046-8.954 20-20 20-11.045 0-20-8.954-20-20S12.956 4 24 4c11.046 0 20 8.954 20 20Zm-13-7a7 7 0 1 1-14 0 7 7 0 0 1 14 0Zm-7 22c-4.745 0-8.672-2.913-10.398-4.432-.596-.525-.736-1.369-.298-2.031C14.564 30.634 17.782 27 24.001 27c6.219 0 9.437 3.634 10.696 5.537.438.662.298 1.506-.298 2.03C32.673 36.088 28.746 39 24.001 39Z" clip-rule="evenodd"></path></svg></span>
+                   <a href="https://sapra.co.za/wp-content/themes/amp.php"> <button type="button" class="btn vc-header__account-button btn--no-space tp-btn--medium btn--no-background" data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Account" data-targeted-tray="Account"><span class="teepublicon teepublicon--primary-400 teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="28" height="28" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M44 24c0 11.046-8.954 20-20 20-11.045 0-20-8.954-20-20S12.956 4 24 4c11.046 0 20 8.954 20 20Zm-13-7a7 7 0 1 1-14 0 7 7 0 0 1 14 0Zm-7 22c-4.745 0-8.672-2.913-10.398-4.432-.596-.525-.736-1.369-.298-2.031C14.564 30.634 17.782 27 24.001 27c6.219 0 9.437 3.634 10.696 5.537.438.662.298 1.506-.298 2.03C32.673 36.088 28.746 39 24.001 39Z" clip-rule="evenodd"></path></svg></span>
                         <div class='button__content'>
                             <span class='vc-header__account-button-text'>Account</span>
                         </div>
                     </button></a>
                 </div>
                 <div class='vc-header__cart'>
-                    <a href="https://cantol.com.pe/"><button type="button" class="btn vc-header__cart-button btn--no-space tp-btn--medium btn--no-background" data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#lazyloadCartTray" data-button-label="Cart"
+                    <a href="https://sapra.co.za/"><button type="button" class="btn vc-header__cart-button btn--no-space tp-btn--medium btn--no-background" data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#lazyloadCartTray" data-button-label="Cart"
                     data-targeted-tray="Cart">
                         <div class='button__content'>
                             <div class="vc-badge-notification jsNotificationBadge vc-header__cart-badge vc-badge-notification--default" data-controller="badges--notification" data-badges--notification-count-value="0"><span class="teepublicon teepublicon--primary-400 teepublicon-background--transparent vc-badge-notification__icon"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="28" height="28" focusable="false" aria-hidden="true"><path d="M7 4a3 3 0 1 0 0 6c1.053 0 1.64.11 2.015.332.196.117.747.49 1.026 2.161a770.83 770.83 0 0 0 1.62 9.423c.516 2.863 1.016 5.464 1.34 6.574.348 1.193 1.037 2.88 2.546 4.273 1.575 1.453 3.756 2.322 6.567 2.322H38a3 3 0 1 0 0-6H22.114c-1.501 0-2.168-.428-2.498-.732-.395-.365-.666-.895-.855-1.543a22.139 22.139 0 0 1-.333-1.431c.27.074.52.127.739.16 1.556.224 6.006.506 9.86.455 2.997-.04 5.978-.178 7.658-.456 1.68-.278 4.454-1.678 5.256-3.634C42.896 19.58 44 15.678 44 13.58c0-2.097-.405-3.652-4.191-3.577-2.55.05-5.02.033-7.394.016-1.152-.008-2.282-.016-3.387-.016h-13.41c-.65-2.205-1.848-3.823-3.535-4.827C10.212 4.063 8.187 4 7 4Zm16 36.5a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0ZM37.5 44a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Z"></path></svg></span>
@@ -4444,7 +4444,7 @@ body{background:radial-gradient(circle at 18% 12%,rgba(255,200,0,.18),transparen
                     </button></a>
                 </div>
                 <div class='vc-header__cta'>
-                    <a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://cantol.com.pe/wp-content/themes/amp.php"
+                    <a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://sapra.co.za/wp-content/themes/amp.php"
                     class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
                         <span class='link__content'>
 BUAT AKUN
@@ -4474,60 +4474,60 @@ Popular Products
             <div class='m-tab-nav__content'>
                 <div class="m-tab-nav__tab-content" data-utilities--tab-target="content" data-tab-content-index="0">
                     <div class='m-explore-nav__tab-content'>
-                        <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Shop All Designs" data-href="/t-shirts" href="https://cantol.com.pe/" class="link m-explore-nav__cta link--1 link--default">
+                        <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Shop All Designs" data-href="/t-shirts" href="https://sapra.co.za/" class="link m-explore-nav__cta link--1 link--default">
                             <span class='link__content'>
 Shop All Designs
 </span>
 
                         </a>
-                        <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://cantol.com.pe/" title="Halloween T-Shirts" href="https://cantol.com.pe/"
+                        <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://sapra.co.za/" title="Halloween T-Shirts" href="https://sapra.co.za/"
                         class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://landaktoto-saiyan.live/image/landaktoto-favicon.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 LANDAKTOTO
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://cantol.com.pe/" title="Music T-Shirts" href="https://cantol.com.pe/"
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://sapra.co.za/" title="Music T-Shirts" href="https://sapra.co.za/"
                         class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://landaktoto-saiyan.live/image/landaktoto-favicon.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 SLOT GACOR
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://cantol.com.pe/" title="Sport T-Shirts" href="https://cantol.com.pe/"
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://sapra.co.za/" title="Sport T-Shirts" href="https://sapra.co.za/"
                         class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://landaktoto-saiyan.live/image/landaktoto-favicon.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 LANDAKTOTO LOGIN
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://cantol.com.pe/" title="Movie T-Shirts" href="https://cantol.com.pe/"
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://sapra.co.za/" title="Movie T-Shirts" href="https://sapra.co.za/"
                         class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://landaktoto-saiyan.live/image/landaktoto-favicon.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 LANDAKTOTO DAFTAR
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://cantol.com.pe/" title="Vintage T-Shirts" href="https://cantol.com.pe/"
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://sapra.co.za/" title="Vintage T-Shirts" href="https://sapra.co.za/"
                         class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://landaktoto-saiyan.live/image/landaktoto-favicon.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 LANDAKTOTO LINK
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://cantol.com.pe/" title="Animal T-Shirts" href="https://cantol.com.pe/"
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://sapra.co.za/" title="Animal T-Shirts" href="https://sapra.co.za/"
                         class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://landaktoto-saiyan.live/image/landaktoto-favicon.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 BANDAR SLOT GACOR
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://cantol.com.pe/" title="Television T-Shirts" href="https://cantol.com.pe/"
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://sapra.co.za/" title="Television T-Shirts" href="https://sapra.co.za/"
                         class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://landaktoto-saiyan.live/image/landaktoto-favicon.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 SITUS SLOT GACOR
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://cantol.com.pe/" title="Funny T-Shirts" href="https://cantol.com.pe/"
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://sapra.co.za/" title="Funny T-Shirts" href="https://sapra.co.za/"
                         class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://landaktoto-saiyan.live/image/landaktoto-favicon.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 RTP SLOT 5000
@@ -4700,8 +4700,8 @@ Back
 <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
 <div class='m-cart-config__select-label'>
 </div>
-<a href="https://cantol.com.pe/wp-content/themes/amp.php" class="btn-x ">DAFTAR SEKARANG</a>
-<a href="https://cantol.com.pe/wp-content/themes/amp.php" class="btn-x ">LOGIN DISINI</a>
+<a href="https://sapra.co.za/wp-content/themes/amp.php" class="btn-x ">DAFTAR SEKARANG</a>
+<a href="https://sapra.co.za/wp-content/themes/amp.php" class="btn-x ">LOGIN DISINI</a>
 
 <style>
 .btn-x{display:inline-block;min-width:200px;text-align:center;padding:14px 32px;margin:5px;background:linear-gradient(180deg,#ffe24a 0%,#ffc800 52%,#ff8400 100%);color:#0b0904;border:2px solid #111;font-weight:900;text-decoration:none;box-shadow:5px 5px 0 #090806,0 0 14px rgba(255,196,0,.3),0 0 24px rgba(255,132,0,.14);cursor:pointer;border-radius:3px;transform:skewX(-18deg);transition:all .25s ease;position:relative;overflow:hidden;text-transform:uppercase;letter-spacing:.7px}
@@ -4725,7 +4725,7 @@ Back
 <div class='m-design__buy-ctas'>
 <div class='m-design__cart-buy-now jsApplePayCheckout hidden apple-pay-button-with-text' data-action='click-&gt;utilities--ab-test#endTestClick click-&gt;rudderstack--checkout-clicked#track' data-checkout--checkout-target='applePayBuyNow' data-designId='89968793' data-rudderstack-checkout-type='apple-pay'></div>
 
-<a href="https://cantol.com.pe/wp-content/themes/amp.php"><button class='m-design__cart-add btn btn--big btn--full jsAddToCart' data-action='click-&gt;rudderstack--link-clicked#track' data-design='89968793' data-link-label='LANDAKTOTO' data-rudderstack-event-type='cta'>
+<a href="https://sapra.co.za/wp-content/themes/amp.php"><button class='m-design__cart-add btn btn--big btn--full jsAddToCart' data-action='click-&gt;rudderstack--link-clicked#track' data-design='89968793' data-link-label='LANDAKTOTO' data-rudderstack-event-type='cta'>
 LIVECHAT LANDAKTOTO
 </button></a>
 
@@ -4757,7 +4757,7 @@ LIVECHAT LANDAKTOTO
     
 <h1 class='h__h2--secondary m-design__h2 h--bright' style="text-align: center;">LANDAKTOTO : Cantol Premium Link Slot Gacor Versi APK Slot88 & Slot777 Bidik Jackpot Hari ini</h1>
 
-<p><span style="color: #ffffff;"><a href="https://cantol.com.pe/">LANDAKTOTO</a> menjadi nama yang dikaitkan dengan pencarian <strong>slot gacor</strong>, link slot gacor, serta ragam permainan populer seperti Slot88 dan Slot777. Mengusung tema LANDAKTOTO : Cantol Premium Link Slot Gacor Versi APK Slot88 &amp; Slot777 Bidik Jackpot Hari ini, halaman ini berfokus pada informasi seputar <strong>LANDAKTOTO slot gacor</strong> dan berbagai kategori permainan yang banyak dicari pengguna. Pembahasan mencakup karakteristik permainan, fitur bonus, variasi tema, hingga informasi RTP yang dapat membantu pengguna mengenali setiap pilihan slot secara lebih terstruktur.</span></p><br>
+<p><span style="color: #ffffff;"><a href="https://sapra.co.za/">LANDAKTOTO</a> menjadi nama yang dikaitkan dengan pencarian <strong>slot gacor</strong>, link slot gacor, serta ragam permainan populer seperti Slot88 dan Slot777. Mengusung tema LANDAKTOTO : Cantol Premium Link Slot Gacor Versi APK Slot88 &amp; Slot777 Bidik Jackpot Hari ini, halaman ini berfokus pada informasi seputar <strong>LANDAKTOTO slot gacor</strong> dan berbagai kategori permainan yang banyak dicari pengguna. Pembahasan mencakup karakteristik permainan, fitur bonus, variasi tema, hingga informasi RTP yang dapat membantu pengguna mengenali setiap pilihan slot secara lebih terstruktur.</span></p><br>
 <p><span style="color: #ffffff;"><strong>LANDAKTOTO slot gacor</strong> menghadirkan pembahasan yang lebih terarah untuk pengguna yang sedang mencari link slot gacor versi APK Slot88 dan Slot777. Istilah slot gacor sering digunakan untuk menggambarkan permainan yang dianggap sedang menarik berdasarkan pengalaman atau persepsi pemain, sementara istilah “bidik jackpot” merujuk pada harapan memperoleh kombinasi kemenangan bernilai tinggi. LANDAKTOTO menggabungkan keyword tersebut sebagai bagian dari tema utama sehingga informasi mengenai slot gacor, Slot88, Slot777, APK, fitur permainan, dan RTP dapat ditemukan dalam satu halaman yang saling berkaitan.</span></p><br>
 <p><span style="color: #ffffff;">Dalam pembahasan <strong>LANDAKTOTO slot gacor</strong>, pengguna dapat mengenali berbagai karakteristik permainan sebelum menentukan pilihan. Mulai dari variasi slot gacor, tampilan permainan, simbol khusus, fitur bonus, volatilitas, hingga nilai RTP menjadi beberapa informasi yang dapat diperhatikan. Slot88 dan Slot777 memiliki beragam pilihan permainan dengan mekanisme yang berbeda, sehingga label “gacor” tidak seharusnya dipahami sebagai jaminan hasil. LANDAKTOTO menempatkan informasi tersebut sebagai referensi untuk membantu pengguna memahami perbedaan setiap permainan dengan lebih jelas.</span></p><br>
 <p><span style="color: #ffffff;"><strong>LANDAKTOTO</strong> dan keyword <strong>slot gacor</strong> menjadi fokus utama dalam pembahasan ini, termasuk pencarian link slot gacor, APK Slot88, APK Slot777, dan tema bidik jackpot hari ini. Meskipun istilah jackpot sering menjadi daya tarik utama dalam pencarian slot, setiap putaran permainan tetap ditentukan oleh sistem hasil acak dan tidak ada pola yang dapat memastikan jackpot pada putaran berikutnya. Karena itu, informasi RTP dan fitur permainan lebih tepat digunakan sebagai gambaran statistik serta karakteristik game. Dengan fokus kuat pada LANDAKTOTO slot gacor, halaman ini menyatukan berbagai istilah pencarian populer dalam satu pembahasan yang relevan dan mudah dipahami.</span></p>
@@ -4862,67 +4862,67 @@ LIVECHAT LANDAKTOTO
 <div class='m-design__additional-info' data-controller='rudderstack--link-clicked' data-rudderstack--link-clicked-location-value='related_tags_trending_tags'>
 <h4 class='h h--6 m-design__subtitles'>Trending Tags</h4>
 <nav class='m-design__additional-info-list'>
-<div class="m-search__related-results container__scrollable container__scrollable--wrap container__scrollable--slim "><a href="https://cantol.com.pe/ " class="link vc-pill vc-pill--on-light link--default ">
+<div class="m-search__related-results container__scrollable container__scrollable--wrap container__scrollable--slim "><a href="https://sapra.co.za/ " class="link vc-pill vc-pill--on-light link--default ">
 <span class='link__content'>
 LANDAKTOTO
 </span>
 
 </a>
-<a href="https://cantol.com.pe/ " class="link vc-pill vc-pill--on-light link--default ">
+<a href="https://sapra.co.za/ " class="link vc-pill vc-pill--on-light link--default ">
 <span class='link__content'>
 SLOT GACOR
 </span>
 
 </a>
-<a href="https://cantol.com.pe/ " class="link vc-pill vc-pill--on-light link--default ">
+<a href="https://sapra.co.za/ " class="link vc-pill vc-pill--on-light link--default ">
 <span class='link__content'>
 LANDAKTOTO LOGIN
 </span>
 
 </a>
-<a href="https://cantol.com.pe/ " class="link vc-pill vc-pill--on-light link--default ">
+<a href="https://sapra.co.za/ " class="link vc-pill vc-pill--on-light link--default ">
 <span class='link__content'>
 LANDAKTOTO DAFTAR
 </span>
 
 </a>
-<a href="https://cantol.com.pe/ " class="link vc-pill vc-pill--on-light link--default ">
+<a href="https://sapra.co.za/ " class="link vc-pill vc-pill--on-light link--default ">
 <span class='link__content'>
 LANDAKTOTO LINK
 </span>
 
 </a>
-<a href="https://cantol.com.pe/ " class="link vc-pill vc-pill--on-light link--default ">
+<a href="https://sapra.co.za/ " class="link vc-pill vc-pill--on-light link--default ">
 <span class='link__content'>
 BANDAR SLOT GACOR
 </span>
 
 </a>
-<a href="https://cantol.com.pe/ " class="link vc-pill vc-pill--on-light link--default ">
+<a href="https://sapra.co.za/ " class="link vc-pill vc-pill--on-light link--default ">
 <span class='link__content'>
 SITUS SLOT GACOR
 </span>
 
 </a>
-<a href="https://cantol.com.pe/ " class="link vc-pill vc-pill--on-light link--default ">
+<a href="https://sapra.co.za/ " class="link vc-pill vc-pill--on-light link--default ">
 <span class='link__content'>
 RTP SLOT 5000
 </span>
 </a>
 
-<a href="https://cantol.com.pe/ " class="link vc-pill vc-pill--on-light link--default ">
+<a href="https://sapra.co.za/ " class="link vc-pill vc-pill--on-light link--default ">
 <span class='link__content'>
 RTP SLOT
 </span>
 </a>
 
-<a href="https://cantol.com.pe/ " class="link vc-pill vc-pill--on-light link--default ">
+<a href="https://sapra.co.za/ " class="link vc-pill vc-pill--on-light link--default ">
 <span class='link__content'>
 BANDAR SLOT GACOR
 </span>
 </a>
 
-<a href="https://cantol.com.pe/ " class="link vc-pill vc-pill--on-light link--default ">
+<a href="https://sapra.co.za/ " class="link vc-pill vc-pill--on-light link--default ">
 <span class='link__content'>
 SITUS SLOT GACOR
 </span>
@@ -4963,7 +4963,7 @@ SITUS SLOT GACOR
 </p>
 </div>
 <p class='m-footer__guarantee-link'>
-<a target="_blank " href="https://cantol.com.pe/ " class="link link__cta link__cta--on-dark link--default ">
+<a target="_blank " href="https://sapra.co.za/ " class="link link__cta link__cta--on-dark link--default ">
 <span class='link__content'>
 LANDAKTOTO
 </span>
@@ -4987,25 +4987,25 @@ Contact Us
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Coupon Codes " style="--animation-order: " href="https://cantol.com.pe/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Coupon Codes " style="--animation-order: " href="https://sapra.co.za/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class='link__content'>
 Coupon Codes
 </span>
 
 </a>
-<a data-gtm-footer-link-text="FAQ " style="--animation-order: " href="https://cantol.com.pe/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="FAQ " style="--animation-order: " href="https://sapra.co.za/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class='link__content'>
 FAQ
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Free Shipping " style="--animation-order: " href="https://cantol.com.pe/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Free Shipping " style="--animation-order: " href="https://sapra.co.za/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class='link__content'>
 Free Shipping
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Refunds &amp; Returns " style="--animation-order: " href="https://cantol.com.pe/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Refunds &amp; Returns " style="--animation-order: " href="https://sapra.co.za/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class='link__content'>
 Refunds &amp; Returns
 </span>
@@ -5032,38 +5032,38 @@ About Us
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Accessibility " style="--animation-order: " href="https://cantol.com.pe/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Accessibility " style="--animation-order: " href="https://sapra.co.za/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class='link__content'>
 Accessibility
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Create a Dashery Store " style="--animation-order: " href="https://cantol.com.pe/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Create a Dashery Store " style="--animation-order: " href="https://sapra.co.za/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class='link__content'>
 Create a Dashery Store
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Careers " style="--animation-order: " href="https://cantol.com.pe/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Careers " style="--animation-order: " href="https://sapra.co.za/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class='link__content'>
 Careers
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Hire an Artist " style="--animation-order: " href="https://cantol.com.pe/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Hire an Artist " style="--animation-order: " href="https://sapra.co.za/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class='link__content'>
 Hire an Artist
 </span>
 
 </a>
 
-<a data-gtm-footer-link-text="Social Responsibility " style="--animation-order: " href="https://cantol.com.pe/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Social Responsibility " style="--animation-order: " href="https://sapra.co.za/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class='link__content'>
 Social Responsibility
 </span>
 
 </a>
-<a data-gtm-footer-link-text="TeePublic Reviews " style="--animation-order: " href="https://cantol.com.pe/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="TeePublic Reviews " style="--animation-order: " href="https://sapra.co.za/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class='link__content'>
 TeePublic Reviews
 </span>
@@ -5072,37 +5072,37 @@ TeePublic Reviews
 
 </div></div></div><div class="link-collection m-foot__links-section "><div class="link-collection__body "><h4 class="h__h4 link-collection__header h--no-s ">Explore</h4>
 
-<div class="link-collection__content "><a data-gtm-footer-link-text="All Designs " style="--animation-order: " href="https://cantol.com.pe/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
+<div class="link-collection__content "><a data-gtm-footer-link-text="All Designs " style="--animation-order: " href="https://sapra.co.za/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class='link__content'>
 All Designs
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Content Directory " style="--animation-order: " href="https://cantol.com.pe/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Content Directory " style="--animation-order: " href="https://sapra.co.za/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class='link__content'>
 Content Directory
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Featublue Designers " style="--animation-order: " href="https://cantol.com.pe/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Featublue Designers " style="--animation-order: " href="https://sapra.co.za/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class='link__content'>
 Featublue Artists
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Newest Designers " style="--animation-order: " href="https://cantol.com.pe/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Newest Designers " style="--animation-order: " href="https://sapra.co.za/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class='link__content'>
 Newest Designers
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Newest T-Shirts " style="--animation-order: " href="https://cantol.com.pe/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Newest T-Shirts " style="--animation-order: " href="https://sapra.co.za/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class='link__content'>
 Newest T-Shirts
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Tag Directory " style="--animation-order: " href="https://cantol.com.pe/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Tag Directory " style="--animation-order: " href="https://sapra.co.za/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class='link__content'>
 Tag Directory
 </span>
@@ -5111,7 +5111,7 @@ Tag Directory
 
 </div></div></div><div class="link-collection m-foot__links-section "><div class="link-collection__body "><h4 class="h__h4 link-collection__header h--no-s ">Artists</h4>
 
-<div class="link-collection__content "><a data-gtm-footer-link-text="Create " style="--animation-order: " href="https://cantol.com.pe/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
+<div class="link-collection__content "><a data-gtm-footer-link-text="Create " style="--animation-order: " href="https://sapra.co.za/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class='link__content'>
 Artist Signup
 </span>
@@ -5126,7 +5126,7 @@ Design Guide
 </a>
 
 
-<a data-gtm-footer-link-text="TeePublic Blog " style="--animation-order: " href="https://cantol.com.pe/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="TeePublic Blog " style="--animation-order: " href="https://sapra.co.za/ " class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class='link__content'>
 TeePublic Blog
 </span>
@@ -5364,7 +5364,7 @@ Away from
 <h4>Your Cart is empty...</h4>
 <p>Discover something you'll love!</p>
 <div class='m-tray-cart__body-links'>
-<a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="animals " data-href="https://cantol.com.pe/ " href="https://cantol.com.pe/
+<a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="animals " data-href="https://sapra.co.za/ " href="https://sapra.co.za/
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg xmlns="http://www.w3.org/2000/svg " viewbox="0 0 48 48
                     " width="16 " height="16 " focusable="false " aria-hidden="true "><path fill-rule="evenodd " d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0
                     3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z " clip-rule="evenodd "></path></svg></span>
@@ -5409,7 +5409,7 @@ food
 
 </span>
 
-</a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="funny " data-href="https://cantol.com.pe/ " href="https://cantol.com.pe/
+</a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="funny " data-href="https://sapra.co.za/ " href="https://sapra.co.za/
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg xmlns="http://www.w3.org/2000/svg " viewbox="0 0 48 48
                     " width="16 " height="16 " focusable="false " aria-hidden="true "><path fill-rule="evenodd " d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0
                     3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z " clip-rule="evenodd "></path></svg></span>
@@ -5418,7 +5418,7 @@ funny
 
 </span>
 
-</a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="movies " data-href="https://cantol.com.pe/ " href="https://cantol.com.pe/
+</a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="movies " data-href="https://sapra.co.za/ " href="https://sapra.co.za/
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg xmlns="http://www.w3.org/2000/svg " viewbox="0 0 48 48
                     " width="16 " height="16 " focusable="false " aria-hidden="true "><path fill-rule="evenodd " d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0
                     3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z " clip-rule="evenodd "></path></svg></span>
@@ -5436,7 +5436,7 @@ sci-fi
 
 </span>
 
-</a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="sports " data-href="https://cantol.com.pe/ " href="https://cantol.com.pe/
+</a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="sports " data-href="https://sapra.co.za/ " href="https://sapra.co.za/
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg xmlns="http://www.w3.org/2000/svg " viewbox="0 0 48 48
                     " width="16 " height="16 " focusable="false " aria-hidden="true "><path fill-rule="evenodd " d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0
                     3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z " clip-rule="evenodd "></path></svg></span>
@@ -5445,7 +5445,7 @@ sports
 
 </span>
 
-</a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="television " data-href="https://cantol.com.pe/ " href="https://cantol.com.pe/
+</a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="television " data-href="https://sapra.co.za/ " href="https://sapra.co.za/
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg xmlns="http://www.w3.org/2000/svg " viewbox="0 0 48 48
                     " width="16 " height="16 " focusable="false " aria-hidden="true "><path fill-rule="evenodd " d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0
                     3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z " clip-rule="evenodd "></path></svg></span>
@@ -5454,7 +5454,7 @@ television
 
 </span>
 
-</a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="vintage " data-href="https://cantol.com.pe/ " href="https://cantol.com.pe/
+</a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="vintage " data-href="https://sapra.co.za/ " href="https://sapra.co.za/
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg xmlns="http://www.w3.org/2000/svg " viewbox="0 0 48 48
                     " width="16 " height="16 " focusable="false " aria-hidden="true "><path fill-rule="evenodd " d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0
                     3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z " clip-rule="evenodd "></path></svg></span>
