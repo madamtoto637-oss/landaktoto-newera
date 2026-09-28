@@ -1951,7 +1951,7 @@ a:hover {
                     <div class="item-bookmarking__left-icons__wrapper" bis_skin_checked="1">
                         <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader"><li class="item-bookmarking__control_icons--favorite">
                                 <span>
-                                                    <a title="Add to Favorites" data-view="modalAjax"
+                                                    <a title="Add to Favorites" data-view="modalAjax"1
                                                         href="https://editions-hispaniques.com/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a></span>
