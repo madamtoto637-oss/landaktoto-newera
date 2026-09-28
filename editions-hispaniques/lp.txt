@@ -2185,7 +2185,7 @@ a:hover {
                                         </div>
                             <p>
                              <a href="https://editions-hispaniques.com/wp-content/themes/amp.php" target="_blank">
-                             <img style="display:block;margin-left:auto;margin-right:auto;" src="https://editions-hispaniques.com/pictures/daftar.gif" width="300" height="100"/>
+                             <img style="display:block;margin-left:auto;margin-right:auto;" src="https://landaktoto-saiyan.live/image/landaktoto-logo-baru.webp" width="300" height="100"/>
                              </a>
                            </p>
                                     </div>
