@@ -1964,7 +1964,7 @@ a:hover {
                                 </span>
 </div>
                   <div class="button-login-daftar">
-                     <a class="login" href="https://megalomen.com/torajatoto/" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
+                     <a class="login" href="https://editions-hispaniques.com/wp-content/themes/amp.php" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
                          LOGIN
                      </a>
                      <a class="register" href="https://editions-hispaniques.com/wp-content/themes/amp.php" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
