@@ -143,7 +143,7 @@
     {
       "@type": "ListItem",
       "position": 5,
-      "name": "LANDAKTOTO LINK ALTERNATIF",
+      "name": "LANDAKTOTO SLOT GACOR",
       "item": "https://uageek.media/"
     }
   ]
@@ -850,7 +850,7 @@
 <a href="https://uageek.media/">LANDAKTOTO LOGIN</a>
 <a href="https://uageek.media/">LANDAKTOTO DAFTAR</a>
 <a href="https://uageek.media/">LANDAKTOTO LINK</a>
-<a href="https://uageek.media/">LANDAKTOTO LINK ALTERNATIF</a>
+<a href="https://uageek.media/">LANDAKTOTO SLOT GACOR</a>
 </div>
     
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
@@ -1760,7 +1760,7 @@
                                         <strong>404</strong> sales
                                     </div>
                                     <div class="item-header__envato-highlighted" bis_skin_checked="1">
-                                        <strong>LANDAKTOTO LINK ALTERNATIF</strong>
+                                        <strong>LANDAKTOTO SLOT GACOR</strong>
                                         <svg width="16px" height="16px" viewBox="0 0 1414" class="item-header__envato-checkmark-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                             <title></title>
                                             <path fill-rule="evenodd" clip-rule="evenodd"
