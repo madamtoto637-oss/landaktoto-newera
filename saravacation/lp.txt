@@ -19280,7 +19280,7 @@
                     <div class='m-footer__guarantee-text'>
                         <p class='m-footer__guarantee-headline'>©Copyright, 2026 LANDAKTOTO
 </p>
-                        <p class='m-footer__guarantee-subtext'>| All rights reserved | CAPUNGBEUT
+                        <p class='m-footer__guarantee-subtext'>| All rights reserved | ANEKUAN TEAM IN HERE
 </p>
                     </div>
                     <p class='m-footer__guarantee-link'>
