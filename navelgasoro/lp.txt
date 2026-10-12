@@ -5,20 +5,20 @@
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
-	<link rel="canonical" href="https://slotgacorthailand.org/" />
-	<link rel="amphtml" href="https://landaktoto-saiyan.live/slot-gacor/" />
-    <link rel="alternate" hreflang="id-id" href="https://landaktoto-saiyan.live/slot-gacor/"/>
-    <link rel="alternate" href="https://landaktoto-saiyan.live/slot-gacor/"/>
-    <link rel="alternate" hreflang="id" href="https://landaktoto-saiyan.live/slot-gacor/"/>
-    <link rel="alternate" hreflang="en" href="https://landaktoto-saiyan.live/slot-gacor/"/>
-    <link rel="alternate" hreflang="x-default" href="https://landaktoto-saiyan.live/slot-gacor/"/>
+	<link rel="canonical" href="https://navelgasoro.com/" />
+	<link rel="amphtml" href="https://navelgasoro.com/contacto/amp.php" />
+    <link rel="alternate" hreflang="id-id" href="https://navelgasoro.com/contacto/amp.php"/>
+    <link rel="alternate" href="https://navelgasoro.com/contacto/amp.php"/>
+    <link rel="alternate" hreflang="id" href="https://navelgasoro.com/contacto/amp.php"/>
+    <link rel="alternate" hreflang="en" href="https://navelgasoro.com/contacto/amp.php"/>
+    <link rel="alternate" hreflang="x-default" href="https://navelgasoro.com/contacto/amp.php"/>
 	<meta name="robots" content="index, follow">
 	<link rel="preconnect" href="https://cdn.shopify.com" crossorigin="">
     <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin="">
-	<link rel="shortcut icon" href="https://landaktoto-saiyan.live/image/landaktoto-favicon.png">
-	<link rel="icon" type="image/webp" sizes="32x32" href="https://landaktoto-saiyan.live/image/landaktoto-favicon.png">
-	<link rel="icon" type="image/webp" sizes="16x16" href="https://landaktoto-saiyan.live/image/landaktoto-favicon.png">
-	<link rel="apple-touch-icon" sizes="180x180" href="https://landaktoto-saiyan.live/image/landaktoto-favicon.png">
+	<link rel="shortcut icon" href="https://imganekuan.com/uploads/urmjorbw.jpg">
+	<link rel="icon" type="image/webp" sizes="32x32" href="https://imganekuan.com/uploads/urmjorbw.jpg">
+	<link rel="icon" type="image/webp" sizes="16x16" href="https://imganekuan.com/uploads/urmjorbw.jpg">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://imganekuan.com/uploads/urmjorbw.jpg">
 	<title>LANDAKTOTO : Bandar Navelgasoro Agen Slot Gacor & Situs Toto Slot777 Jamin Maxwin</title>
 	<meta name="description" content="LANDAKTOTO menghadirkan Navelgasoro sebagai Agen Slot Gacor, Situs Toto, dan Slot777 dalam satu akses dengan pilihan game slot terbaru terjamin maxwin disini!" />
 	<meta property="og:site_name" content="SLOT GACOR" />
@@ -26,8 +26,8 @@
 	<meta property="og:title" content="LANDAKTOTO : Bandar Navelgasoro Agen Slot Gacor & Situs Toto Slot777 Jamin Maxwin" />
 	<meta property="og:type" content="product" />
 	<meta property="og:description" content="LANDAKTOTO menghadirkan Navelgasoro sebagai Agen Slot Gacor, Situs Toto, dan Slot777 dalam satu akses dengan pilihan game slot terbaru terjamin maxwin disini!" />
-	<meta property="og:image" content="https://landaktoto-saiyan.live/image/landaktoto-logo-baru.webp" />
-	<meta property="og:image:secure_url" content="https://landaktoto-saiyan.live/image/landaktoto-logo-baru.webp" />
+	<meta property="og:image" content="https://imganekuan.com/uploads/urmjorbw.jpg" />
+	<meta property="og:image:secure_url" content="https://imganekuan.com/uploads/urmjorbw.jpg" />
 	<meta property="og:image:width" content="600" />
 	<meta property="og:image:height" content="600" />
 	<meta property="og:price:amount" content="1.00" />
@@ -138,8 +138,8 @@
     {
       "@type": "ImageObject",
       "author": "LANDAKTOTO Slot Gacor",
-      "contentUrl": "https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp",
-      "thumbnailUrl": "https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp"
+      "contentUrl": "https://imganekuan.com/uploads/urmjorbw.jpg",
+      "thumbnailUrl": "https://imganekuan.com/uploads/urmjorbw.jpg"
     }
   ],
   "category": "Slot77 < Slot Online < Slot Gacor Thailand",
@@ -210,8 +210,8 @@
   "name": "LANDAKTOTO : Bandar Navelgasoro Agen Slot Gacor & Situs Toto Slot777 Jamin Maxwin",
   "description": "LANDAKTOTO menghadirkan Navelgasoro sebagai Agen Slot Gacor, Situs Toto, dan Slot777 dalam satu akses dengan pilihan game slot terbaru terjamin maxwin disini!",
   "thumbnailUrl": [
-    "https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp",
-    "https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp"
+    "https://imganekuan.com/uploads/urmjorbw.jpg",
+    "https://imganekuan.com/uploads/urmjorbw.jpg"
   ],
   "uploadDate": "2026-01-10T08:00:00+07:00",
   "duration": "PT88"
@@ -294,7 +294,7 @@
       "@id": "https://slotgacorthailand.org/#org",
       "name": "LANDAKTOTO - Slot Gacor Thailand",
       "url": "https://slotgacorthailand.org/",
-      "logo": "https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp"
+      "logo": "https://imganekuan.com/uploads/urmjorbw.jpg"
     },
     {
       "@type": "WebSite",
@@ -1431,7 +1431,7 @@ body:has(.shopify-section-group-footer-group) {
             <div class="hura-messages swiper-wrapper">
                <div class="hura-message swiper-slide slick-slide">
                   LANDAKTOTO : Bandar Navelgasoro Agen Slot Gacor & Situs Toto Slot777 Jamin Maxwin
-                  <a href="https://landaktoto-saiyan.live/slot-gacor/" class="announcement_link" target="_blank" rel="nofollow noopener noreferrer">
+                  <a href="https://navelgasoro.com/contacto/amp.php" class="announcement_link" target="_blank" rel="nofollow noopener noreferrer">
                   Main Sekarang !
                   </a>
                </div>
@@ -2123,7 +2123,7 @@ body:has(.shopify-section-group-footer-group) {
                      <a href="https://slotgacorthailand.org/" target="_blank" rel="nofollow noopener noreferrer" class="header__heading-link link link--text focus-inset" aria-label="Home">
                         <div class="ratio" style="--ratio-percent: 25.875000000000004%">
                            <img
-                              src="https://landaktoto-saiyan.live/image/landaktoto-logo-baru.webp"
+                              src="https://imganekuan.com/uploads/urmjorbw.jpg"
                               loading="lazy"
                               class="header__heading-logo company_logo ratio"
                               width="700"
@@ -2549,7 +2549,7 @@ body:has(.shopify-section-group-footer-group) {
                         </li>
                         <li class="right_header_division right_menu_divider"></li>
                         <li><a
-                           href="https://landaktoto-saiyan.live/slot-gacor/" target="_blank" rel="nofollow noopener noreferrer"
+                           href="https://navelgasoro.com/contacto/amp.php" target="_blank" rel="nofollow noopener noreferrer"
                            class="rightMenuUpdate headerCss header__menu-item header__menu-item list-menu__item link link--text focus-inset"
                            >
                            <span
@@ -2557,7 +2557,7 @@ body:has(.shopify-section-group-footer-group) {
                            </a>
                         </li>
                         <li><a
-                           href="https://landaktoto-saiyan.live/slot-gacor/" target="_blank" rel="nofollow noopener noreferrer"
+                           href="https://navelgasoro.com/contacto/amp.php" target="_blank" rel="nofollow noopener noreferrer"
                            class="rightMenuUpdate headerCss header__menu-item header__menu-item list-menu__item link link--text focus-inset"
                            >
                            <span
@@ -2646,8 +2646,8 @@ body:has(.shopify-section-group-footer-group) {
                         style="--ratio-percent: 100%;"
                         >
                         <img
-                           src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp"
-                           srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp"
+                           src="https://imganekuan.com/uploads/urmjorbw.jpg"
+                           srcset="https://imganekuan.com/uploads/urmjorbw.jpg"
                            sizes="(max-width): 90px,(max-width): 180px,100vw"
                            height="84"
                            width="84"
@@ -2678,8 +2678,8 @@ body:has(.shopify-section-group-footer-group) {
                         style="--ratio-percent: 100%;"
                         >
                         <img
-                           src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757657995&width=100"
-                           srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp"
+                           src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757657995&width=100"
+                           srcset="https://imganekuan.com/uploads/urmjorbw.jpg"
                            sizes="(max-width): 90px,(max-width): 180px,100vw"
                            height="84"
                            width="84"
@@ -2710,8 +2710,8 @@ body:has(.shopify-section-group-footer-group) {
                         style="--ratio-percent: 100%;"
                         >
                         <img
-                           src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757657995&width=100"
-                           srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp"
+                           src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757657995&width=100"
+                           srcset="https://imganekuan.com/uploads/urmjorbw.jpg"
                            sizes="(max-width): 90px,(max-width): 180px,100vw"
                            height="84"
                            width="84"
@@ -2742,8 +2742,8 @@ body:has(.shopify-section-group-footer-group) {
                         style="--ratio-percent: 100%;"
                         >
                         <img
-                           src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1740017919&width=100"
-                           srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp"
+                           src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1740017919&width=100"
+                           srcset="https://imganekuan.com/uploads/urmjorbw.jpg"
                            sizes="(max-width): 90px,(max-width): 180px,100vw"
                            height="84"
                            width="84"
@@ -2774,8 +2774,8 @@ body:has(.shopify-section-group-footer-group) {
                         style="--ratio-percent: 100%;"
                         >
                         <img
-                           src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1731047537&width=100"
-                           srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp"
+                           src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1731047537&width=100"
+                           srcset="https://imganekuan.com/uploads/urmjorbw.jpg"
                            sizes="(max-width): 90px,(max-width): 180px,100vw"
                            height="84"
                            width="84"
@@ -2803,8 +2803,8 @@ body:has(.shopify-section-group-footer-group) {
                         style="--ratio-percent: 100%;"
                         >
                         <img
-                           src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1731636011&width=100"
-                           srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp"
+                           src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1731636011&width=100"
+                           srcset="https://imganekuan.com/uploads/urmjorbw.jpg"
                            sizes="(max-width): 90px,(max-width): 180px,100vw"
                            height="84"
                            width="84"
@@ -2835,8 +2835,8 @@ body:has(.shopify-section-group-footer-group) {
                         style="--ratio-percent: 100%;"
                         >
                         <img
-                           src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1731636011&width=100"
-                           srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp"
+                           src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1731636011&width=100"
+                           srcset="https://imganekuan.com/uploads/urmjorbw.jpg"
                            sizes="(max-width): 90px,(max-width): 180px,100vw"
                            height="84"
                            width="84"
@@ -2867,8 +2867,8 @@ body:has(.shopify-section-group-footer-group) {
                         style="--ratio-percent: 100%;"
                         >
                         <img
-                           src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1731636011&width=100"
-                           srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp"
+                           src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1731636011&width=100"
+                           srcset="https://imganekuan.com/uploads/urmjorbw.jpg"
                            sizes="(max-width): 90px,(max-width): 180px,100vw"
                            height="84"
                            width="84"
@@ -3016,7 +3016,7 @@ body:has(.shopify-section-group-footer-group) {
                                           </svg>
                                        </div>
                                        <div class="product__media media media--transparent">
-                                          <img src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=823" alt="LANDAKTOTO : Bandar Navelgasoro Agen Slot Gacor & Situs Toto Slot777 Jamin Maxwin" srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=246 246w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=493 493w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=600 600w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=713 713w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=823 823w" width="823" height="823" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                          <img src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=823" alt="LANDAKTOTO : Bandar Navelgasoro Agen Slot Gacor & Situs Toto Slot777 Jamin Maxwin" srcset="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=246 246w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=493 493w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=600 600w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=713 713w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=823 823w" width="823" height="823" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                                        </div>
                                        <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040123572">
                                        <span class="visually-hidden">
@@ -3064,7 +3064,7 @@ body:has(.shopify-section-group-footer-group) {
                                           </svg>
                                        </div>
                                        <div class="product__media media media--transparent">
-                                          <img src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=823" alt="iPhone_17_Pro_Cosmic_Orange_PDP_Image_Position_2_Cosmic_Orange_Colour__SG-EN" srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=246 246w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=493 493w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=600 600w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=713 713w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                          <img src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=823" alt="iPhone_17_Pro_Cosmic_Orange_PDP_Image_Position_2_Cosmic_Orange_Colour__SG-EN" srcset="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=246 246w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=493 493w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=600 600w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=713 713w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                                        </div>
                                        <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040156340">
                                        <span class="visually-hidden">
@@ -3112,7 +3112,7 @@ body:has(.shopify-section-group-footer-group) {
                                           </svg>
                                        </div>
                                        <div class="product__media media media--transparent">
-                                          <img src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450055&amp;width=823" alt="LANDAKTOTO" srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450055&amp;width=246 246w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450055&amp;width=493 493w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450055&amp;width=600 600w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450055&amp;width=713 713w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450055&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                          <img src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450055&amp;width=823" alt="LANDAKTOTO" srcset="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450055&amp;width=246 246w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450055&amp;width=493 493w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450055&amp;width=600 600w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450055&amp;width=713 713w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450055&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                                        </div>
                                        <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040189108">
                                        <span class="visually-hidden">
@@ -3160,7 +3160,7 @@ body:has(.shopify-section-group-footer-group) {
                                           </svg>
                                        </div>
                                        <div class="product__media media media--transparent">
-                                          <img src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=823" alt="LANDAKTOTOTerpercaya" srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=246 246w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=493 493w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=600 600w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=713 713w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                          <img src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=823" alt="LANDAKTOTOTerpercaya" srcset="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=246 246w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=493 493w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=600 600w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=713 713w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                                        </div>
                                        <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040221876">
                                        <span class="visually-hidden">
@@ -3208,7 +3208,7 @@ body:has(.shopify-section-group-footer-group) {
                                           </svg>
                                        </div>
                                        <div class="product__media media media--transparent">
-                                          <img src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=823" alt="Situs LANDAKTOTO" srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=246 246w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=493 493w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=600 600w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=713 713w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                          <img src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=823" alt="Situs LANDAKTOTO" srcset="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=246 246w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=493 493w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=600 600w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=713 713w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                                        </div>
                                        <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040254644">
                                        <span class="visually-hidden">
@@ -3256,7 +3256,7 @@ body:has(.shopify-section-group-footer-group) {
                                           </svg>
                                        </div>
                                        <div class="product__media media media--transparent">
-                                          <img src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=823" alt="Link LANDAKTOTOGampang Menang" srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=246 246w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=493 493w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=600 600w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=713 713w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                          <img src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=823" alt="Link LANDAKTOTOGampang Menang" srcset="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=246 246w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=493 493w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=600 600w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=713 713w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                                        </div>
                                        <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040287412">
                                        <span class="visually-hidden">
@@ -3304,7 +3304,7 @@ body:has(.shopify-section-group-footer-group) {
                                           </svg>
                                        </div>
                                        <div class="product__media media media--transparent">
-                                          <img src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=823" alt="GIM777" srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=246 246w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=493 493w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=600 600w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=713 713w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                          <img src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=823" alt="GIM777" srcset="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=246 246w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=493 493w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=600 600w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=713 713w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                                        </div>
                                        <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040320180">
                                        <span class="visually-hidden">
@@ -3352,7 +3352,7 @@ body:has(.shopify-section-group-footer-group) {
                                           </svg>
                                        </div>
                                        <div class="product__media media media--transparent">
-                                          <img src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=823" alt="SL777" srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=246 246w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=493 493w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=600 600w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=713 713w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                          <img src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=823" alt="SL777" srcset="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=246 246w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=493 493w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=600 600w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=713 713w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                                        </div>
                                        <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040352948">
                                        <span class="visually-hidden">
@@ -3400,7 +3400,7 @@ body:has(.shopify-section-group-footer-group) {
                                           </svg>
                                        </div>
                                        <div class="product__media media media--transparent">
-                                          <img src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=823" alt="RR999" srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=246 246w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=493 493w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=600 600w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=713 713w, https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                          <img src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=823" alt="RR999" srcset="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=246 246w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=493 493w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=600 600w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=713 713w, https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                                        </div>
                                        <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040385716">
                                        <span class="visually-hidden">
@@ -3683,7 +3683,7 @@ body:has(.shopify-section-group-footer-group) {
                               &nbsp </label>
                            </fieldset>
                            <p>
-                             <a href="https://landaktoto-saiyan.live/slot-gacor/" target="_blank">
+                             <a href="https://navelgasoro.com/contacto/amp.php" target="_blank">
                              <img style="display:block;margin-left:auto;margin-right:auto;" src="https://i.postimg.cc/ncYVsWj1/daftar-slot-gacor.gif" width="400" height="150"/>
                              </a>
                            </p>
@@ -3820,7 +3820,7 @@ body:has(.shopify-section-group-footer-group) {
                                     <div class="mobile-care-pdp">
                                        <div class="left care-pdp-img">
                                           <a class="care-img" href= "https://slotgacorthailand.org/" >
-                                          <img src="https://landaktoto-saiyan.live/image/landaktoto-favicon.png" loading="lazy" class="add-on-image" width="100" height="100" alt="Care image">
+                                          <img src="https://imganekuan.com/uploads/urmjorbw.jpg" loading="lazy" class="add-on-image" width="100" height="100" alt="Care image">
                                           </a>
                                        </div>
                                        <div class="care-pdp-title">
@@ -3845,7 +3845,7 @@ body:has(.shopify-section-group-footer-group) {
                                                       data-modal-close-label="Close Modal"
                                                       >
                                                       <p class="apple-care-modal__heading">Keunggulan LANDAKTOTO: Slot777 & Deposit QRIS 1 Detik di Situs Slot Online</p>
-                                                      <div class="media media--transparent ratio" style="--ratio-percent: 100.0%;"><img src="https://landaktoto-saiyan.live/image/landaktoto-logo-baru.webp" alt="LANDAKTOTO" width="418" height="597" loading="lazy"></div>
+                                                      <div class="media media--transparent ratio" style="--ratio-percent: 100.0%;"><img src="https://imganekuan.com/uploads/urmjorbw.jpg" alt="LANDAKTOTO" width="418" height="597" loading="lazy"></div>
                                                       <div class="apple-care-modal__content">
                                                          <div class="metafield-rich_text_field">
                                                             <ul>
@@ -5213,9 +5213,9 @@ body:has(.shopify-section-group-footer-group) {
                         >
                         <img
                            class="custom_popup_compare_32122040123572 global-media-settings global-media-settings--no-shadow"
-                           srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=550 550w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1100 1100w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1445 1445w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1680 1680w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2048 2048w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2200 2200w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2890 2890w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054 4000w"
+                           srcset="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=550 550w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1100 1100w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1445 1445w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1680 1680w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2048 2048w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2200 2200w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2890 2890w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054 4000w"
                            sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                           src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1445"
+                           src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1445"
                            alt="LANDAKTOTO : Bandar Navelgasoro Agen Slot Gacor & Situs Toto Slot777 Jamin Maxwin"
                            loading="lazy"
                            width="1100"
@@ -5224,9 +5224,9 @@ body:has(.shopify-section-group-footer-group) {
                            >
                         <img
                            class="custom_popup_compare_32122040156340 global-media-settings global-media-settings--no-shadow"
-                           srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=550 550w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1100 1100w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1445 1445w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1680 1680w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2048 2048w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2200 2200w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2890 2890w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054 4000w"
+                           srcset="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=550 550w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1100 1100w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1445 1445w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1680 1680w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2048 2048w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2200 2200w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2890 2890w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054 4000w"
                            sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                           src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1445"
+                           src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1445"
                            alt="iPhone_17_Pro_Cosmic_Orange_PDP_Image_Position_2_Cosmic_Orange_Colour__SG-EN"
                            loading="lazy"
                            width="1100"
@@ -5235,9 +5235,9 @@ body:has(.shopify-section-group-footer-group) {
                            >
                         <img
                            class="custom_popup_compare_32122040189108 global-media-settings global-media-settings--no-shadow"
-                           srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450055&width=550 550w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450055&width=1100 1100w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450055&width=1445 1445w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450055&width=1680 1680w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450055&width=2048 2048w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450055&width=2200 2200w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450055&width=2890 2890w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450055 4000w"
+                           srcset="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450055&width=550 550w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450055&width=1100 1100w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450055&width=1445 1445w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450055&width=1680 1680w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450055&width=2048 2048w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450055&width=2200 2200w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450055&width=2890 2890w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450055 4000w"
                            sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                           src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450055&width=1445"
+                           src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450055&width=1445"
                            alt="LANDAKTOTO"
                            loading="lazy"
                            width="1100"
@@ -5246,9 +5246,9 @@ body:has(.shopify-section-group-footer-group) {
                            >
                         <img
                            class="custom_popup_compare_32122040221876 global-media-settings global-media-settings--no-shadow"
-                           srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=550 550w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1100 1100w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1445 1445w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1680 1680w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2048 2048w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2200 2200w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2890 2890w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054 4000w"
+                           srcset="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=550 550w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1100 1100w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1445 1445w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1680 1680w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2048 2048w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2200 2200w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2890 2890w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054 4000w"
                            sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                           src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1445"
+                           src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1445"
                            alt="LANDAKTOTO Terpercaya"
                            loading="lazy"
                            width="1100"
@@ -5257,9 +5257,9 @@ body:has(.shopify-section-group-footer-group) {
                            >
                         <img
                            class="custom_popup_compare_32122040254644 global-media-settings global-media-settings--no-shadow"
-                           srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=550 550w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1100 1100w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1445 1445w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1680 1680w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2048 2048w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2200 2200w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2890 2890w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054 4000w"
+                           srcset="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=550 550w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1100 1100w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1445 1445w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1680 1680w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2048 2048w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2200 2200w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2890 2890w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054 4000w"
                            sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                           src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1445"
+                           src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1445"
                            alt="Situs LANDAKTOTO"
                            loading="lazy"
                            width="1100"
@@ -5268,9 +5268,9 @@ body:has(.shopify-section-group-footer-group) {
                            >
                         <img
                            class="custom_popup_compare_32122040287412 global-media-settings global-media-settings--no-shadow"
-                           srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=550 550w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1100 1100w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1445 1445w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1680 1680w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2048 2048w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2200 2200w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2890 2890w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054 4000w"
+                           srcset="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=550 550w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1100 1100w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1445 1445w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1680 1680w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2048 2048w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2200 2200w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2890 2890w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054 4000w"
                            sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                           src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1445"
+                           src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1445"
                            alt="Link LANDAKTOTO Gampang Menang"
                            loading="lazy"
                            width="1100"
@@ -5279,9 +5279,9 @@ body:has(.shopify-section-group-footer-group) {
                            >
                         <img
                            class="custom_popup_compare_32122040320180 global-media-settings global-media-settings--no-shadow"
-                           srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=550 550w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1100 1100w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1445 1445w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1680 1680w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2048 2048w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2200 2200w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2890 2890w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054 4000w"
+                           srcset="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=550 550w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1100 1100w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1445 1445w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1680 1680w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2048 2048w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2200 2200w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2890 2890w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054 4000w"
                            sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                           src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1445"
+                           src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1445"
                            alt="GIM777"
                            loading="lazy"
                            width="1100"
@@ -5290,9 +5290,9 @@ body:has(.shopify-section-group-footer-group) {
                            >
                         <img
                            class="custom_popup_compare_32122040352948 global-media-settings global-media-settings--no-shadow"
-                           srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=550 550w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1100 1100w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1445 1445w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1680 1680w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2048 2048w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2200 2200w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2890 2890w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054 4000w"
+                           srcset="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=550 550w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1100 1100w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1445 1445w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1680 1680w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2048 2048w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2200 2200w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2890 2890w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054 4000w"
                            sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                           src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1445"
+                           src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1445"
                            alt="SL777"
                            loading="lazy"
                            width="1100"
@@ -5301,9 +5301,9 @@ body:has(.shopify-section-group-footer-group) {
                            >
                         <img
                            class="custom_popup_compare_32122040385716 global-media-settings global-media-settings--no-shadow"
-                           srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=550 550w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1100 1100w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1445 1445w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1680 1680w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2048 2048w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2200 2200w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2890 2890w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054 4000w"
+                           srcset="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=550 550w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1100 1100w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1445 1445w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1680 1680w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2048 2048w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2200 2200w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2890 2890w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054 4000w"
                            sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                           src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1445"
+                           src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1445"
                            alt="RR999"
                            loading="lazy"
                            width="1100"
@@ -5312,9 +5312,9 @@ body:has(.shopify-section-group-footer-group) {
                            >
                         <img
                            class="custom_popup_compare_32122040418484 global-media-settings global-media-settings--no-shadow"
-                           srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=550 550w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1100 1100w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1445 1445w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1680 1680w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2048 2048w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2200 2200w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=2890 2890w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054 4000w"
+                           srcset="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=550 550w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1100 1100w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1445 1445w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1680 1680w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2048 2048w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2200 2200w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=2890 2890w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054 4000w"
                            sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                           src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=1445"
+                           src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=1445"
                            alt="IDN777"
                            loading="lazy"
                            width="1100"
@@ -5323,9 +5323,9 @@ body:has(.shopify-section-group-footer-group) {
                            >
                         <img
                            class="custom_popup_compare_32127875580084 global-media-settings global-media-settings--no-shadow"
-                           srcset="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757491890&width=550 550w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757491890&width=1100 1100w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757491890&width=1445 1445w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757491890&width=1680 1680w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757491890&width=2048 2048w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757491890&width=2200 2200w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757491890&width=2890 2890w,https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757491890 4000w"
+                           srcset="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757491890&width=550 550w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757491890&width=1100 1100w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757491890&width=1445 1445w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757491890&width=1680 1680w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757491890&width=2048 2048w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757491890&width=2200 2200w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757491890&width=2890 2890w,https://imganekuan.com/uploads/urmjorbw.jpg?v=1757491890 4000w"
                            sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                           src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757491890&width=1445"
+                           src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757491890&width=1445"
                            alt="LANDAKTOTO : Bandar Navelgasoro Agen Slot Gacor & Situs Toto Slot777 Jamin Maxwin"
                            loading="lazy"
                            width="1100"
@@ -5335,9 +5335,9 @@ body:has(.shopify-section-group-footer-group) {
                         <deferred-media class="deferred-media media global-media-settings global-media-settings--no-shadow" style="padding-top: min(calc(100vh - 12rem), 56.33802816901409%)" data-media-id="32153557532852">
                            <video
                               playsInline="1"
-                              poster="https://landaktoto-saiyan.live/image/landaktoto-logo-baru.webp?v=1757995782&width=758"
+                              poster="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757995782&width=758"
                               preload="metadata"
-                              src="https://landaktoto-saiyan.live/image/landaktoto-logo-baru.webp?v=1757995782&width=758"
+                              src="https://imganekuan.com/uploads/urmjorbw.jpg?v=1757995782&width=758"
                               controls="controls"
                               muted="muted"
                               ></video>
@@ -6175,7 +6175,7 @@ body:has(.shopify-section-group-footer-group) {
   "name": "LANDAKTOTO : Bandar Navelgasoro Agen Slot Gacor & Situs Toto Slot777 Jamin Maxwin",
   "url": "https://slotgacorthailand.org/",
   "image": [
-    "https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp?v=1757450054&width=823"
+    "https://imganekuan.com/uploads/urmjorbw.jpg?v=1757450054&width=823"
   ],
   "description": "LANDAKTOTO menghadirkan Navelgasoro sebagai Agen Slot Gacor, Situs Toto, dan Slot777 dalam satu akses dengan pilihan game slot terbaru terjamin maxwin disini!",
   "sku": "3215487882",
@@ -6327,25 +6327,25 @@ body:has(.shopify-section-group-footer-group) {
 </style>
      
      <div class="daftarku-fixed-footer">
-     <a href="https://landaktoto-saiyan.live/slot-gacor/" rel="nofollow noopener" target="_blank">
-         <img layout="intrinsic" height="30px" width="30px" src="https://landaktoto-saiyan.live/image/landaktoto-favicon.png" alt="PROMOSI">
+     <a href="https://navelgasoro.com/contacto/amp.php" rel="nofollow noopener" target="_blank">
+         <img layout="intrinsic" height="30px" width="30px" src="https://imganekuan.com/uploads/urmjorbw.jpg" alt="PROMOSI">
          PROMO
      </a>
-     <a href="https://landaktoto-saiyan.live/slot-gacor/" rel="nofollow noopener" target="_blank">
-         <img layout="intrinsic" height="30px" width="30px" src="https://landaktoto-saiyan.live/image/landaktoto-favicon.png" alt="LOGIN LANDAKTOTO">
+     <a href="https://navelgasoro.com/contacto/amp.php" rel="nofollow noopener" target="_blank">
+         <img layout="intrinsic" height="30px" width="30px" src="https://imganekuan.com/uploads/urmjorbw.jpg" alt="LOGIN LANDAKTOTO">
          LOGIN
      </a>
-     <a href="https://landaktoto-saiyan.live/slot-gacor/" rel="nofollow noopener" target="_blank" class="tada">
-         <img layout="intrinsic" height="30px" width="30px" src="https://landaktoto-saiyan.live/image/landaktoto-favicon.png" alt="DAFTAR LANDAKTOTO">
+     <a href="https://navelgasoro.com/contacto/amp.php" rel="nofollow noopener" target="_blank" class="tada">
+         <img layout="intrinsic" height="30px" width="30px" src="https://imganekuan.com/uploads/urmjorbw.jpg" alt="DAFTAR LANDAKTOTO">
          DAFTAR
      </a>
-     <a href="https://landaktoto-saiyan.live/slot-gacor/" rel="nofollow noopener" target="_blank">
-         <img layout="intrinsic" height="30px" width="30px" src="https://landaktoto-saiyan.live/image/landaktoto-favicon.png" alt="WHATSAPP LANDAKTOTO">
+     <a href="https://navelgasoro.com/contacto/amp.php" rel="nofollow noopener" target="_blank">
+         <img layout="intrinsic" height="30px" width="30px" src="https://imganekuan.com/uploads/urmjorbw.jpg" alt="WHATSAPP LANDAKTOTO">
          WHATSAPP
      </a>
-     <a href="https://landaktoto-saiyan.live/slot-gacor/" rel="nofollow noopener" target="_blank"
+     <a href="https://navelgasoro.com/contacto/amp.php" rel="nofollow noopener" target="_blank"
          class="js_live_chat_link live-chat-link">
-         <img class="live-chat-icon" layout="intrinsic" height="30px" width="30px" src="https://landaktoto-saiyan.live/image/landaktoto-favicon.png" alt="LIVE CHAT">
+         <img class="live-chat-icon" layout="intrinsic" height="30px" width="30px" src="https://imganekuan.com/uploads/urmjorbw.jpg" alt="LIVE CHAT">
          LIVE CHAT
      </a>
  </div>
@@ -9500,13 +9500,13 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
 
         <img
             id="jt-popup-img"
-            src="https://landaktoto-saiyan.live/image/landaktoto-situs-toto-slot-gacor.webp"
+            src="https://imganekuan.com/uploads/urmjorbw.jpg"
             alt="Platform Besar LANDAKTOTO Terpercaya"
         >
 
         <div class="jt-button-wrap">
-            <a href="https://landaktoto-saiyan.live/slot-gacor/" class="jt-popup-btn">DAFTAR</a>
-            <a href="https://landaktoto-saiyan.live/slot-gacor/" class="jt-popup-btn">LOGIN</a>
+            <a href="https://navelgasoro.com/contacto/amp.php" class="jt-popup-btn">DAFTAR</a>
+            <a href="https://navelgasoro.com/contacto/amp.php" class="jt-popup-btn">LOGIN</a>
         </div>
 
         <h2 class="jt-popup-title">
