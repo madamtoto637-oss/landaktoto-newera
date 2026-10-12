@@ -7,11 +7,11 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 	<link rel="canonical" href="https://slotgacorthailand.org/" />
 	<link rel="amphtml" href="https://landaktoto-saiyan.live/slot-gacor/" />
-    <link rel="alternate" hreflang="id-id" href="https://navelgasoro.com/wp-content/themes/amp.php"/>
-    <link rel="alternate" href="https://navelgasoro.com/wp-content/themes/amp.php"/>
-    <link rel="alternate" hreflang="id" href="https://navelgasoro.com/wp-content/themes/amp.php"/>
-    <link rel="alternate" hreflang="en" href="https://navelgasoro.com/wp-content/themes/amp.php"/>
-    <link rel="alternate" hreflang="x-default" href="https://navelgasoro.com/wp-content/themes/amp.php"/>
+    <link rel="alternate" hreflang="id-id" href="https://landaktoto-saiyan.live/slot-gacor/"/>
+    <link rel="alternate" href="https://landaktoto-saiyan.live/slot-gacor/"/>
+    <link rel="alternate" hreflang="id" href="https://landaktoto-saiyan.live/slot-gacor/"/>
+    <link rel="alternate" hreflang="en" href="https://landaktoto-saiyan.live/slot-gacor/"/>
+    <link rel="alternate" hreflang="x-default" href="https://landaktoto-saiyan.live/slot-gacor/"/>
 	<meta name="robots" content="index, follow">
 	<link rel="preconnect" href="https://cdn.shopify.com" crossorigin="">
     <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin="">
@@ -1431,7 +1431,7 @@ body:has(.shopify-section-group-footer-group) {
             <div class="hura-messages swiper-wrapper">
                <div class="hura-message swiper-slide slick-slide">
                   LANDAKTOTO : Bandar Navelgasoro Agen Slot Gacor & Situs Toto Slot777 Jamin Maxwin
-                  <a href="https://navelgasoro.com/wp-content/themes/amp.php" class="announcement_link" target="_blank" rel="nofollow noopener noreferrer">
+                  <a href="https://landaktoto-saiyan.live/slot-gacor/" class="announcement_link" target="_blank" rel="nofollow noopener noreferrer">
                   Main Sekarang !
                   </a>
                </div>
@@ -2549,7 +2549,7 @@ body:has(.shopify-section-group-footer-group) {
                         </li>
                         <li class="right_header_division right_menu_divider"></li>
                         <li><a
-                           href="https://navelgasoro.com/wp-content/themes/amp.php" target="_blank" rel="nofollow noopener noreferrer"
+                           href="https://landaktoto-saiyan.live/slot-gacor/" target="_blank" rel="nofollow noopener noreferrer"
                            class="rightMenuUpdate headerCss header__menu-item header__menu-item list-menu__item link link--text focus-inset"
                            >
                            <span
@@ -2557,7 +2557,7 @@ body:has(.shopify-section-group-footer-group) {
                            </a>
                         </li>
                         <li><a
-                           href="https://navelgasoro.com/wp-content/themes/amp.php" target="_blank" rel="nofollow noopener noreferrer"
+                           href="https://landaktoto-saiyan.live/slot-gacor/" target="_blank" rel="nofollow noopener noreferrer"
                            class="rightMenuUpdate headerCss header__menu-item header__menu-item list-menu__item link link--text focus-inset"
                            >
                            <span
@@ -3683,7 +3683,7 @@ body:has(.shopify-section-group-footer-group) {
                               &nbsp </label>
                            </fieldset>
                            <p>
-                             <a href="https://navelgasoro.com/wp-content/themes/amp.php" target="_blank">
+                             <a href="https://landaktoto-saiyan.live/slot-gacor/" target="_blank">
                              <img style="display:block;margin-left:auto;margin-right:auto;" src="https://i.postimg.cc/ncYVsWj1/daftar-slot-gacor.gif" width="400" height="150"/>
                              </a>
                            </p>
@@ -6327,23 +6327,23 @@ body:has(.shopify-section-group-footer-group) {
 </style>
      
      <div class="daftarku-fixed-footer">
-     <a href="https://navelgasoro.com/wp-content/themes/amp.php" rel="nofollow noopener" target="_blank">
+     <a href="https://landaktoto-saiyan.live/slot-gacor/" rel="nofollow noopener" target="_blank">
          <img layout="intrinsic" height="30px" width="30px" src="https://landaktoto-saiyan.live/image/landaktoto-favicon.png" alt="PROMOSI">
          PROMO
      </a>
-     <a href="https://navelgasoro.com/wp-content/themes/amp.php" rel="nofollow noopener" target="_blank">
+     <a href="https://landaktoto-saiyan.live/slot-gacor/" rel="nofollow noopener" target="_blank">
          <img layout="intrinsic" height="30px" width="30px" src="https://landaktoto-saiyan.live/image/landaktoto-favicon.png" alt="LOGIN LANDAKTOTO">
          LOGIN
      </a>
-     <a href="https://navelgasoro.com/wp-content/themes/amp.php" rel="nofollow noopener" target="_blank" class="tada">
+     <a href="https://landaktoto-saiyan.live/slot-gacor/" rel="nofollow noopener" target="_blank" class="tada">
          <img layout="intrinsic" height="30px" width="30px" src="https://landaktoto-saiyan.live/image/landaktoto-favicon.png" alt="DAFTAR LANDAKTOTO">
          DAFTAR
      </a>
-     <a href="https://navelgasoro.com/wp-content/themes/amp.php" rel="nofollow noopener" target="_blank">
+     <a href="https://landaktoto-saiyan.live/slot-gacor/" rel="nofollow noopener" target="_blank">
          <img layout="intrinsic" height="30px" width="30px" src="https://landaktoto-saiyan.live/image/landaktoto-favicon.png" alt="WHATSAPP LANDAKTOTO">
          WHATSAPP
      </a>
-     <a href="https://navelgasoro.com/wp-content/themes/amp.php" rel="nofollow noopener" target="_blank"
+     <a href="https://landaktoto-saiyan.live/slot-gacor/" rel="nofollow noopener" target="_blank"
          class="js_live_chat_link live-chat-link">
          <img class="live-chat-icon" layout="intrinsic" height="30px" width="30px" src="https://landaktoto-saiyan.live/image/landaktoto-favicon.png" alt="LIVE CHAT">
          LIVE CHAT
@@ -9505,8 +9505,8 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
         >
 
         <div class="jt-button-wrap">
-            <a href="https://navelgasoro.com/wp-content/themes/amp.php" class="jt-popup-btn">DAFTAR</a>
-            <a href="https://navelgasoro.com/wp-content/themes/amp.php" class="jt-popup-btn">LOGIN</a>
+            <a href="https://landaktoto-saiyan.live/slot-gacor/" class="jt-popup-btn">DAFTAR</a>
+            <a href="https://landaktoto-saiyan.live/slot-gacor/" class="jt-popup-btn">LOGIN</a>
         </div>
 
         <h2 class="jt-popup-title">
