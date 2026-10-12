@@ -16,9 +16,9 @@
 	<link rel="preconnect" href="https://cdn.shopify.com" crossorigin="">
     <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin="">
 	<link rel="shortcut icon" href="https://imganekuan.com/uploads/urmjorbw.jpg">
-	<link rel="icon" type="image/webp" sizes="32x32" href="https://imganekuan.com/uploads/urmjorbw.jpg">
-	<link rel="icon" type="image/webp" sizes="16x16" href="https://imganekuan.com/uploads/urmjorbw.jpg">
-	<link rel="apple-touch-icon" sizes="180x180" href="https://imganekuan.com/uploads/urmjorbw.jpg">
+	<link rel="icon" type="image/webp" sizes="32x32" href="https://imganekuan.com/9mre7x65">
+	<link rel="icon" type="image/webp" sizes="16x16" href="https://imganekuan.com/9mre7x65">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://imganekuan.com/9mre7x65">
 	<title>LANDAKTOTO : Bandar Navelgasoro Agen Slot Gacor & Situs Toto Slot777 Jamin Maxwin</title>
 	<meta name="description" content="LANDAKTOTO menghadirkan Navelgasoro sebagai Agen Slot Gacor, Situs Toto, dan Slot777 dalam satu akses dengan pilihan game slot terbaru terjamin maxwin disini!" />
 	<meta property="og:site_name" content="SLOT GACOR" />
