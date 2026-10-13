@@ -27,7 +27,7 @@
   <meta name="twitter:title" content="LANDAKTOTO $ Link Cultivate Panduan Login Situ Toto Online Dan APK Slot Gacor Pasti Maxwin">
   <meta name="twitter:description" content="LANDAKTOTO menyatukan informasi Situs Toto Online, login Bandar Slot, APK Slot Gacor, referensi RTP, serta pembahasan slot Maxwin dalam satu halaman yang praktis.">
   <meta name="twitter:image" content="https://imganekuan.com/uploads/m1kmhsfc.webp">
-
+<meta name="google-site-verification" content="b0fHCD5VeVhnKYmdHpPszWQYumkn0Hlj7nN1zjaqpt4" />
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
