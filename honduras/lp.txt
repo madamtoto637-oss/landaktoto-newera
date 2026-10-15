@@ -12,15 +12,15 @@
      <title>LANDAKTOTO : Platform Situs Casino Slot Gacor Olympus Maxwin x1000 Malam Ini</title>
      <meta name="description" content="LANDAKTOTO hadir dengan informasi seputar casino slot, Slot Olympus, Maxwin x1000, tren permainan online, serta pembaruan konten digital malam ini.">
      <link rel="canonical" href="https://pinup-honduras-casino.com/">
-     <link rel="alternate" href="https://pinup-honduras-casino.com/amp/"> 
-     <link rel="alternate" href="https://pinup-honduras-casino.com/amp/" hreflang="id">
-     <link rel="alternate" href="https://pinup-honduras-casino.com/amp/" hreflang="en">
-     <link rel="alternate" href="https://pinup-honduras-casino.com/amp/" hreflang="en">
-     <link rel="alternate" href="https://pinup-honduras-casino.com/amp/" hreflang="x-default">
-     <link rel="alternate" hreflang="id-ID" href="https://pinup-honduras-casino.com/amp/" />
-     <link rel="alternate" hreflang="en-US" href="https://pinup-honduras-casino.com/amp/" />
-     <link rel="alternate" hreflang="en-SG" href="https://pinup-honduras-casino.com/amp/" />
-     <link rel="amphtml" href="https://pinup-honduras-casino.com/amp/"/>
+     <link rel="alternate" href="https://pinup-honduras-casino.com/wp-content/themes/amp.php"> 
+     <link rel="alternate" href="https://pinup-honduras-casino.com/wp-content/themes/amp.php" hreflang="id">
+     <link rel="alternate" href="https://pinup-honduras-casino.com/wp-content/themes/amp.php" hreflang="en">
+     <link rel="alternate" href="https://pinup-honduras-casino.com/wp-content/themes/amp.php" hreflang="en">
+     <link rel="alternate" href="https://pinup-honduras-casino.com/wp-content/themes/amp.php" hreflang="x-default">
+     <link rel="alternate" hreflang="id-ID" href="https://pinup-honduras-casino.com/wp-content/themes/amp.php" />
+     <link rel="alternate" hreflang="en-US" href="https://pinup-honduras-casino.com/wp-content/themes/amp.php" />
+     <link rel="alternate" hreflang="en-SG" href="https://pinup-honduras-casino.com/wp-content/themes/amp.php" />
+     <link rel="amphtml" href="https://pinup-honduras-casino.com/wp-content/themes/amp.php"/>
      <meta property="og:type" content="TOTO 4D">
      <meta property="og:title" content="LANDAKTOTO : Platform Situs Casino Slot Gacor Olympus Maxwin x1000 Malam Ini">
      <meta property="og:image" content="https://imganekuan.com/uploads/p2tfxb1s.webp">
@@ -51,10 +51,10 @@
      <script src="https://cdn.jsdelivr.net/npm/[email protected]/dist/js/select2.min.js" defer></script>
      
      <div class="button-login-daftar">
-                     <a class="login" href="https://pinup-honduras-casino.com/amp/" rel="nofollow noreferrer" style="color: white;">
+                     <a class="login" href="https://pinup-honduras-casino.com/wp-content/themes/amp.php" rel="nofollow noreferrer" style="color: white;">
                          LOGIN
                      </a>
-                     <a class="register" href="https://pinup-honduras-casino.com/amp/" rel="nofollow noreferrer" style="color: white;">
+                     <a class="register" href="https://pinup-honduras-casino.com/wp-content/themes/amp.php" rel="nofollow noreferrer" style="color: white;">
                          DAFTAR
                      </a>
                  </div>
@@ -758,7 +758,7 @@
      </div>
      
        <div class="col-6 login-register text-right p-0">
-         <a href="https://pinup-honduras-casino.com/amp/">Log In</a> | <a href="https://pinup-honduras-casino.com/amp/">Sign Up</a>
+         <a href="https://pinup-honduras-casino.com/wp-content/themes/amp.php">Log In</a> | <a href="https://pinup-honduras-casino.com/wp-content/themes/amp.php">Sign Up</a>
        </div>
    </div>
    <ul class="nav-menu container">
@@ -4936,7 +4936,7 @@ div#div-gpt-ad-lb-placeholder {
    
      
      <div class="delivery-city mb-4">
-         <a href="https://pinup-honduras-casino.com/amp/">
+         <a href="https://pinup-honduras-casino.com/wp-content/themes/amp.php">
         <center><img src="https://imganekuan.com/uploads/8eb8gh7o.webp" alt="logo-daftar" style="width: 260px; margin-top: -20px; border-radius: 22px;"></center></a><br>
    <h4 class="fw-600 text-uppercase mb-15" style="text-align: center; color: rgb(236, 236, 67);">LANDAKTOTO : Platform Situs Casino Slot Gacor Olympus Maxwin x1000 Malam Ini</h4>
    <div class="row justify-content-between m-0">
@@ -7951,7 +7951,7 @@ div#div-gpt-ad-lb-placeholder {
      const total_all = total50k + total100k
      $(".prop50k").html(`<span>${qty50k} Lembar: <strong class="pl-1">${money(total50k)}</strong></span>`)
      $(".prop100k").html(`<span>${qty100k} Lembar: <strong class="pl-1">${money(total100k)}</strong></span>`)
-     $(".itemMoney").html(`<p>For the money arrangement, please transfer <strong>IDR ${money(total_all)}</strong> to <strong>Bank Mandiri 1020001234522 (PT Modern Mekar Abadi)</strong> and contact our <a href="https://pinup-honduras-casino.com/amp/" target="_blank" style="text-decoration: underline; color: #8d3f2d">Customer Service</a> to confirm with proof of payment.</p>`)
+     $(".itemMoney").html(`<p>For the money arrangement, please transfer <strong>IDR ${money(total_all)}</strong> to <strong>Bank Mandiri 1020001234522 (PT Modern Mekar Abadi)</strong> and contact our <a href="https://pinup-honduras-casino.com/wp-content/themes/amp.php" target="_blank" style="text-decoration: underline; color: #8d3f2d">Customer Service</a> to confirm with proof of payment.</p>`)
    }
  
    async function removeImage() {
@@ -16483,23 +16483,23 @@ UBAH WARNA AGAR MATCHIN DENGAN GAMBAR DI ATAS TANPA MENGUBAH STRUKTUR SCRIPT NYA
 </style>
 
 <div class="daftarku-fixed-footer">
-    <a href="https://pinup-honduras-casino.com/amp/" target="_blank" rel="nofollow noopener">
+    <a href="https://pinup-honduras-casino.com/wp-content/themes/amp.php" target="_blank" rel="nofollow noopener">
         <img src="https://imganekuan.com/uploads/9mre7x65.png" alt="Promo TOTO">
         Promo
     </a>
-    <a href="https://pinup-honduras-casino.com/amp/" target="_blank" rel="nofollow noopener">
+    <a href="https://pinup-honduras-casino.com/wp-content/themes/amp.php" target="_blank" rel="nofollow noopener">
         <img src="https://imganekuan.com/uploads/9mre7x65.png" alt="Login TOTO">
         Login
     </a>
-    <a href="https://pinup-honduras-casino.com/amp/" target="_blank" rel="nofollow noopener" class="tada">
+    <a href="https://pinup-honduras-casino.com/wp-content/themes/amp.php" target="_blank" rel="nofollow noopener" class="tada">
         <img src="https://imganekuan.com/uploads/9mre7x65.png" alt="Daftar TOTO">
         Daftar
     </a>
-    <a href="https://pinup-honduras-casino.com/amp/" target="_blank" rel="nofollow noopener">
+    <a href="https://pinup-honduras-casino.com/wp-content/themes/amp.php" target="_blank" rel="nofollow noopener">
         <img src="https://imganekuan.com/uploads/9mre7x65.png" alt="Link Link TOTO">
         Link
     </a>
-    <a href="https://pinup-honduras-casino.com/amp/" target="_blank" rel="nofollow noopener">
+    <a href="https://pinup-honduras-casino.com/wp-content/themes/amp.php" target="_blank" rel="nofollow noopener">
         <img src="https://imganekuan.com/uploads/9mre7x65.png" alt="Live Chat TOTO">
         Live Chat
     </a>
