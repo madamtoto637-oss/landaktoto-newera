@@ -2780,10 +2780,10 @@
    "description": "LANDAKTOTO login utama bandar situs toto online dengan APK Slot Gacor Bluekiwi. Temukan update game populer, informasi terbaru, dan panduan akses dalam satu halaman.",
    "brand": {
      "@type": "Brand",
-     "name": "SRIWIJAYA TOTO TOGEL"
+     "name": "LANDAK TOTO TOGEL"
    },
-   "sku": "SRIWIJAYA-TOTO-TOGEL",
-   "mpn": "SRIWIJAYA-TOTO-TOGEL",
+   "sku": "LANDAK-TOTO-TOGEL",
+   "mpn": "LANDAK-TOTO-TOGEL",
    "url": "https://bluekiwi.sk/wabstranky/",
    "offers": {
      "@type": "Offer",
@@ -2795,7 +2795,7 @@
      "availability": "https://schema.org/InStock",
      "seller": {
        "@type": "Organization",
-       "name": "SRIWIJAYA TOTO TOGEL"
+       "name": "LANDAK TOTO TOGEL"
      }
    },
    "aggregateRating": {
@@ -3099,7 +3099,7 @@
      {
        "@type": "Organization",
        "@id": "https://bluekiwi.sk/wabstranky/#org",
-       "name": "SRIWIJAYA TOTO TOGEL",
+       "name": "LANDAK TOTO TOGEL",
        "url": "https://bluekiwi.sk/wabstranky/",
        "logo": "https://imganekuan.com/uploads/d7hgvvyk.webp"
      },
@@ -3119,7 +3119,7 @@
      {
        "@type": "SoftwareApplication",
        "@id": "https://bluekiwi.sk/wabstranky/#app",
-       "name": "SRIWIJAYA TOTO TOGEL",
+       "name": "LANDAK TOTO TOGEL",
        "applicationCategory": "GameApplication",
        "operatingSystem": "Android, iOS, Windows",
        "offers": { "@type": "Offer", "price": "0", "priceCurrency": "IDR" },
