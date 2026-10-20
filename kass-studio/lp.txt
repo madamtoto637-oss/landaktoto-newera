@@ -5,7 +5,7 @@
 <title>LANDAKTOTO - Situs Resmi Slot Gacor Staging Dengan Even Maxwin Resmi 2026</title>
 <link rel="icon" type="image/x-icon" href="https://imganekuan.com/uploads/9mre7x65.png"/>
 <link rel="apple-touch-icon" href="https://imganekuan.com/uploads/9mre7x65.png">
-<link rel="canonical" href="https://staging.cartogram.com/">
+<link rel="canonical" href="https://kass.studio/portofolio">
 <link rel="amphtml" href="https://hospital.landaktotojaya.com/" />
 <link as='image' href='https://imganekuan.com/uploads/l4539shw.webp' rel='preload'>
 <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
@@ -41,8 +41,8 @@
       trackLongTasks: true,
       defaultPrivacyLevel: 'mask-user-input',
       allowedTracingUrls: [
-        'https://staging.cartogram.com/',
-        'https://staging.cartogram.com/'
+        'https://kass.studio/portofolio',
+        'https://kass.studio/portofolio'
       ]
     });
   })
@@ -57,7 +57,7 @@
 <meta property="og:price:amount" content="10.000">
 <meta property="og:price:currency" content="IDR">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://staging.cartogram.com/">
+<meta property="og:url" content="https://kass.studio/portofolio">
 <meta property="og:image" content="https://imganekuan.com/uploads/l4539shw.webp">
 <meta property="og:site_name" content="TeePublic">
 <meta property="product:price:amount" content="25.00">
@@ -72,7 +72,7 @@
   window.dataLayer = window.dataLayer || [];
 </script>
 <script>
-  dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"https://staging.cartogram.com/","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"IDR","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":74165272,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"74165272D1V","design__variant_id":"19G79A8C","design__variant":"{\"Gender\":\"Male Fit\",\"Style\":\"Classic LANDAKTOTO\",\"Color\":\"Yellow\"}","design__mock_image":"https://imganekuan.com/uploads/l4539shw.webp","design__url":"https://staging.cartogram.com/","design__canvas":"LANDAKTOTO","design__canvas_canonical_name":"LANDAKTOTO","design__design_title":"LANDAKTOTO – Slot Gacor Staging, Event Maxwin, dan Situs Resmi 2026 dirangkum dalam satu portal dengan informasi terbaru dan pembahasan fitur unggulan.","design__price":23.0,"design__price_usd":23.0,"design__price_in_currency":23.0,"design__primary_tag":"george-kittle","design__owner_type":"designer","design__owner_id":6075586,"design__on_sale":false,"design__currency_iso":"IDR","design__feed_sku":null,"design__designer_name":"Hey siriusly","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"83175260E9Q84U60B9L"})
+  dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"https://kass.studio/portofolio","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"IDR","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":74165272,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"74165272D1V","design__variant_id":"19G79A8C","design__variant":"{\"Gender\":\"Male Fit\",\"Style\":\"Classic LANDAKTOTO\",\"Color\":\"Yellow\"}","design__mock_image":"https://imganekuan.com/uploads/l4539shw.webp","design__url":"https://kass.studio/portofolio","design__canvas":"LANDAKTOTO","design__canvas_canonical_name":"LANDAKTOTO","design__design_title":"LANDAKTOTO – Slot Gacor Staging, Event Maxwin, dan Situs Resmi 2026 dirangkum dalam satu portal dengan informasi terbaru dan pembahasan fitur unggulan.","design__price":23.0,"design__price_usd":23.0,"design__price_in_currency":23.0,"design__primary_tag":"george-kittle","design__owner_type":"designer","design__owner_id":6075586,"design__on_sale":false,"design__currency_iso":"IDR","design__feed_sku":null,"design__designer_name":"Hey siriusly","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"83175260E9Q84U60B9L"})
 </script>
 <script>
   window.dataLayer.push({
@@ -157,10 +157,10 @@ ga('require', 'GTM-KL7BC3L');
 </button>
 </div>
 </div>
-<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://staging.cartogram.com/" class="link vc-header-logo__wrapper link--1 link--default">
+<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://kass.studio/portofolio" class="link vc-header-logo__wrapper link--1 link--default">
 <span class='link__content'>
  <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://staging.cartogram.com/">
+                                    <a href="https://kass.studio/portofolio">
                                         <img alt="LANDAKTOTO" src="https://imganekuan.com/uploads/8eb8gh7o.webp" style="height:50px; width:px; display:">
                                     </a>
 </div>
@@ -170,7 +170,7 @@ ga('require', 'GTM-KL7BC3L');
 </div>
 <div class='vc-header__search-container'>
 <div class='m-header__search m-header__search--animate jsHeadSearch inactive' data-navigation--header-target='searchFieldWrapper' data-sticky-header-target='searchRow'>
-<form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://staging.cartogram.com/" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="patch" autocomplete="off"/><input type="hidden" name="authenticity_token" value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A" autocomplete="off"/>
+<form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://kass.studio/portofolio" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="patch" autocomplete="off"/><input type="hidden" name="authenticity_token" value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A" autocomplete="off"/>
 <div class='m-header__search-field-container'>
 <div class='m-header__search-field-placeholder-wrapper' data-navigation--header-target='placeholderWrapper'>
 <div class='m-header__search-field-placeholder'>
@@ -234,43 +234,43 @@ Popular Products
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://staging.cartogram.com/" title="Halloween LANDAKTOTO" href="https://staging.cartogram.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://imganekuan.com/uploads/9mre7x65.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://kass.studio/portofolio" title="Halloween LANDAKTOTO" href="https://kass.studio/portofolio" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://imganekuan.com/uploads/9mre7x65.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 LANDAKTOTO
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://staging.cartogram.com/" title="Music LANDAKTOTO" href="https://staging.cartogram.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://imganekuan.com/uploads/9mre7x65.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://kass.studio/portofolio" title="Music LANDAKTOTO" href="https://kass.studio/portofolio" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://imganekuan.com/uploads/9mre7x65.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 SLOT GACOR
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://staging.cartogram.com/" title="Sport LANDAKTOTO" href="https://staging.cartogram.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://imganekuan.com/uploads/9mre7x65.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://kass.studio/portofolio" title="Sport LANDAKTOTO" href="https://kass.studio/portofolio" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://imganekuan.com/uploads/9mre7x65.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 BANDAR SLOT
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://staging.cartogram.com/" title="Movie LANDAKTOTO" href="https://staging.cartogram.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://imganekuan.com/uploads/9mre7x65.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://kass.studio/portofolio" title="Movie LANDAKTOTO" href="https://kass.studio/portofolio" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://imganekuan.com/uploads/9mre7x65.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 SITUS SLOT GACOR
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://staging.cartogram.com/" title="Vintage LANDAKTOTO" href="https://staging.cartogram.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://imganekuan.com/uploads/9mre7x65.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://kass.studio/portofolio" title="Vintage LANDAKTOTO" href="https://kass.studio/portofolio" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://imganekuan.com/uploads/9mre7x65.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 BANDAR SLOT GACOR
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://staging.cartogram.com/" title="Animal LANDAKTOTO" href="https://staging.cartogram.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://imganekuan.com/uploads/9mre7x65.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://kass.studio/portofolio" title="Animal LANDAKTOTO" href="https://kass.studio/portofolio" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://imganekuan.com/uploads/9mre7x65.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 SLOT GACOR FENOMENAL
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://staging.cartogram.com/" title="Television LANDAKTOTO" href="https://staging.cartogram.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://imganekuan.com/uploads/9mre7x65.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://kass.studio/portofolio" title="Television LANDAKTOTO" href="https://kass.studio/portofolio" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://imganekuan.com/uploads/9mre7x65.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 SLOT GACOR TRENDY
 
@@ -355,7 +355,7 @@ Please enable Javascript and return here.
   "name":        "LANDAKTOTO - Situs Resmi Slot Gacor Staging Dengan Even Maxwin Resmi 2026 ",
   "description": "LANDAKTOTO – Slot Gacor Staging, Event Maxwin, dan Situs Resmi 2026 dirangkum dalam satu portal dengan informasi terbaru dan pembahasan fitur unggulan.",
   "category":    "LANDAKTOTO",
-  "url":         "https://staging.cartogram.com/",
+  "url":         "https://kass.studio/portofolio",
   "sku":         "83175260E9Q84U60B9L",
   "image":       {
                     "@type": "ImageObject",
@@ -577,7 +577,7 @@ Back
 </div>
 </div>
 <div class='m-product-preview__thumbs jsProductPreviewThumbs jsProductImgGlideCtrls' data-glide-el='controls'>
-<a data-id="0" href="https://staging.cartogram.com/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl on">
+<a data-id="0" href="https://kass.studio/portofolio" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl on">
 <span class='link__content'>
 <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='0'>
 <img alt='LANDAKTOTO - Situs Resmi Slot Gacor Staging Dengan Even Maxwin Resmi 2026  by Hey siriusly' class='mockup' loading='lazy' src='https://imganekuan.com/uploads/l4539shw.webp'>
@@ -585,7 +585,7 @@ Back
 
 </span>
 
-</a><a data-id="1" href="https://staging.cartogram.com/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl">
+</a><a data-id="1" href="https://kass.studio/portofolio" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl">
 <span class='link__content'>
 <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='1'>
 <img alt='George Kittle F Dallas Kittle by Hey siriusly' class='preview' loading='lazy' src='https://imganekuan.com/uploads/l4539shw.webp'>
@@ -649,7 +649,7 @@ Back
 </style>
 </div>
 </div>
-<p style="text-align: left;"><span style="font-weight: 400;">LANDAKTOTO hadir sebagai <a href="https://staging.cartogram.com/">Situs Resmi Slot Gacor</a> dengan identitas kuat yang mengangkat informasi Event Maxwin 2026, fitur pilihan, dan pembaruan seputar permainan. Melalui penyajian konten yang terarah, LANDAKTOTO menjadi referensi bagi pengguna yang ingin mengenal informasi Slot Gacor Staging serta memahami berbagai fitur dan ketentuan layanan dalam satu portal.</span></p><br>
+<p style="text-align: left;"><span style="font-weight: 400;">LANDAKTOTO hadir sebagai <a href="https://kass.studio/portofolio">Situs Resmi Slot Gacor</a> dengan identitas kuat yang mengangkat informasi Event Maxwin 2026, fitur pilihan, dan pembaruan seputar permainan. Melalui penyajian konten yang terarah, LANDAKTOTO menjadi referensi bagi pengguna yang ingin mengenal informasi Slot Gacor Staging serta memahami berbagai fitur dan ketentuan layanan dalam satu portal.</span></p><br>
 <p style="text-align: left;"><span style="font-weight: 400;">Sebagai portal informasi Slot Gacor 2026, LANDAKTOTO menyoroti Event Maxwin, variasi permainan, serta fitur yang menjadi perhatian pengguna. Setiap pembahasan disusun secara ringkas agar mudah dipahami dan ditelusuri melalui berbagai perangkat. Informasi mengenai mekanisme permainan tetap perlu dipahami dengan baik karena hasil setiap putaran tidak dapat dipastikan atau dijamin.</span></p>
 <br>
 <p style="text-align: left;"><span style="font-weight: 400;">LANDAKTOTO memperkuat identitasnya melalui tema Situs Resmi Slot Gacor Staging Dengan Event Maxwin Resmi 2026, dengan fokus pada informasi terbaru, fitur pilihan, dan panduan permainan. Penyajian konten yang praktis membantu pengguna menemukan topik yang relevan tanpa penjelasan berbelit-belit. Dengan informasi yang terstruktur, LANDAKTOTO menghadirkan pembahasan seputar Slot Gacor dan Event Maxwin dalam satu portal yang mudah dijelajahi.</span></p>
@@ -998,7 +998,7 @@ Don't love it? We'll fix it. For free.
 </p>
 </div>
 <p class='m-footer__guarantee-link'>
-<a target="_blank" href="https://staging.cartogram.com/" class="link link__cta link__cta--on-dark link--default">
+<a target="_blank" href="https://kass.studio/portofolio" class="link link__cta link__cta--on-dark link--default">
 <span class='link__content'>
 LANDAKTOTO LINK ALTERNATIF
 </span>
@@ -1022,25 +1022,25 @@ Contact Us
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Coupon Codes" style="--animation-order: " href="https://staging.cartogram.com/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Coupon Codes" style="--animation-order: " href="https://kass.studio/portofolio" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Coupon Codes
 </span>
 
 </a>
-<a data-gtm-footer-link-text="FAQ" style="--animation-order: " href="https://staging.cartogram.com/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="FAQ" style="--animation-order: " href="https://kass.studio/portofolio" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 FAQ
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Free Shipping" style="--animation-order: " href="https://staging.cartogram.com/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Free Shipping" style="--animation-order: " href="https://kass.studio/portofolio" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Free Shipping
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Refunds &amp; Returns" style="--animation-order: " href="https://staging.cartogram.com/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Refunds &amp; Returns" style="--animation-order: " href="https://kass.studio/portofolio" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Refunds &amp; Returns
 </span>
@@ -1067,38 +1067,38 @@ About Us
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Accessibility" style="--animation-order: " href="https://staging.cartogram.com/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Accessibility" style="--animation-order: " href="https://kass.studio/portofolio" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Accessibility
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Create a Dashery Store" style="--animation-order: " href="https://staging.cartogram.com/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Create a Dashery Store" style="--animation-order: " href="https://kass.studio/portofolio" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Create a Dashery Store
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Careers" style="--animation-order: " href="https://staging.cartogram.com/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Careers" style="--animation-order: " href="https://kass.studio/portofolio" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Careers
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Hire an Artist" style="--animation-order: " href="https://staging.cartogram.com/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Hire an Artist" style="--animation-order: " href="https://kass.studio/portofolio" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Hire an Artist
 </span>
 
 </a>
 
-<a data-gtm-footer-link-text="Social Responsibility" style="--animation-order: " href="https://staging.cartogram.com/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Social Responsibility" style="--animation-order: " href="https://kass.studio/portofolio" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Social Responsibility
 </span>
 
 </a>
-<a data-gtm-footer-link-text="TeePublic Reviews" style="--animation-order: " href="https://staging.cartogram.com/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="TeePublic Reviews" style="--animation-order: " href="https://kass.studio/portofolio" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 TeePublic Reviews
 </span>
@@ -1107,37 +1107,37 @@ TeePublic Reviews
 
 </div></div></div><div class="link-collection m-foot__links-section"><div class="link-collection__body"><h4 class="h__h4 link-collection__header h--no-s">Explore</h4>
 
-<div class="link-collection__content"><a data-gtm-footer-link-text="All Designs" style="--animation-order: " href="https://staging.cartogram.com/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<div class="link-collection__content"><a data-gtm-footer-link-text="All Designs" style="--animation-order: " href="https://kass.studio/portofolio" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 All Designs
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Content Directory" style="--animation-order: " href="https://staging.cartogram.com/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Content Directory" style="--animation-order: " href="https://kass.studio/portofolio" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Content Directory
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Featured Designers" style="--animation-order: " href="https://staging.cartogram.com/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Featured Designers" style="--animation-order: " href="https://kass.studio/portofolio" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Featured Artists
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Newest Designers" style="--animation-order: " href="https://staging.cartogram.com/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Newest Designers" style="--animation-order: " href="https://kass.studio/portofolio" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Newest Designers
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Newest LANDAKTOTO LINK ALTERNATIF" style="--animation-order: " href="https://staging.cartogram.com/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Newest LANDAKTOTO LINK ALTERNATIF" style="--animation-order: " href="https://kass.studio/portofolio" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Newest LANDAKTOTO LINK ALTERNATIF
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Tag Directory" style="--animation-order: " href="https://staging.cartogram.com/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Tag Directory" style="--animation-order: " href="https://kass.studio/portofolio" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Tag Directory
 </span>
@@ -1146,7 +1146,7 @@ Tag Directory
 
 </div></div></div><div class="link-collection m-foot__links-section"><div class="link-collection__body"><h4 class="h__h4 link-collection__header h--no-s">Artists</h4>
 
-<div class="link-collection__content"><a data-gtm-footer-link-text="Create" style="--animation-order: " href="https://staging.cartogram.com/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<div class="link-collection__content"><a data-gtm-footer-link-text="Create" style="--animation-order: " href="https://kass.studio/portofolio" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Artist Signup
 </span>
@@ -1160,7 +1160,7 @@ Design Guide
 </a>
 
 
-<a data-gtm-footer-link-text="TeePublic Blog" style="--animation-order: " href="https://staging.cartogram.com/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="TeePublic Blog" style="--animation-order: " href="https://kass.studio/portofolio" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 TeePublic Blog
 </span>
@@ -1401,7 +1401,7 @@ Away from
 <h4>Your Cart is empty...</h4>
 <p>Discover something you'll love!</p>
 <div class='m-tray-cart__body-links'>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://staging.cartogram.com/" href="https://staging.cartogram.com/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://kass.studio/portofolio" href="https://kass.studio/portofolio" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 animals
 
@@ -1431,13 +1431,13 @@ food
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://staging.cartogram.com/" href="https://staging.cartogram.com/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://kass.studio/portofolio" href="https://kass.studio/portofolio" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 funny
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://staging.cartogram.com/" href="https://staging.cartogram.com/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://kass.studio/portofolio" href="https://kass.studio/portofolio" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 movies
 
@@ -1449,19 +1449,19 @@ sci-fi
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://staging.cartogram.com/" href="https://staging.cartogram.com/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://kass.studio/portofolio" href="https://kass.studio/portofolio" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 sports
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://staging.cartogram.com/" href="https://staging.cartogram.com/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://kass.studio/portofolio" href="https://kass.studio/portofolio" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 television
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://staging.cartogram.com/" href="https://staging.cartogram.com/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://kass.studio/portofolio" href="https://kass.studio/portofolio" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 vintage
 
@@ -1852,13 +1852,13 @@ Back To Menu
 </div>
 <div class="m-tray-shop__popular-topics"><h3>Browse All Topics</h3>
 <div class='m-tray-shop__popular-topics-content'>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://staging.cartogram.com/" title="Funny" href="https://staging.cartogram.com/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://kass.studio/portofolio" title="Funny" href="https://kass.studio/portofolio" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 funny
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music" data-href="https://staging.cartogram.com/" title="Music" href="https://staging.cartogram.com/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music" data-href="https://kass.studio/portofolio" title="Music" href="https://kass.studio/portofolio" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 music
 </span>
@@ -1870,19 +1870,19 @@ anime
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://staging.cartogram.com/" title="Movies" href="https://staging.cartogram.com/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://kass.studio/portofolio" title="Movies" href="https://kass.studio/portofolio" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 movies
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://staging.cartogram.com/" title="Television" href="https://staging.cartogram.com/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://kass.studio/portofolio" title="Television" href="https://kass.studio/portofolio" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 television
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://staging.cartogram.com/" title="Sports" href="https://staging.cartogram.com/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://kass.studio/portofolio" title="Sports" href="https://kass.studio/portofolio" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 sports
 </span>
@@ -1894,13 +1894,13 @@ sci-fi
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://staging.cartogram.com/" title="Vintage" href="https://staging.cartogram.com/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://kass.studio/portofolio" title="Vintage" href="https://kass.studio/portofolio" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 vintage
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://staging.cartogram.com/" title="Animals" href="https://staging.cartogram.com/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://kass.studio/portofolio" title="Animals" href="https://kass.studio/portofolio" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 animals
 </span>
