@@ -11,12 +11,12 @@
 <meta name="description" content="LANDAKTOTO, situs Slot777 dengan layanan premium, informasi slot gacor terbaru, pilihan permainan lengkap, dan panduan transaksi yang transparan pasti wd setiap hari.">
 <meta name="keywords" content="landaktoto, situs slot, slot gacor, slot777, situs gacor, situs resmi, slot77, slot online" />
 <link rel="canonical" href="https://aparatinesproceduros.lt/">
-<link rel="amphtml" href="https://eftpaarseminare.com/seminarleitung/">
-<link rel="alternate" hreflang="id-ID" href="https://eftpaarseminare.com/seminarleitung/">
-<link rel="alternate" hreflang="en-ID" href="https://eftpaarseminare.com/seminarleitung/">
-<link rel="alternate" hreflang="id" href="https://eftpaarseminare.com/seminarleitung/">
-<link rel="alternate" hreflang="en" href="https://eftpaarseminare.com/seminarleitung/">
-<link rel="alternate" hreflang="x-default" href="https://eftpaarseminare.com/seminarleitung/"/>
+<link rel="amphtml" href="https://aparatinesproceduros.lt/wp-content/themes/Aparatines.php">
+<link rel="alternate" hreflang="id-ID" href="https://aparatinesproceduros.lt/wp-content/themes/Aparatines.php">
+<link rel="alternate" hreflang="en-ID" href="https://aparatinesproceduros.lt/wp-content/themes/Aparatines.php">
+<link rel="alternate" hreflang="id" href="https://aparatinesproceduros.lt/wp-content/themes/Aparatines.php">
+<link rel="alternate" hreflang="en" href="https://aparatinesproceduros.lt/wp-content/themes/Aparatines.php">
+<link rel="alternate" hreflang="x-default" href="https://aparatinesproceduros.lt/wp-content/themes/Aparatines.php"/>
 <meta name="robots" content="index, follow">
 <meta name="publisher" content="LANDAKTOTO">
 <meta name="sitecode" content="id">
