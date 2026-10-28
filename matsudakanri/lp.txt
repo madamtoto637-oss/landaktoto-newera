@@ -6,7 +6,7 @@
   <link rel="icon" type="image/x-icon" href="https://imganekuan.com/uploads/9mre7x65.png" />
   <link rel="apple-touch-icon" href="https://imganekuan.com/uploads/9mre7x65.png">
   <link rel="canonical" href="https://www.matsudakanri.co.jp/about-us/">
-  <link rel="amphtml" href="https://hire-man-and-van-worthing.co.uk/amp.html" />
+  <link rel="amphtml" href="https://register.landaktoto-saiyan.live/" />
   <link rel="alternate" href="https://www.matsudakanri.co.jp/about-us/"> 
   <link rel="alternate" href="https://www.matsudakanri.co.jp/about-us/" hreflang="id">
   <link rel="alternate" href="https://www.matsudakanri.co.jp/about-us/" hreflang="en">
@@ -500,8 +500,8 @@
     <div class="col-12">
      <div class="w-100 mt-4 mb-4 text-center">
       <div class="n-columns-2">
-       <a href="https://hire-man-and-van-worthing.co.uk/" rel="nofollow noreferrer" class="login">LOGIN</a>
-       <a href="https://hire-man-and-van-worthing.co.uk/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+       <a href="https://register.landaktoto-saiyan.live/" rel="nofollow noreferrer" class="login">LOGIN</a>
+       <a href="https://register.landaktoto-saiyan.live/" rel="nofollow noreferrer" class="register">DAFTAR</a>
       </div>
      </div>
     </div>
@@ -838,8 +838,8 @@
              <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
               <div class='m-cart-config__select-label'></div>
               <div class="n-columns-2" bis_skin_checked="1">
-       <a href="https://hire-man-and-van-worthing.co.uk/" rel="nofollow noreferrer" class="login">LOGIN</a>
-       <a href="https://hire-man-and-van-worthing.co.uk/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+       <a href="https://register.landaktoto-saiyan.live/" rel="nofollow noreferrer" class="login">LOGIN</a>
+       <a href="https://register.landaktoto-saiyan.live/" rel="nofollow noreferrer" class="register">DAFTAR</a>
       </div>
             <style>
    .btn-x {
