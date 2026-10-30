@@ -2880,9 +2880,9 @@ shortcut.add("Ctrl+U", function() {
 
     <h1 class="landaktoto-title">
       <span>LANDAKTOTO</span>:
-      15 LINK EXCLUSIVE SITUS SLOT
-      GACOR RESMI VIRAL HARI INI
-      GAMPANG MENANG
+       Link Utama Situs Slot Gacor Resmi
+      Portal APK Slot77
+      Exclusive Hari Ini
     </h1>
 
     <p class="landaktoto-description">
