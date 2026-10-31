@@ -13,7 +13,7 @@
      <meta name="description" content="LANDAKTOTO hadir sebagai portal utama situs toto dan agen togel online yang menyediakan beragam informasi pasaran, result, serta layanan dalam satu platform. Dengan akses mudah dan tampilan responsif, LANDAKTOTO memberikan pengalaman penggunaan yang praktis dan nyaman bagi penggemar togel.">
      <meta name="keywords" content="landaktoto, landak toto, situs toto, agen togel, togel online, situs toto togel, toto togel online, agen toto togel" />
      <link rel="canonical" href="https://westcreative.co/">
-     <link rel="amphtml" href="https://westcreative-landaktoto.pages.dev/"/>
+     <link rel="amphtml" href="https://westcreative-oflandaktoto.pages.dev/"/>
      <link rel="alternate" hreflang="id-id" href="https://creativelaunchstudio.com/creative/" />
      <link rel="alternate" href="https://creativelaunchstudio.com/creative/" />
      <link rel="alternate" hreflang="id" href="https://creativelaunchstudio.com/creative/" />
