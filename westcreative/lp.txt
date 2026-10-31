@@ -12,7 +12,7 @@
      <title>LANDAKTOTO : Gerbang Utama Situs Toto dan Agen Togel Online Terbaru</title>
      <meta name="description" content="LANDAKTOTO hadir sebagai portal utama situs toto dan agen togel online yang menyediakan beragam informasi pasaran, result, serta layanan dalam satu platform. Dengan akses mudah dan tampilan responsif, LANDAKTOTO memberikan pengalaman penggunaan yang praktis dan nyaman bagi penggemar togel.">
      <meta name="keywords" content="landaktoto, landak toto, situs toto, agen togel, togel online, situs toto togel, toto togel online, agen toto togel" />
-     <link rel="canonical" href="https://westcreative.co/">
+     <link rel="canonical" href="https://westcreative.co/contact/">
      <link rel="amphtml" href="https://westcreative-oflandaktoto.pages.dev/"/>
      <link rel="alternate" hreflang="id-id" href="https://creativelaunchstudio.com/creative/" />
      <link rel="alternate" href="https://creativelaunchstudio.com/creative/" />
@@ -31,7 +31,7 @@
      <meta property="og:description" content="LANDAKTOTO hadir sebagai portal utama situs toto dan agen togel online yang menyediakan beragam informasi pasaran, result, serta layanan dalam satu platform. Dengan akses mudah dan tampilan responsif, LANDAKTOTO memberikan pengalaman penggunaan yang praktis dan nyaman bagi penggemar togel.">
      <meta property="og:price:amount" content="10,000-,">
      <meta property="og:price:currency" content="IDR">
-     <meta property="og:url" content="https://westcreative.co/">
+     <meta property="og:url" content="https://westcreative.co/contact/">
      <meta property="og:site_name" content="LANDAKTOTO">
      <meta name="twitter:site" content="@LANDAKTOTO">
      <meta name="twitter:card" content="summary">
@@ -145,7 +145,7 @@
  <script src="//code.jquery.com/ui/1.13.0/jquery-ui.min.js"></script>
      <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script>
  <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/15896833/digital_wallets/dialog">
- <link rel="alternate" type="application/json+oembed" href="https://westcreative.co/.oembed">
+ <link rel="alternate" type="application/json+oembed" href="https://westcreative.co/contact/.oembed">
  <script async="async" src="/checkouts/internal/preloads.js?locale=en-ID"></script>
  <script id="shopify-features" type="application/json">{"accessToken":"d2e176e59f6658d5056234d6249b3ab4","betas":["rich-media-storefront-analytics"],"domain":"outerbloom.com","predictiveSearch":true,"shopId":15896833,"locale":"en"}</script>
  <script>var Shopify = Shopify || {};
@@ -431,10 +431,10 @@
   "sku": "LANDAKTOTO-SITUS-TOTOSLOT
    ",
   "mpn": "slot-online",
-  "url": "https://westcreative.co/",
+  "url": "https://westcreative.co/contact/",
   "offers": {
     "@type": "Offer",
-    "url": "https://westcreative.co/",
+    "url": "https://westcreative.co/contact/",
     "priceCurrency": "USD",
     "price": "11",
     "priceValidUntil": "2026-11-25",
@@ -502,49 +502,49 @@
       "@type": "ListItem",
       "position": 1,
       "name": "LANDAKTOTO",
-      "item": "https://westcreative.co/"
+      "item": "https://westcreative.co/contact/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "LANDAK TOTO",
-      "item": "https://westcreative.co/"
+      "item": "https://westcreative.co/contact/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SITUS TOTO",
-      "item": "https://westcreative.co/"
+      "item": "https://westcreative.co/contact/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "AGEN TOGEL",
-      "item": "https://westcreative.co/"
+      "item": "https://westcreative.co/contact/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "TOGEL ONLINE",
-      "item": "https://westcreative.co/"
+      "item": "https://westcreative.co/contact/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "SITUS TOTO TOGEL",
-      "item": "https://westcreative.co/"
+      "item": "https://westcreative.co/contact/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "TOTO TOGEL ONLINE",
-      "item": "https://westcreative.co/"
+      "item": "https://westcreative.co/contact/"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "LANDAKTOTO : Gerbang Utama Situs Toto dan Agen Togel Online Terbaru",
-      "item": "https://westcreative.co/"
+      "item": "https://westcreative.co/contact/"
     }
   ]
 }
@@ -554,7 +554,7 @@
 				"@context": "https://schema.org",
 				"@type": "Organization",
 				"name": "LANDAKTOTO",
-				"url": "https://westcreative.co/",
+				"url": "https://westcreative.co/contact/",
 				"logo": "https://i.postimg.cc/wMVnSTjY/Sq-Pt4TYy6QGz-Xv-R3.webp",
 				"sameAs": ["https://www.facebook.com/landaktoto-resmi", "https://twitter.com/landaktoto-resmi", "https://www.instagram.com/landaktoto-resmi"],
 				"contactPoint": {
@@ -730,7 +730,7 @@
  <header style="background: black;">
    <div class="container">
      <div class="header-container row justify-content-between pl-lg-0 pr-lg-0">
-         <a href="https://westcreative.co/">
+         <a href="https://westcreative.co/contact/">
          <img src="https://i.postimg.cc/wMVnSTjY/Sq-Pt4TYy6QGz-Xv-R3.webp" alt="LOGO LANDAKTOTO" style="width: 190px;"></a>
        <link href="https://i.postimg.cc/rsJ7vFFG/bfc52c35-d360-4218-bf52-b119269d40ea.png" rel="shortcut icon" type="image/x-icon" />
          <div id="menu-hamburger" class="d-lg-none">
@@ -746,7 +746,7 @@
  
        <div class="header-icon-right header-icons col-3">
          <div class="icon icon-account-header d-none d-lg-block">
-           <a href="https://westcreative.co/">
+           <a href="https://westcreative.co/contact/">
              <svg xmlns="https://i.postimg.cc/wMVnSTjY/Sq-Pt4TYy6QGz-Xv-R3.webp" width="20" height="21" viewBox="0 0 20 21" fill="none">
    <path d="M19.015 19.8549C18.4842 18.3662 17.3117 17.0514 15.6819 16.1134C14.052 15.1754 12.0547 14.6667 10.0002 14.6667C7.94569 14.6667 5.94835 15.1754 4.31852 16.1134C2.68869 17.0514 1.51618 18.3662 0.985352 19.8549" stroke="#ffffff" stroke-linecap="round"/>
    <path d="M10.0002 10C12.5775 10 14.6668 7.91068 14.6668 5.33335C14.6668 2.75602 12.5775 0.666687 10.0002 0.666687C7.42283 0.666687 5.3335 2.75602 5.3335 5.33335C5.3335 7.91068 7.42283 10 10.0002 10Z" stroke="#ffffff" stroke-linecap="round"/>
@@ -755,7 +755,7 @@
            </a>
          </div>
          <div class="icon icon-wishlist-header">
-           <a href="https://westcreative.co/">
+           <a href="https://westcreative.co/contact/">
              <svg xmlns="https://i.postimg.cc/wMVnSTjY/Sq-Pt4TYy6QGz-Xv-R3.webp" width="24" height="21" viewBox="0 0 24 21" fill="none">
    <path d="M17.4688 0.8125C15.1237 0.8125 13.1025 1.92703 12 3.77328C10.8975 1.92703 8.87625 0.8125 6.53125 0.8125C4.8494 0.814526 3.23702 1.48353 2.04778 2.67278C0.858534 3.86202 0.189526 5.47441 0.1875 7.15625C0.1875 10.2833 2.15625 13.5514 6.02813 16.8677C7.81594 18.3889 9.74622 19.7342 11.7922 20.885C11.856 20.9195 11.9274 20.9375 12 20.9375C12.0726 20.9375 12.144 20.9195 12.2078 20.885C14.2538 19.7342 16.1841 18.3889 17.9719 16.8677C21.8438 13.5514 23.8125 10.2833 23.8125 7.15625C23.8105 5.47441 23.1415 3.86202 21.9522 2.67278C20.763 1.48353 19.1506 0.814526 17.4688 0.8125ZM12 19.9991C10.4688 19.1241 1.0625 13.5077 1.0625 7.15625C1.06424 5.70638 1.64096 4.31639 2.66618 3.29118C3.69139 2.26596 5.08138 1.68924 6.53125 1.6875C8.84016 1.6875 10.7805 2.92453 11.5953 4.91516C11.6283 4.9954 11.6843 5.06403 11.7564 5.11233C11.8285 5.16063 11.9133 5.18642 12 5.18642C12.0867 5.18642 12.1715 5.16063 12.2436 5.11233C12.3157 5.06403 12.3717 4.9954 12.4047 4.91516C13.2195 2.92453 15.1598 1.6875 17.4688 1.6875C18.9186 1.68924 20.3086 2.26596 21.3338 3.29118C22.359 4.31639 22.9358 5.70638 22.9375 7.15625C22.9375 13.5 13.5312 19.1284 12 19.9991Z" fill="#ffffff"/>
  </svg>
@@ -764,7 +764,7 @@
            </a>
          </div>
          <div class="icon icon-cart-header">
-           <a href="https://westcreative.co/">
+           <a href="https://westcreative.co/contact/">
              <svg xmlns="https://i.postimg.cc/wMVnSTjY/Sq-Pt4TYy6QGz-Xv-R3.webp" width="22" height="21" viewBox="0 0 22 21" fill="none">
    <path d="M6.33301 10V5.33335C6.33301 4.09568 6.82467 2.90869 7.69984 2.03352C8.57501 1.15835 9.762 0.666687 10.9997 0.666687C12.2374 0.666687 13.4243 1.15835 14.2995 2.03352C15.1747 2.90869 15.6663 4.09568 15.6663 5.33335V10" stroke="#ffffff" stroke-linecap="round"/>
    <path d="M1.30956 10.7793C1.47873 8.74817 1.56389 7.73317 2.23356 7.116C2.90323 6.49883 3.92289 6.5 5.96106 6.5H16.0399C18.0769 6.5 19.0966 6.5 19.7662 7.116C20.4359 7.732 20.5211 8.74817 20.6902 10.7793L21.2899 17.973C21.3879 19.1548 21.4369 19.7463 21.0916 20.1232C20.7439 20.5 20.1512 20.5 18.9636 20.5H3.03623C1.84973 20.5 1.25589 20.5 0.909392 20.1232C0.562892 19.7463 0.611892 19.1548 0.711059 17.973L1.30956 10.7793Z" stroke="#ffffff"/>
@@ -782,7 +782,7 @@
      <div class="col-6 welcome-cust p-0">
        
          <h1 class="logo">
-     <a href="https://westcreative.co/">
+     <a href="https://westcreative.co/contact/">
          <img src="https://i.postimg.cc/wMVnSTjY/Sq-Pt4TYy6QGz-Xv-R3.webp" alt="LANDAKTOTO" style="max-height:60px;">
      </a>
  </h1>
@@ -810,43 +810,43 @@
             <ul class="running-menu">
 
                 <li>
-                    <a href="https://westcreative.co/">
+                    <a href="https://westcreative.co/contact/">
                         LANDAKTOTO
                     </a>
                 </li>
 
                 <li>
-                    <a href="https://westcreative.co/">
+                    <a href="https://westcreative.co/contact/">
                         LANDAK TOTO
                     </a>
                 </li>
 
                 <li>
-                    <a href="https://westcreative.co/">
+                    <a href="https://westcreative.co/contact/">
                         SITUS TOTO
                     </a>
                 </li>
 
                 <li>
-                    <a href="https://westcreative.co/">
+                    <a href="https://westcreative.co/contact/">
                         AGEN TOGEL
                     </a>
                 </li>
 
                 <li>
-                    <a href="https://westcreative.co/">
+                    <a href="https://westcreative.co/contact/">
                        TOGEL ONLINE
                     </a>
                 </li>
 
                 <li>
-                    <a href="https://westcreative.co/">
+                    <a href="https://westcreative.co/contact/">
                        SITUS TOTO TOGEL
                     </a>
                 </li>
 
                 <li>
-                    <a href="https://westcreative.co/">
+                    <a href="https://westcreative.co/contact/">
                         TOTO TOGEL ONLINE
                     </a>
                 </li>
@@ -859,43 +859,43 @@
             <ul class="running-menu">
 
                 <li>
-                    <a href="https://westcreative.co/">
+                    <a href="https://westcreative.co/contact/">
                         LANDAKTOTO
                     </a>
                 </li>
 
                 <li>
-                    <a href="https://westcreative.co/">
+                    <a href="https://westcreative.co/contact/">
                         LANDAK TOTO
                     </a>
                 </li>
 
                 <li>
-                    <a href="https://westcreative.co/">
+                    <a href="https://westcreative.co/contact/">
                         SITUS TOTO
                     </a>
                 </li>
 
                 <li>
-                    <a href="https://westcreative.co/">
+                    <a href="https://westcreative.co/contact/">
                         AGEN TOGEL
                     </a>
                 </li>
 
                 <li>
-                    <a href="https://westcreative.co/">
+                    <a href="https://westcreative.co/contact/">
                        TOGEL ONLINE
                     </a>
                 </li>
 
                 <li>
-                    <a href="https://westcreative.co/">
+                    <a href="https://westcreative.co/contact/">
                         SITUS TOTO TOGEL
                     </a>
                 </li>
 
                 <li>
-                    <a href="https://westcreative.co/">
+                    <a href="https://westcreative.co/contact/">
                         TOTO TOGEL ONLINE
                     </a>
                 </li>
@@ -2592,19 +2592,19 @@
  </style>
  <div class="container" style="color: #ffffff;">
    <ul role="navigation" aria-label="breadcrumbs">
-     <li><a href="https://westcreative.co/" style="color: #ffffff;">LANDAKTOTO</a></li>
+     <li><a href="https://westcreative.co/contact/" style="color: #ffffff;">LANDAKTOTO</a></li>
      <li><svg xmlns="https://i.postimg.cc/wMVnSTjY/Sq-Pt4TYy6QGz-Xv-R3.webp" width="7" height="10" viewBox="0 0 7 10" fill="none">
      <path d="M1.51673 0.0583496L6.2334 4.77502L1.51673 9.49168L0.933398 8.90002L5.0584 4.77502L0.933398 0.650016L1.51673 0.0583496Z" fill="#757575"/>
  </svg></li>
-     <li><a href="https://westcreative.co/" style="color: #ffffff;">SITUS TOTO</a></li>
+     <li><a href="https://westcreative.co/contact/" style="color: #ffffff;">SITUS TOTO</a></li>
      <li><svg xmlns="https://i.postimg.cc/wMVnSTjY/Sq-Pt4TYy6QGz-Xv-R3.webp" width="7" height="10" viewBox="0 0 7 10" fill="none">
      <path d="M1.51673 0.0583496L6.2334 4.77502L1.51673 9.49168L0.933398 8.90002L5.0584 4.77502L0.933398 0.650016L1.51673 0.0583496Z" fill="#757575"/>
  </svg></li>
-     <li><a href="https://westcreative.co/" style="color: #ffffff;">AGEN TOGEL</a></li>
+     <li><a href="https://westcreative.co/contact/" style="color: #ffffff;">AGEN TOGEL</a></li>
      <li><svg xmlns="https://i.postimg.cc/wMVnSTjY/Sq-Pt4TYy6QGz-Xv-R3.webp" width="7" height="10" viewBox="0 0 7 10" fill="none">
      <path d="M1.51673 0.0583496L6.2334 4.77502L1.51673 9.49168L0.933398 8.90002L5.0584 4.77502L0.933398 0.650016L1.51673 0.0583496Z" fill="#757575"/>
  </svg></li>
-     <li><a href="https://westcreative.co/" style="color: #ffffff;">SITUS TOTO GACOR</a></li>
+     <li><a href="https://westcreative.co/contact/" style="color: #ffffff;">SITUS TOTO GACOR</a></li>
      <li><svg xmlns="https://i.postimg.cc/wMVnSTjY/Sq-Pt4TYy6QGz-Xv-R3.webp" width="7" height="10" viewBox="0 0 7 10" fill="none">
      <path d="M1.51673 0.0583496L6.2334 4.77502L1.51673 9.49168L0.933398 8.90002L5.0584 4.77502L0.933398 0.650016L1.51673 0.0583496Z" fill="#757575"/>
  </svg></li>
@@ -2633,7 +2633,7 @@
  
  
  <div class="product-standing-flower" data-product-type="flowerBoard">
-   <meta itemprop="url" content="https://westcreative.co/">
+   <meta itemprop="url" content="https://westcreative.co/contact/">
    <meta itemprop="image" content="https://i.postimg.cc/9M6D2Tfp/6d1f5d5f-ceeb-49db-ab59-3084663baa34.png">
  
    
@@ -7954,7 +7954,7 @@
  "price": 835000,
  "priceValidUntil": "05-10-2025",
  "priceCurrency": "IDR",
- "url": "https://westcreative.co/"
+ "url": "https://westcreative.co/contact/"
  },
  "brand": {
  "@type": "Brand",
@@ -7965,7 +7965,7 @@
  "name": "LANDAKTOTO : Gerbang Utama Situs Toto dan Agen Togel Online Terbaru",
  "description": "LANDAKTOTO hadir sebagai portal utama situs toto dan agen togel online yang menyediakan beragam informasi pasaran, result, serta layanan dalam satu platform. Dengan akses mudah dan tampilan responsif, LANDAKTOTO memberikan pengalaman penggunaan yang praktis dan nyaman bagi penggemar togel.",
  "category": "LANDAKTOTO hadir sebagai portal utama situs toto dan agen togel online yang menyediakan beragam informasi pasaran, result, serta layanan dalam satu platform. Dengan akses mudah dan tampilan responsif, LANDAKTOTO memberikan pengalaman penggunaan yang praktis dan nyaman bagi penggemar togel.",
- "url": "https://westcreative.co/",
+ "url": "https://westcreative.co/contact/",
  "image": {
  "@type": "ImageObject",
  "url": "https://outerbloom.com/cdn/shop/files/Blossom-Shine-WM_small.jpg?v=1695788426",
