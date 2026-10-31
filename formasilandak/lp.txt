@@ -23,7 +23,7 @@
           <meta name="theme-color" content="#ffffff" />
           <meta name="csrf-param" content="authenticity_token" />
           <meta name="csrf-token" content="DosagmoOAa4ZTbPB68p3YKfq82dWdqhCizUuTovtUAqUkkmeAQ6QPa8mdB7o9YsanLVNIpX/a0GZCbIp2K4F3g==" />
-          <meta name="keywords" content="landaktoto, situs toto, slot gacor, toto slot, toto togel, toto 4D">
+          <meta name="keywords" content="landaktoto, situs toto, slot gacor, slot777, slot88, toto togel, toto 4D">
           <meta content='index, follow' name='robots'>
           <meta name="geo.placename" content="Indonesia">
           <meta name="googlebot" content="index, follow">
@@ -886,7 +886,7 @@
                                    <a href="https://formasilandak.com/"> SLOT GACOR </a>
                               </li>
                               <li class="header_top_level_menu_item">
-                                   <a href="https://formasilandak.com/"> TOTO TOGEL </a>
+                                   <a href="https://formasilandak.com/"> SLOT777 </a>
                               </li>
                               <li class="header_top_level_menu_item">
                                    <a href="https://formasilandak.com/"> LANDAKTOTO LOGIN </a>
