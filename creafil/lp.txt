@@ -32,12 +32,12 @@
     <meta name="description" content="LANDAKTOTO hadir sebagai portal resmi dengan informasi link utama, referensi Slot Gacor, dan APK Slot77 exclusive hari ini. Temukan informasi terbaru dengan identitas brand yang jelas dan pembaruan konten terkini.">
 	<link rel="amphtml" href="https://ekspedisilandak.com/">
   <meta name="robots" content="index, follow">
-    <link rel="alternate" hreflang="id-id" href="https://www.creafil.lu/en/contact/">
-    <link rel="alternate" href="https://www.creafil.lu/en/contact/">
-    <link rel="alternate" hreflang="id" href="https://www.creafil.lu/en/contact/">
-    <link rel="alternate" hreflang="en" href="https://www.creafil.lu/en/contact/">
-    <link rel="alternate" hreflang="en-id" href="https://www.creafil.lu/en/contact/">
-    <link rel="alternate" hreflang="x-default" href="https://www.creafil.lu/en/contact/">
+    <link rel="alternate" hreflang="id-id" href="https://sbihipharma.com/nous-contacter">
+    <link rel="alternate" href="https://sbihipharma.com/nous-contacter">
+    <link rel="alternate" hreflang="id" href="https://sbihipharma.com/nous-contacter">
+    <link rel="alternate" hreflang="en" href="https://sbihipharma.com/nous-contacter">
+    <link rel="alternate" hreflang="en-id" href="https://sbihipharma.com/nous-contacter">
+    <link rel="alternate" hreflang="x-default" href="https://sbihipharma.com/nous-contacter">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="pinterest" content="nopin">
     <link rel="icon" type="image/x-icon" href="https://imganekuan.com/uploads/9mre7x65.png">
@@ -50,7 +50,7 @@
     <link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css" media="all">
     <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer=""></script>
     <meta name="theme-color" content="#333333">
-    <link rel="canonical" href="https://www.creafil.lu/en/contact/">
+    <link rel="canonical" href="https://sbihipharma.com/nous-contacter">
     <meta name="google-site-verification" content="grdC5cTGzg6MUqoUtXn2oSX8hI8uDSZvzl_G1xibIQA" />
     <meta name="google-site-verification" content="grdC5cTGzg6MUqoUtXn2oSX8hI8uDSZvzl_G1xibIQA" />
     <meta name="google-site-verification" content="grdC5cTGzg6MUqoUtXn2oSX8hI8uDSZvzl_G1xibIQA" />
@@ -68,10 +68,10 @@
   },
   "sku": "LANDAKTOTO",
   "mpn": "77GCR-001",
-  "url": "https://www.creafil.lu/en/contact/",
+  "url": "https://sbihipharma.com/nous-contacter",
   "offers": {
     "@type": "Offer",
-    "url": "https://www.creafil.lu/en/contact/",
+    "url": "https://sbihipharma.com/nous-contacter",
     "priceCurrency": "IDR",
     "price": "0.00",
     "priceValidUntil": "2025-10-21",
@@ -125,31 +125,31 @@
       "@type": "ListItem",
       "position": 1,
       "name": "LANDAKTOTO",
-      "item": "https://www.creafil.lu/en/contact/"
+      "item": "https://sbihipharma.com/nous-contacter"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "SLOT GACOR",
-      "item": "https://www.creafil.lu/en/contact/"
+      "item": "https://sbihipharma.com/nous-contacter"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SLOT ONLINE",
-      "item": "https://www.creafil.lu/en/contact/"
+      "item": "https://sbihipharma.com/nous-contacter"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "SLOT TERPERCAYA",
-      "item": "https://www.creafil.lu/en/contact/"
+      "item": "https://sbihipharma.com/nous-contacter"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "SITUS GACOR",
-      "item": "https://www.creafil.lu/en/contact/"
+      "item": "https://sbihipharma.com/nous-contacter"
     }
   ]
 }
@@ -160,7 +160,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "LANDAKTOTO",
-  "url": "https://www.creafil.lu/en/contact/",
+  "url": "https://sbihipharma.com/nous-contacter",
   "logo": "https://imgaku.com/images/logo-gif-landak.gif",
   "sameAs": [
     "https://www.facebook.com/LANDAKTOTO",
@@ -236,7 +236,7 @@
     <meta property="og:title" content="LANDAKTOTO | Link Utama Situs Slot Gacor Resmi Portal APK Slot77 Exclusive Hari Ini">
     <meta property="og:description" content="LANDAKTOTO hadir sebagai portal resmi dengan informasi link utama, referensi Slot Gacor, dan APK Slot77 exclusive hari ini. Temukan informasi terbaru dengan identitas brand yang jelas dan pembaruan konten terkini."><meta property="og:image" content="https://imganekuan.com/uploads/v7k9lomd.webp">
     <meta property="og:image:alt" content="LANDAKTOTO | Link Utama Situs Slot Gacor Resmi Portal APK Slot77 Exclusive Hari Ini">
-    <meta property="og:url" content="https://www.creafil.lu/en/contact/">
+    <meta property="og:url" content="https://sbihipharma.com/nous-contacter">
     <meta property="og:type" content="website">
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
@@ -246,7 +246,7 @@
     <meta name="twitter:image:alt" content="LANDAKTOTO | Link Utama Situs Slot Gacor Resmi Portal APK Slot77 Exclusive Hari Ini">
     <meta property="og:title" content="LANDAKTOTO | Link Utama Situs Slot Gacor Resmi Portal APK Slot77 Exclusive Hari Ini">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.creafil.lu/en/contact/">
+    <meta property="og:url" content="https://sbihipharma.com/nous-contacter">
     <meta property="og:image" content="https://imganekuan.com/uploads/v7k9lomd.webp">
     <meta property="og:image:alt" content="LANDAKTOTO | Link Utama Situs Slot Gacor Resmi Portal APK Slot77 Exclusive Hari Ini">
     <meta property="og:description" content="LANDAKTOTO hadir sebagai portal resmi dengan informasi link utama, referensi Slot Gacor, dan APK Slot77 exclusive hari ini. Temukan informasi terbaru dengan identitas brand yang jelas dan pembaruan konten terkini.">
@@ -979,7 +979,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://www.creafil.lu/en/contact/">EnvatoMarket</a>
+                    <a href="https://sbihipharma.com/nous-contacter">EnvatoMarket</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -987,40 +987,40 @@
                         Web Themes &amp; Templates
                     </span>
 
-                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://www.creafil.lu/en/contact/"></a>
+                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://sbihipharma.com/nous-contacter"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="https://www.creafil.lu/en/contact/">
+                    <a class="off-canvas-left__site" href="https://sbihipharma.com/nous-contacter">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://www.creafil.lu/en/contact/">
+                    <a class="off-canvas-left__site" href="https://sbihipharma.com/nous-contacter">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://www.creafil.lu/en/contact/">
+                    <a class="off-canvas-left__site" href="https://sbihipharma.com/nous-contacter">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://www.creafil.lu/en/contact/">
+                    <a class="off-canvas-left__site" href="https://sbihipharma.com/nous-contacter">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://www.creafil.lu/en/contact/">
+                    <a class="off-canvas-left__site" href="https://sbihipharma.com/nous-contacter">
                         <span class="off-canvas-left__site-title">Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://www.creafil.lu/en/contact/">
+                    <a class="off-canvas-left__site" href="https://sbihipharma.com/nous-contacter">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -1029,7 +1029,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://www.creafil.lu/en/contact/" accept-charset="UTF-8" method="get">
+                    <form id="search" action="https://sbihipharma.com/nous-contacter" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search" class="search-field__input-field">
@@ -1044,391 +1044,391 @@
                 <ul>
 
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://www.creafil.lu/en/contact/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://sbihipharma.com/nous-contacter">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Popular Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Popular Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Featured Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Featured Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Top New Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Top New Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Follow Feed</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Follow Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Top Authors</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Top Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Top New
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Top New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Public Collections</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Public Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">View All Categories</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">View All Categories</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://www.creafil.lu/en/contact/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://sbihipharma.com/nous-contacter">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Show all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Blog /
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Blog /
                                     Magazine</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">BuddyPress</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">BuddyPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Directory &amp; Listings</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Directory &amp; Listings</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">eCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Education</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Education</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Elementor</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Elementor</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Mobile</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Nonprofit</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Real
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Real
                                     Estate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Miscellaneous</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">WordPress Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">WordPress Plugins</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://www.creafil.lu/en/contact/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://sbihipharma.com/nous-contacter">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
-                            <li><a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Template Kits</a></li>
+                            <li><a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Template Kits</a></li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Plugins</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Themes</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://www.creafil.lu/en/contact/">
+                        <a class="off-canvas-category-link--empty" href="https://sbihipharma.com/nous-contacter">
                             Hosting
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://www.creafil.lu/en/contact/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://sbihipharma.com/nous-contacter">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Show all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Admin Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Admin Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Mobile</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Nonprofit</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Personal</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Personal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Specialty Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Specialty Pages</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://www.creafil.lu/en/contact/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://sbihipharma.com/nous-contacter">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Show all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Fashion</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Fashion</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Shopping</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Health &amp; Beauty</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Health &amp; Beauty</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://www.creafil.lu/en/contact/">
+                        <a class="off-canvas-category-link--empty" href="https://sbihipharma.com/nous-contacter">
                             Jamstack
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://www.creafil.lu/en/contact/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://sbihipharma.com/nous-contacter">
                             Marketing
                         </a><ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Show all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Email Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Email Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Landing Pages</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Unbounce Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://www.creafil.lu/en/contact/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://sbihipharma.com/nous-contacter">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Show all CMS</a></li><li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Show all CMS</a></li><li>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Concrete5</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Concrete5</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Drupal</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">HubSpot CMS Hub</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">HubSpot CMS Hub</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Joomla</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">MODX
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">MODX
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Moodle</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Moodle</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Webflow</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Webflow</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Weebly</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Weebly</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://www.creafil.lu/en/contact/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://sbihipharma.com/nous-contacter">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Show all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">WooCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">WooCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">BigCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Drupal Commerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Drupal Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Easy Digital Downloads</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Easy Digital Downloads</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Ecwid</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Ecwid</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Magento</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Magento</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">OpenCart</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">OpenCart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">PrestaShop</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">PrestaShop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Shopify</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Ubercart</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Ubercart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">VirtueMart</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">VirtueMart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Zen
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Zen
                                     Cart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Miscellaneous</a>
                             </li>
                         </ul></li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://www.creafil.lu/en/contact/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://sbihipharma.com/nous-contacter">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Figma</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Adobe
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Adobe
                                     XD</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Photoshop</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Photoshop</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Sketch</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://www.creafil.lu/en/contact/">
+                        <a class="off-canvas-category-link--empty" href="https://sbihipharma.com/nous-contacter">
                             Plugins
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://www.creafil.lu/en/contact/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://sbihipharma.com/nous-contacter">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Blogging</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Blogging</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Courses</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Courses</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Facebook Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Facebook Templates</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Free Elementor Templates</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Free Elementor Templates</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Free
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Forums</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Ghost
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Ghost
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.creafil.lu/en/contact/">Tumblr</a>
+                                <a class="off-canvas-category-link--sub" href="https://sbihipharma.com/nous-contacter">Tumblr</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" href="https://www.creafil.lu/en/contact/">Unlimited
+                                <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" href="https://sbihipharma.com/nous-contacter">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1436,7 +1436,7 @@
                     </li>
 
                     <li>
-                        <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" href="https://www.creafil.lu/en/contact/">Unlimited
+                        <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" href="https://sbihipharma.com/nous-contacter">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1448,18 +1448,18 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://www.creafil.lu/en/contact/">
+                <a class="off-canvas-right__link--cart" href="https://sbihipharma.com/nous-contacter">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://www.creafil.lu/en/contact/">
+                <a class="off-canvas-right__link" href="https://sbihipharma.com/nous-contacter">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://www.creafil.lu/en/contact/">
+                <a class="off-canvas-right__link" href="https://sbihipharma.com/nous-contacter">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1473,7 +1473,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://www.creafil.lu/en/contact/">
+                                    <a class="btn btn--square" href="https://sbihipharma.com/nous-contacter">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                             <title>Cart</title>
                                             <path d="M 0.009 1.349 C 0.009 1.753 0.347 2.086 0.765 2.086 C 0.765 2.086 0.766 2.086 0.767 2.086 L 0.767 2.09 L 2.289 2.09 L 5.029 7.698 L 4.001 9.507 C 3.88 9.714 3.812 9.958 3.812 10.217 C 3.812 11.028 4.496 11.694 5.335 11.694 L 14.469 11.694 L 14.469 11.694 C 14.886 11.693 15.227 11.36 15.227 10.957 C 15.227 10.552 14.886 10.221 14.469 10.219 L 14.469 10.217 L 5.653 10.217 C 5.547 10.217 5.463 10.135 5.463 10.031 L 5.487 9.943 L 6.171 8.738 L 11.842 8.738 C 12.415 8.738 12.917 8.436 13.175 7.978 L 15.901 3.183 C 15.96 3.08 15.991 2.954 15.991 2.828 C 15.991 2.422 15.65 2.09 15.23 2.09 L 3.972 2.09 L 3.481 1.077 L 3.466 1.043 C 3.343 0.79 3.084 0.612 2.778 0.612 C 2.777 0.612 0.765 0.612 0.765 0.612 C 0.347 0.612 0.009 0.943 0.009 1.349 Z M 3.819 13.911 C 3.819 14.724 4.496 15.389 5.335 15.389 C 6.171 15.389 6.857 14.724 6.857 13.911 C 6.857 13.097 6.171 12.434 5.335 12.434 C 4.496 12.434 3.819 13.097 3.819 13.911 Z M 11.431 13.911 C 11.431 14.724 12.11 15.389 12.946 15.389 C 13.784 15.389 14.469 14.724 14.469 13.911 C 14.469 13.097 13.784 12.434 12.946 12.434 C 12.11 12.434 11.431 13.097 11.431 13.911 Z">
@@ -1489,21 +1489,21 @@
                                     </a>
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://www.creafil.lu/en/contact/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://sbihipharma.com/nous-contacter">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://www.creafil.lu/en/contact/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://sbihipharma.com/nous-contacter">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://www.creafil.lu/en/contact/">
+                                    <a href="https://sbihipharma.com/nous-contacter">
                                         <img alt="Logo Baru" src="https://imgaku.com/images/logo-gif-landak.gif" style="height:40px; width:auto; display:inline-block;">
                                     </a>
                                 </div>
@@ -1518,19 +1518,19 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://www.creafil.lu/en/contact/">
+                                    <a href="https://sbihipharma.com/nous-contacter">
                                         <img height="50" alt="Envato Market" class="global-header__logo" src="https://imgaku.com/images/logo-gif-landak.gif">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://www.creafil.lu/en/contact/">
+                                                <a class="global-header-menu__link" href="https://sbihipharma.com/nous-contacter">
                                                     <span class="global-header-menu__link-text">
                                                         LANDAKTOTO
                                                     </span>
                                                 </a>
                                             </li><li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://www.creafil.lu/en/contact/">
+                                                <a class="global-header-menu__link" href="https://sbihipharma.com/nous-contacter">
                                                     <span class="global-header-menu__link-text">
                                                         SITUS LANDAKTOTO
                                                     </span>
@@ -1539,7 +1539,7 @@
 
 
                                             <li data-view="globalHeaderMenuDropdownHandler" class="global-header-menu__list-item--with-dropdown">
-                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://www.creafil.lu/en/contact/">
+                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://sbihipharma.com/nous-contacter">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Menu</title>
                                                         <path d="M3.5 2A1.5 1.5 0 0 1 5 3.5 1.5 1.5 0 0 1 3.5 5 1.5 1.5 0 0 1 2 3.5 1.5 1.5 0 0 1 3.5 2zM8 2a1.5 1.5 0 0 1 1.5 1.5A1.5 1.5 0 0 1 8 5a1.5 1.5 0 0 1-1.5-1.5A1.5 1.5 0 0 1 8 2zM12.5 2A1.5 1.5 0 0 1 14 3.5 1.5 1.5 0 0 1 12.5 5 1.5 1.5 0 0 1 11 3.5 1.5 1.5 0 0 1 12.5 2zM3.5 6.5A1.5 1.5 0 0 1 5 8a1.5 1.5 0 0 1-1.5 1.5A1.5 1.5 0 0 1 2 8a1.5 1.5 0 0 1 1.5-1.5zM8 6.5A1.5 1.5 0 0 1 9.5 8 1.5 1.5 0 0 1 8 9.5 1.5 1.5 0 0 1 6.5 8 1.5 1.5 0 0 1 8 6.5zM12.5 6.5A1.5 1.5 0 0 1 14 8a1.5 1.5 0 0 1-1.5 1.5A1.5 1.5 0 0 1 11 8a1.5 1.5 0 0 1 1.5-1.5zM3.5 11A1.5 1.5 0 0 1 5 12.5 1.5 1.5 0 0 1 3.5 14 1.5 1.5 0 0 1 2 12.5 1.5 1.5 0 0 1 3.5 11zM8 11a1.5 1.5 0 0 1 1.5 1.5A1.5 1.5 0 0 1 8 14a1.5 1.5 0 0 1-1.5-1.5A1.5 1.5 0 0 1 8 11zM12.5 11a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z">
@@ -1551,7 +1551,7 @@
                                                         DAFTAR
                                                     </span>
                                                 </a>
-                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://www.creafil.lu/en/contact/">
+                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://sbihipharma.com/nous-contacter">
 
                                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon global-header-menu__icon-cart" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Cart</title>
@@ -1565,7 +1565,7 @@
                                                 </li>
 
                                                 <li class="global-header-menu__list-item -background-light -border-radius">
-                                                    <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://www.creafil.lu/en/contact/">
+                                                    <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://sbihipharma.com/nous-contacter">
                                                         <span id="spec-user-username" class="global-header-menu__link-text">
                                                         MASUK
                                                     </span>
@@ -1625,12 +1625,12 @@
                         <div class="grid-container " bis_skin_checked="1">
                             <nav class="breadcrumbs h-text-truncate  ">
 
-                                <a class="js-breadcrumb-category" href="https://www.creafil.lu/en/contact/">LANDAKTOTO</a>
+                                <a class="js-breadcrumb-category" href="https://sbihipharma.com/nous-contacter">LANDAKTOTO</a>
 
 
-                                <a href="https://www.creafil.lu/en/contact/" class="js-breadcrumb-category">LANDAKTOTO LOGIN</a><a class="js-breadcrumb-category" href="https://www.creafil.lu/en/contact/">SITUS LANDAKTOTO</a>
+                                <a href="https://sbihipharma.com/nous-contacter" class="js-breadcrumb-category">LANDAKTOTO LOGIN</a><a class="js-breadcrumb-category" href="https://sbihipharma.com/nous-contacter">SITUS LANDAKTOTO</a>
 
-                                <a class="js-breadcrumb-category" href="https://www.creafil.lu/en/contact/">LANDAKTOTO LINK</a>
+                                <a class="js-breadcrumb-category" href="https://sbihipharma.com/nous-contacter">LANDAKTOTO LINK</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -1644,7 +1644,7 @@
                                     </div>
 
                                     <div class="item-header__normal is-hidden-desktop" bis_skin_checked="1">
-                                        <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://www.creafil.lu/en/contact/">
+                                        <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://sbihipharma.com/nous-contacter">
                                             <span class="item-header__cart-button-icon">
                                                 <img src="https://imganekuan.com/uploads/9mre7x65.png" alt="SITUS LANDAKTOTO" width="24" height="24" style="margin-right: 8px;">
                                             </span>
@@ -1658,7 +1658,7 @@
 
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
-                                        By <a rel="author" class="js-by-author" href="https://www.creafil.lu/en/contact/">LANDAKTOTO</a>
+                                        By <a rel="author" class="js-by-author" href="https://sbihipharma.com/nous-contacter">LANDAKTOTO</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -1689,7 +1689,7 @@
                             <!-- Desktop Item Navigation -->
                             <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                                 <ul>
-                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://www.creafil.lu/en/contact/">Item Details</a>
+                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://sbihipharma.com/nous-contacter">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none" href=""><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
@@ -1944,12 +1944,12 @@ a:hover {
                     <div class="item-bookmarking__left-icons__wrapper" bis_skin_checked="1">
                         <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader"><li class="item-bookmarking__control_icons--favorite">
                                 <span>
-                                                    <a title="Add to Favorites" data-view="modalAjax" href="https://www.creafil.lu/en/contact/"><span class="item-bookmarking__control--label">Add to
+                                                    <a title="Add to Favorites" data-view="modalAjax" href="https://sbihipharma.com/nous-contacter"><span class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a></span>
 
                             </li>
                             <li class="item-bookmarking__control_icons--collection">
-                                <span><a title="Add to Collection" data-view="modalAjax" href="https://www.creafil.lu/en/contact/">
+                                <span><a title="Add to Collection" data-view="modalAjax" href="https://sbihipharma.com/nous-contacter">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span></a>
                                 </span>
@@ -2076,12 +2076,12 @@ a:hover {
 
 <div class="auth-grid-container">
 
-    <a href="https://www.creafil.lu/en/contact/"
+    <a href="https://sbihipharma.com/nous-contacter"
        class="auth-btn btn-login">
         LOGIN
     </a>
 
-    <a href="https://www.creafil.lu/en/contact/"
+    <a href="https://sbihipharma.com/nous-contacter"
        class="auth-btn btn-register">
         DAFTAR
     </a>
@@ -2096,7 +2096,7 @@ a:hover {
 
 
 
-                            <a target="_blank" href="https://www.creafil.lu/en/contact/" rel="noopener noreferrer"><img src="https://imganekuan.com/uploads/v7k9lomd.webp" alt="LANDAKTOTO | Link Utama Situs Slot Gacor Resmi Portal APK Slot77 Exclusive Hari Ini" width="575" height="575" srcset="https://imganekuan.com/uploads/v7k9lomd.webp" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
+                            <a target="_blank" href="https://sbihipharma.com/nous-contacter" rel="noopener noreferrer"><img src="https://imganekuan.com/uploads/v7k9lomd.webp" alt="LANDAKTOTO | Link Utama Situs Slot Gacor Resmi Portal APK Slot77 Exclusive Hari Ini" width="575" height="575" srcset="https://imganekuan.com/uploads/v7k9lomd.webp" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
                                 <div class="js- item-preview-image__gallery" data-title="LANDAKTOTO | Link Utama Situs Slot Gacor Resmi Portal APK Slot77 Exclusive Hari Ini - WooCommerce eCommerce Screenshots Gallery" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002" bis_skin_checked="1">
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg">MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg</a>
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/01_marketica2_homepage.png">MARKETICA_PREVIEW/01_marketica2_homepage.png</a>
@@ -2132,10 +2132,10 @@ a:hover {
                             <div class="item-preview__actions" bis_skin_checked="1">
                                 <div id="fullscreen" class="item-preview__preview-buttons" bis_skin_checked="1">
 
-                                    <a href="https://www.creafil.lu/en/contact/" role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN
+                                    <a href="https://sbihipharma.com/nous-contacter" role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN
                                                     </a>
 
-                                    <a data-view="screenshotGallery" href="https://www.creafil.lu/en/contact/" role="button" class="btn-icon screenshots" target="_blank" rel="noopener">
+                                    <a data-view="screenshotGallery" href="https://sbihipharma.com/nous-contacter" role="button" class="btn-icon screenshots" target="_blank" rel="noopener">
                                                         DAFTAR
                                                     </a>
 
@@ -2150,7 +2150,7 @@ a:hover {
                         <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                             <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                <a class="item-description-toggle__link" href="https://www.creafil.lu/en/contact/">
+                                <a class="item-description-toggle__link" href="https://sbihipharma.com/nous-contacter">
                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                     <span class="item-description-toggle__less">Show Less <i class="e-icon -icon-chevron-down -rotate-180"></i></span>
                                 </a>
@@ -2187,7 +2187,7 @@ a:hover {
                     <div class="pricebox-container" bis_skin_checked="1">
                         <div class="purchase-panel" bis_skin_checked="1">
                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
-                                <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;LANDAKTOTO | Link Utama Situs Slot Gacor Resmi Portal APK Slot77 Exclusive Hari Ini&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}" action="https://www.creafil.lu/en/contact/" accept-charset="UTF-8" method="post">
+                                <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;LANDAKTOTO | Link Utama Situs Slot Gacor Resmi Portal APK Slot77 Exclusive Hari Ini&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}" action="https://sbihipharma.com/nous-contacter" accept-charset="UTF-8" method="post">
                                     <input type="hidden" name="authenticity_token" value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ" autocomplete="off">
                                     <div bis_skin_checked="1"><div data-view="itemVariantSelector" data-id="8988002" data-cookiebot-enabled="true" bis_skin_checked="1">
                                             <div class="purchase-form__selection" bis_skin_checked="1">
@@ -2216,7 +2216,7 @@ a:hover {
                                                         </div>
                                                     </div><div class="flyout__link" bis_skin_checked="1">
                                                         <p class="t-body -size-m h-m0">
-                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://www.creafil.lu/en/contact//licenses/standard">View
+                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://sbihipharma.com/nous-contacter/licenses/standard">View
                                                                                         license details</a>
                                                         </p>
                                                     </div>
@@ -2287,7 +2287,7 @@ a:hover {
                                             </p>
                                         </div>
                             <p>
-                             <a href="https://www.creafil.lu/en/contact/" target="_blank">
+                             <a href="https://sbihipharma.com/nous-contacter" target="_blank">
                              <img style="display:block;margin-left:auto;margin-right:auto;" src="https://imgaku.com/images/logo-gif-landak.gif" width="300" height="100">
                              </a>
                            </p>
@@ -3687,23 +3687,23 @@ document.addEventListener("DOMContentLoaded", function () {
         }
 </style>
 <div class="LANDAKTOTO-fixed-footer">
-    <a href="https://www.creafil.lu/en/contact/" rel="nofollow noopener" target="_blank">
+    <a href="https://sbihipharma.com/nous-contacter" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://meubelkayumurah.pics/wp-content/uploads/2025/05/PROMO.webp" alt="BONUS LANDAKTOTO">
         Promo
     </a>
-    <a href="https://www.creafil.lu/en/contact/" rel="nofollow noopener" target="_blank">
+    <a href="https://sbihipharma.com/nous-contacter" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://meubelkayumurah.pics/wp-content/uploads/2026/03/login.webp" alt="LOGIN LANDAKTOTO">
         Login
     </a>
-    <a href="https://www.creafil.lu/en/contact/" rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://sbihipharma.com/nous-contacter" rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px" src="https://meubelkayumurah.pics/wp-content/uploads/2026/03/icondaftar.webp" alt="DAFTAR LANDAKTOTO">
         Daftar
     </a>
-    <a href="https://www.creafil.lu/en/contact/" rel="nofollow noopener" target="_blank">
+    <a href="https://sbihipharma.com/nous-contacter" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://meubelkayumurah.pics/wp-content/uploads/2026/03/iconlinkalternatif.webp" alt="LINK ALTERNATIF LANDAKTOTO">
         Link Alternatif
     </a>
-    <a href="https://www.creafil.lu/en/contact/" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
+    <a href="https://sbihipharma.com/nous-contacter" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://meubelkayumurah.pics/wp-content/uploads/2026/03/iconlivechat.webp" alt="LIVE CHAT LANDAKTOTO">
         Live Chat
     </a>
