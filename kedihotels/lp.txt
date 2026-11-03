@@ -9,13 +9,13 @@
     <link rel="preload" href="https://public-assets.envato-static.com/assets/generated_sprites/common-5af54247f3a645893af51456ee4c483f6530608e9c15ca4a8ac5a6e994d9a340.png" as="image">
     <title>LANDAKTOTO - Daftar Situs Toto Slot Gacor Viral dengan Bandar Slot88 Ladang Maxwin Hari ini</title>
     <meta name="description" content="LANDAKTOTO hadir sebagai identitas utama Slot Gacor Viral dengan referensi Bandar Slot88 dan informasi Ladang Maxwin dalam perkembangan Slot Online hari ini.">
-   <link rel="canonical" href="https://kedihotels.de/">
+   <link rel="canonical" href="https://kedihotels.de/kontakt">
 	<link rel="amphtml" href="https://landaktoto-viral-kedihotels.pages.dev/" />
-    <link rel="alternate" hreflang="id-id" href="https://kedihotels.de/" />
-    <link rel="alternate" href="https://kedihotels.de/" />
-    <link rel="alternate" hreflang="id" href="https://kedihotels.de/" />
-    <link rel="alternate" hreflang="en" href="https://kedihotels.de/" />
-    <link rel="alternate" hreflang="x-default" href="https://kedihotels.de/" />
+    <link rel="alternate" hreflang="id-id" href="https://kedihotels.de/kontakt" />
+    <link rel="alternate" href="https://kedihotels.de/kontakt" />
+    <link rel="alternate" hreflang="id" href="https://kedihotels.de/kontakt" />
+    <link rel="alternate" hreflang="en" href="https://kedihotels.de/kontakt" />
+    <link rel="alternate" hreflang="x-default" href="https://kedihotels.de/kontakt" />
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" type="image/x-icon" href="https://imganekuan.com/uploads/9mre7x65.png">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://imganekuan.com/uploads/9mre7x65.png" sizes="72x72">
@@ -40,10 +40,10 @@
   },
   "sku": "LANDAKTOTO",
   "mpn": "77GCR-001",
-  "url": "https://kedihotels.de/",
+  "url": "https://kedihotels.de/kontakt",
   "offers": {
     "@type": "Offer",
-    "url": "https://kedihotels.de/",
+    "url": "https://kedihotels.de/kontakt",
     "priceCurrency": "IDR",
     "price": "0.00",
     "priceValidUntil": "2025-10-21",
@@ -112,31 +112,31 @@
       "@type": "ListItem",
       "position": 1,
       "name": "LANDAKTOTO",
-      "item": "https://kedihotels.de/"
+      "item": "https://kedihotels.de/kontakt"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "LANDAKTOTO LINK",
-      "item": "https://kedihotels.de/"
+      "item": "https://kedihotels.de/kontakt"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SLOT GACOR",
-      "item": "https://kedihotels.de/"
+      "item": "https://kedihotels.de/kontakt"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "SITUS SLOT GACOR",
-      "item": "https://kedihotels.de/"
+      "item": "https://kedihotels.de/kontakt"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "SLOT GACOR TERPERCAYA",
-      "item": "https://kedihotels.de/"
+      "item": "https://kedihotels.de/kontakt"
     }
   ]
 }
@@ -147,7 +147,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "LANDAKTOTO",
-  "url": "https://kedihotels.de/",
+  "url": "https://kedihotels.de/kontakt",
   "logo": "https://imgaku.com/images/gif-baru-lt.gif",
   "sameAs": [
     "https://www.facebook.com/LANDAKTOTO",
@@ -175,7 +175,7 @@
     <meta property="og:title" content="LANDAKTOTO - Daftar Situs Toto Slot Gacor Viral dengan Bandar Slot88 Ladang Maxwin Hari ini">
     <meta property="og:description" content="LANDAKTOTO hadir sebagai identitas utama Slot Gacor Viral dengan referensi Bandar Slot88 dan informasi Ladang Maxwin dalam perkembangan Slot Online hari ini."><meta property="og:image" content="https://imganekuan.com/uploads/ezf6mhbi.webp" />
     <meta property="og:image:alt" content="LANDAKTOTO - Daftar Situs Toto Slot Gacor Viral dengan Bandar Slot88 Ladang Maxwin Hari ini" />
-    <meta property="og:url" content="https://kedihotels.de/">
+    <meta property="og:url" content="https://kedihotels.de/kontakt">
     <meta property="og:type" content="website">
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
@@ -185,7 +185,7 @@
     <meta name="twitter:image:alt" content="LANDAKTOTO - Daftar Situs Toto Slot Gacor Viral dengan Bandar Slot88 Ladang Maxwin Hari ini" />
     <meta property="og:title" content="LANDAKTOTO - Daftar Situs Toto Slot Gacor Viral dengan Bandar Slot88 Ladang Maxwin Hari ini">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://kedihotels.de/">
+    <meta property="og:url" content="https://kedihotels.de/kontakt">
     <meta property="og:image" content="https://imganekuan.com/uploads/ezf6mhbi.webp" />
     <meta property="og:image:alt" content="LANDAKTOTO - Daftar Situs Toto Slot Gacor Viral dengan Bandar Slot88 Ladang Maxwin Hari ini" />
     <meta property="og:description" content="LANDAKTOTO hadir sebagai identitas utama Slot Gacor Viral dengan referensi Bandar Slot88 dan informasi Ladang Maxwin dalam perkembangan Slot Online hari ini.">
@@ -837,11 +837,11 @@
 
 <body class="color-scheme-light" data-view="app impressionTracker" data-responsive="true" data-user-signed-in="false" __processed_046ac43c-cdf6-4311-9a75-3ea1775342f5__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMjYiLCJzY29yZSI6MjAwMjYwfV0=">
 <div style="display:none" data-nosnippet="true">
-<a href="https://kedihotels.de/">LANDAKTOTO</a>
-<a href="https://kedihotels.de/">LANDAKTOTO LINK</a>
-<a href="https://kedihotels.de/">SLOT GACOR</a>
-<a href="https://kedihotels.de/">SITUS SLOT GACOR</a>
-<a href="https://kedihotels.de/">SLOT GACOR TERPERCAYA</a>
+<a href="https://kedihotels.de/kontakt">LANDAKTOTO</a>
+<a href="https://kedihotels.de/kontakt">LANDAKTOTO LINK</a>
+<a href="https://kedihotels.de/kontakt">SLOT GACOR</a>
+<a href="https://kedihotels.de/kontakt">SITUS SLOT GACOR</a>
+<a href="https://kedihotels.de/kontakt">SLOT GACOR TERPERCAYA</a>
 </div>
     
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
@@ -928,7 +928,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://kedihotels.de/">EnvatoMarket</a>
+                    <a href="https://kedihotels.de/kontakt">EnvatoMarket</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -936,40 +936,40 @@
                         Web Themes &amp; Templates
                     </span>
 
-                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://kedihotels.de/"></a>
+                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://kedihotels.de/kontakt"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="https://kedihotels.de/">
+                    <a class="off-canvas-left__site" href="https://kedihotels.de/kontakt">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://kedihotels.de/">
+                    <a class="off-canvas-left__site" href="https://kedihotels.de/kontakt">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://kedihotels.de/">
+                    <a class="off-canvas-left__site" href="https://kedihotels.de/kontakt">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://kedihotels.de/">
+                    <a class="off-canvas-left__site" href="https://kedihotels.de/kontakt">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://kedihotels.de/">
+                    <a class="off-canvas-left__site" href="https://kedihotels.de/kontakt">
                         <span class="off-canvas-left__site-title">Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://kedihotels.de/">
+                    <a class="off-canvas-left__site" href="https://kedihotels.de/kontakt">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -978,7 +978,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://kedihotels.de/" accept-charset="UTF-8" method="get">
+                    <form id="search" action="https://kedihotels.de/kontakt" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search" class="search-field__input-field">
@@ -993,393 +993,393 @@
                 <ul>
 
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://kedihotels.de/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://kedihotels.de/kontakt">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Popular Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Popular Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Featured Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Featured Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Top New Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Top New Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Follow Feed</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Follow Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Top Authors</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Top Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Top New
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Top New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Public Collections</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Public Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">View All Categories</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">View All Categories</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://kedihotels.de/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://kedihotels.de/kontakt">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Show all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Blog /
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Blog /
                                     Magazine</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">BuddyPress</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">BuddyPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Directory &amp; Listings</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Directory &amp; Listings</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">eCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Education</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Education</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Elementor</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Elementor</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Mobile</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Nonprofit</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Real
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Real
                                     Estate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Miscellaneous</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">WordPress Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">WordPress Plugins</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://kedihotels.de/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://kedihotels.de/kontakt">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
-                            <li><a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Template Kits</a></li>
+                            <li><a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Template Kits</a></li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Plugins</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Themes</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://kedihotels.de/">
+                        <a class="off-canvas-category-link--empty" href="https://kedihotels.de/kontakt">
                             Hosting
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://kedihotels.de/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://kedihotels.de/kontakt">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Show all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Admin Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Admin Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Mobile</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Nonprofit</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Personal</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Personal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Specialty Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Specialty Pages</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://kedihotels.de/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://kedihotels.de/kontakt">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Show all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Fashion</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Fashion</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Shopping</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Health &amp; Beauty</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Health &amp; Beauty</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://kedihotels.de/">
+                        <a class="off-canvas-category-link--empty" href="https://kedihotels.de/kontakt">
                             Jamstack
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://kedihotels.de/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://kedihotels.de/kontakt">
                             Marketing
                         </a><ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Show all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Email Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Email Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Landing Pages</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Unbounce Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://kedihotels.de/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://kedihotels.de/kontakt">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Show all CMS</a></li><li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Show all CMS</a></li><li>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Concrete5</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Concrete5</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Drupal</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">HubSpot CMS Hub</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">HubSpot CMS Hub</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Joomla</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">MODX
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">MODX
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Moodle</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Moodle</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Webflow</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Webflow</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Weebly</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Weebly</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://kedihotels.de/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://kedihotels.de/kontakt">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Show all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">WooCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">WooCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">BigCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Drupal Commerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Drupal Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Easy Digital Downloads</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Easy Digital Downloads</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Ecwid</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Ecwid</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Magento</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Magento</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">OpenCart</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">OpenCart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">PrestaShop</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">PrestaShop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Shopify</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Ubercart</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Ubercart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">VirtueMart</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">VirtueMart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Zen
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Zen
                                     Cart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Miscellaneous</a>
                             </li>
                         </ul></li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://kedihotels.de/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://kedihotels.de/kontakt">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Figma</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Adobe
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Adobe
                                     XD</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Photoshop</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Photoshop</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Sketch</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://kedihotels.de/">
+                        <a class="off-canvas-category-link--empty" href="https://kedihotels.de/kontakt">
                             Plugins
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://kedihotels.de/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://kedihotels.de/kontakt">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Blogging</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Blogging</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Courses</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Courses</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Facebook Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Facebook Templates</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Free Elementor Templates</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Free Elementor Templates</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Free
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Forums</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Ghost
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Ghost
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/">Tumblr</a>
+                                <a class="off-canvas-category-link--sub" href="https://kedihotels.de/kontakt">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://kedihotels.de/">Unlimited
+                                    href="https://kedihotels.de/kontakt">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1389,7 +1389,7 @@
                     <li>
                         <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://kedihotels.de/">Unlimited
+                            href="https://kedihotels.de/kontakt">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1401,18 +1401,18 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://kedihotels.de/">
+                <a class="off-canvas-right__link--cart" href="https://kedihotels.de/kontakt">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://kedihotels.de/">
+                <a class="off-canvas-right__link" href="https://kedihotels.de/kontakt">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://kedihotels.de/">
+                <a class="off-canvas-right__link" href="https://kedihotels.de/kontakt">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1426,7 +1426,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://kedihotels.de/">
+                                    <a class="btn btn--square" href="https://kedihotels.de/kontakt">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                             <title>Cart</title>
                                             <path
@@ -1443,21 +1443,21 @@
                                     </a>
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://kedihotels.de/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://kedihotels.de/kontakt">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://kedihotels.de/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://kedihotels.de/kontakt">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://kedihotels.de/">
+                                    <a href="https://kedihotels.de/kontakt">
                                         <img alt="Logo Baru" src="https://imgaku.com/images/gif-baru-lt.gif" style="height:40px; width:auto; display:inline-block;">
                                     </a>
                                 </div>
@@ -1472,19 +1472,19 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://kedihotels.de/">
+                                    <a href="https://kedihotels.de/kontakt">
                                         <img height="50" alt="Envato Market" class="global-header__logo" src="https://imgaku.com/images/gif-baru-lt.gif">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://kedihotels.de/">
+                                                <a class="global-header-menu__link" href="https://kedihotels.de/kontakt">
                                                     <span class="global-header-menu__link-text">
                                                         LANDAKTOTO
                                                     </span>
                                                 </a>
                                             </li><li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://kedihotels.de/">
+                                                <a class="global-header-menu__link" href="https://kedihotels.de/kontakt">
                                                     <span class="global-header-menu__link-text">
                                                         SLOT GACOR
                                                     </span>
@@ -1493,7 +1493,7 @@
 
 
                                             <li data-view="globalHeaderMenuDropdownHandler" class="global-header-menu__list-item--with-dropdown">
-                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://kedihotels.de/">
+                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://kedihotels.de/kontakt">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Menu</title>
                                                         <path
@@ -1506,7 +1506,7 @@
                                                         DAFTAR
                                                     </span>
                                                 </a>
-                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://kedihotels.de/">
+                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://kedihotels.de/kontakt">
 
                                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon global-header-menu__icon-cart" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Cart</title>
@@ -1521,7 +1521,7 @@
                                                 </li>
 
                                                 <li class="global-header-menu__list-item -background-light -border-radius">
-                                                    <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://kedihotels.de/">
+                                                    <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://kedihotels.de/kontakt">
                                                         <span id="spec-user-username" class="global-header-menu__link-text">
                                                         MASUK
                                                     </span>
@@ -1709,13 +1709,13 @@
                         <div class="grid-container " bis_skin_checked="1">
                             <nav class="breadcrumbs h-text-truncate  ">
 
-                                <a class="js-breadcrumb-category" href="https://kedihotels.de/">LANDAKTOTO</a>
+                                <a class="js-breadcrumb-category" href="https://kedihotels.de/kontakt">LANDAKTOTO</a>
 
-                                <a href="https://kedihotels.de/" class="js-breadcrumb-category">SLOT GACOR</a>
+                                <a href="https://kedihotels.de/kontakt" class="js-breadcrumb-category">SLOT GACOR</a>
 
-                                <a class="js-breadcrumb-category" href="https://kedihotels.de/">SITUS SLOT GACOR</a>
+                                <a class="js-breadcrumb-category" href="https://kedihotels.de/kontakt">SITUS SLOT GACOR</a>
 
-                                <a class="js-breadcrumb-category" href="https://kedihotels.de/">SLOT GACOR TERPERCAYA</a>
+                                <a class="js-breadcrumb-category" href="https://kedihotels.de/kontakt">SLOT GACOR TERPERCAYA</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -1729,7 +1729,7 @@
                                     </div>
 
                                     <div class="item-header__normal is-hidden-desktop" bis_skin_checked="1">
-                                        <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://kedihotels.de/">
+                                        <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://kedihotels.de/kontakt">
                                             <span class="item-header__cart-button-icon">
                                                 <img src="https://imganekuan.com/uploads/9mre7x65.png" alt="LANDAKTOTO" width="24" height="24" style="margin-right: 8px;">
                                             </span>
@@ -1743,7 +1743,7 @@
 
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
-                                        By <a rel="author" class="js-by-author" href="https://kedihotels.de/">LANDAKTOTO</a>
+                                        By <a rel="author" class="js-by-author" href="https://kedihotels.de/kontakt">LANDAKTOTO</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -1777,7 +1777,7 @@
                             <!-- Desktop Item Navigation -->
                             <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                                 <ul>
-                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://kedihotels.de/">Item Details</a>
+                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://kedihotels.de/kontakt">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none" href=""><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
@@ -2158,22 +2158,22 @@ a:hover {
                         <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader"><li class="item-bookmarking__control_icons--favorite">
                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://kedihotels.de/"><span
+                                                        href="https://kedihotels.de/kontakt"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a></span>
 
                             </li>
                             <li class="item-bookmarking__control_icons--collection">
-                                <span><a title="Add to Collection" data-view="modalAjax"href="https://kedihotels.de/">
+                                <span><a title="Add to Collection" data-view="modalAjax"href="https://kedihotels.de/kontakt">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span></a>
                                 </span>
 </div>
                   <div class="button-login-daftar">
-                     <a class="login" href="https://kedihotels.de/" rel="nofollow noreferrer" style="color: #ffffff;">
+                     <a class="login" href="https://kedihotels.de/kontakt" rel="nofollow noreferrer" style="color: #ffffff;">
                          LOGIN
                      </a>
-                     <a class="register" href="https://kedihotels.de/" rel="nofollow noreferrer" style="color: #ffffff;">
+                     <a class="register" href="https://kedihotels.de/kontakt" rel="nofollow noreferrer" style="color: #ffffff;">
                          DAFTAR
                      </a>
                             </li>
@@ -2187,7 +2187,7 @@ a:hover {
 
 
 
-                            <a target="_blank" href="https://kedihotels.de/" rel="noopener noreferrer"><img src="https://imganekuan.com/uploads/ezf6mhbi.webp" alt="LANDAKTOTO - Daftar Situs Toto Slot Gacor Viral dengan Bandar Slot88 Ladang Maxwin Hari ini" width="575" height="575" srcset="https://imganekuan.com/uploads/ezf6mhbi.webp" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
+                            <a target="_blank" href="https://kedihotels.de/kontakt" rel="noopener noreferrer"><img src="https://imganekuan.com/uploads/ezf6mhbi.webp" alt="LANDAKTOTO - Daftar Situs Toto Slot Gacor Viral dengan Bandar Slot88 Ladang Maxwin Hari ini" width="575" height="575" srcset="https://imganekuan.com/uploads/ezf6mhbi.webp" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
                                 <div class="js- item-preview-image__gallery" data-title="LANDAKTOTO - Daftar Situs Toto Slot Gacor Viral dengan Bandar Slot88 Ladang Maxwin Hari ini - WooCommerce eCommerce Screenshots Gallery" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002" bis_skin_checked="1">
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg">MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg</a>
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/01_marketica2_homepage.png">MARKETICA_PREVIEW/01_marketica2_homepage.png</a>
@@ -2223,9 +2223,9 @@ a:hover {
                             <div class="item-preview__actions" bis_skin_checked="1">
                                 <div id="fullscreen" class="item-preview__preview-buttons" bis_skin_checked="1">
 
-                                    <a href="https://kedihotels.de/" role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN</a>
+                                    <a href="https://kedihotels.de/kontakt" role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN</a>
 
-                                    <a data-view="screenshotGallery" href="https://kedihotels.de/" role="button" class="btn-icon screenshots" target="_blank" rel="noopener">DAFTAR</a>
+                                    <a data-view="screenshotGallery" href="https://kedihotels.de/kontakt" role="button" class="btn-icon screenshots" target="_blank" rel="noopener">DAFTAR</a>
 
                                 </div>
                             </div>
@@ -2238,7 +2238,7 @@ a:hover {
                         <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                             <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                <a class="item-description-toggle__link" href="https://kedihotels.de/">
+                                <a class="item-description-toggle__link" href="https://kedihotels.de/kontakt">
                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2277,7 +2277,7 @@ a:hover {
                         <div class="purchase-panel" bis_skin_checked="1">
                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;LANDAKTOTO - Daftar Situs Toto Slot Gacor Viral dengan Bandar Slot88 Ladang Maxwin Hari ini&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                    action="https://kedihotels.de/" accept-charset="UTF-8" method="post">
+                                    action="https://kedihotels.de/kontakt" accept-charset="UTF-8" method="post">
                                     <input type="hidden" name="authenticity_token" value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ" autocomplete="off">
                                     <div bis_skin_checked="1"><div data-view="itemVariantSelector" data-id="8988002" data-cookiebot-enabled="true" bis_skin_checked="1">
                                             <div class="purchase-form__selection" bis_skin_checked="1">
@@ -2308,7 +2308,7 @@ a:hover {
                                                         </div>
                                                     </div><div class="flyout__link" bis_skin_checked="1">
                                                         <p class="t-body -size-m h-m0">
-                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://kedihotels.de//licenses/standard">View
+                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://kedihotels.de/kontakt/licenses/standard">View
                                                                                         license details</a>
                                                         </p>
                                                     </div>
@@ -2387,7 +2387,7 @@ a:hover {
                                             </p>
                                         </div>
 <p>
-                             <a href="https://kedihotels.de/" target="_blank">
+                             <a href="https://kedihotels.de/kontakt" target="_blank">
                              <img style="display:block;margin-left:auto;margin-right:auto;" src="https://imganekuan.com/uploads/odjxh6ik.gif" width="300" height="100"/>
                              </a>
                            </p>
@@ -2493,18 +2493,18 @@ a:hover {
 <h1 class="cok-faq-title2" style="text-align: center;color: #ffffff;">LANDAKTOTO - Daftar Situs Toto Slot Gacor Viral dengan Bandar Slot88 Ladang Maxwin Hari ini</h1>
 </div>
         <p>
-<a href="https://kedihotels.de/" style="color: #2fc41e;">LANDAKTOTO</a> menghadirkan identitas <a href="https://kedihotels.de/" style="color: #2fc41e;">slot gacor</a> dan situs toto melalui pembahasan berbagai kategori permainan slot online dari studio ternama. Informasi mengenai Slot88, karakteristik game, RTP teoretis, serta istilah Maxwin disusun sebagai referensi untuk mengenal lebih jauh kategori permainan yang menjadi bagian dari identitas LANDAKTOTO.
+<a href="https://kedihotels.de/kontakt" style="color: #2fc41e;">LANDAKTOTO</a> menghadirkan identitas <a href="https://kedihotels.de/kontakt" style="color: #2fc41e;">slot gacor</a> dan situs toto melalui pembahasan berbagai kategori permainan slot online dari studio ternama. Informasi mengenai Slot88, karakteristik game, RTP teoretis, serta istilah Maxwin disusun sebagai referensi untuk mengenal lebih jauh kategori permainan yang menjadi bagian dari identitas LANDAKTOTO.
          </p>
           <h2 style="text-align: left; color: #ffffff; font-size: 22px; margin: 22px 0 10px; letter-spacing: 0;">Daftar kategori Slot Gacor dan Situs Toto</h2>
           <p>
-            Di <a href="https://kedihotels.de/" style="color: #2fc41e;">situs slot gacor</a> LANDAKTOTO, pembahasan Slot Gacor dan Slot88 menjadi bagian utama dari identitas brand. Berbagai kategori permainan, tema visual, fitur, serta karakteristik setiap judul dijelaskan secara terstruktur agar informasi lebih mudah dipahami.
+            Di <a href="https://kedihotels.de/kontakt" style="color: #2fc41e;">situs slot gacor</a> LANDAKTOTO, pembahasan Slot Gacor dan Slot88 menjadi bagian utama dari identitas brand. Berbagai kategori permainan, tema visual, fitur, serta karakteristik setiap judul dijelaskan secara terstruktur agar informasi lebih mudah dipahami.
           </p>
           <p>
-            Sebagai <a href="https://kedihotels.de/" style="color: #2fc41e;">situs toto</a>, LANDAKTOTO juga mengangkat informasi seputar toto online dan kategori layanan yang berkaitan dengan identitas website. Kombinasi pembahasan Situs Toto, Slot Gacor, Slot88, dan Maxwin memperkuat fokus konten LANDAKTOTO tanpa mengandalkan pengulangan keyword secara berlebihan.
+            Sebagai <a href="https://kedihotels.de/kontakt" style="color: #2fc41e;">situs toto</a>, LANDAKTOTO juga mengangkat informasi seputar toto online dan kategori layanan yang berkaitan dengan identitas website. Kombinasi pembahasan Situs Toto, Slot Gacor, Slot88, dan Maxwin memperkuat fokus konten LANDAKTOTO tanpa mengandalkan pengulangan keyword secara berlebihan.
           </p>
           <h2 style="text-align: left; color: #ffffff; font-size: 22px; margin: 22px 0 10px; letter-spacing: 0;">Informasi Slot Gacor dan Slot88 LANDAKTOTO</h2>
           <p>
-            LANDAKTOTO menghadirkan informasi <a href="https://kedihotels.de/" style="color: #2fc41e;">slot gacor terpercaya</a> sebagai pembahasan kategori permainan, termasuk pengertian RTP dan istilah Maxwin. RTP merupakan persentase teoretis jangka panjang dan bukan jaminan hasil pada sesi berikutnya. Informasi yang jelas membantu pembaca memahami karakteristik permainan secara lebih objektif.
+            LANDAKTOTO menghadirkan informasi <a href="https://kedihotels.de/kontakt" style="color: #2fc41e;">slot gacor terpercaya</a> sebagai pembahasan kategori permainan, termasuk pengertian RTP dan istilah Maxwin. RTP merupakan persentase teoretis jangka panjang dan bukan jaminan hasil pada sesi berikutnya. Informasi yang jelas membantu pembaca memahami karakteristik permainan secara lebih objektif.
           </p>
           <p>
             Kenali identitas LANDAKTOTO melalui pembahasan Slot Gacor, Slot88, dan Situs Toto dalam satu halaman informasi. Setiap kategori disajikan dengan susunan yang konsisten untuk memperkuat karakter brand LANDAKTOTO dalam topik Slot Online dan Situs Toto hari ini.
@@ -3050,23 +3050,23 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
         }
 </style>
 <div class="LANDAKTOTO-fixed-footer">
-    <a href="https://kedihotels.de/" rel="nofollow noopener" target="_blank">
+    <a href="https://kedihotels.de/kontakt" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="22px" width="22px" src="https://imganekuan.com/uploads/9mre7x65.png" alt="PROMO LANDAKTOTO">
         PROMO
     </a>
-    <a href="https://kedihotels.de/" rel="nofollow noopener" target="_blank">
+    <a href="https://kedihotels.de/kontakt" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="22px" width="22px" src="https://imganekuan.com/uploads/9mre7x65.png" alt="LOGIN LANDAKTOTO">
         LOGIN
     </a>
-    <a href="https://kedihotels.de/" rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://kedihotels.de/kontakt" rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="22px" width="22px" src="https://imganekuan.com/uploads/9mre7x65.png" alt="DAFTAR LANDAKTOTO">
         DAFTAR
     </a>
-    <a href="https://kedihotels.de/" rel="nofollow noopener" target="_blank">
+    <a href="https://kedihotels.de/kontakt" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="22px" width="22px" src="https://imganekuan.com/uploads/9mre7x65.png" alt="LINK ALTERNATIF LANDAKTOTO">
         ALTERNATIF
     </a>
-    <a href="https://kedihotels.de/" rel="nofollow noopener" target="_blank"
+    <a href="https://kedihotels.de/kontakt" rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="22px" width="22px" src="https://imganekuan.com/uploads/9mre7x65.png"
             alt="LIVE CHAT LANDAKTOTO">
@@ -3465,8 +3465,8 @@ background: linear-gradient(
             <img src="https://imganekuan.com/uploads/ezf6mhbi.webp" alt="Popup Banner" class="popup-image" />
 
             <div class="popup-buttons">
-                <a href="https://kedihotels.de/">LOGIN</a>
-                <a href="https://kedihotels.de/">DAFTAR</a>
+                <a href="https://kedihotels.de/kontakt">LOGIN</a>
+                <a href="https://kedihotels.de/kontakt">DAFTAR</a>
             </div>
 
             <div class="popup-footer">
