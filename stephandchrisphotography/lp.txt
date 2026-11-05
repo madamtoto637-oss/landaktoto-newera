@@ -7,14 +7,6 @@
     <link rel="icon" type="image/x-icon" href="https://imganekuan.com/uploads/9mre7x65.png" />
     <link rel="apple-touch-icon" href="https://imganekuan.com/uploads/9mre7x65.png">
     <link rel="canonical" href="https://stephandchrisphotography.com/">
-    <meta name="google-site-verification" content="Ptw7Uje8AbwEL9mwfq210xP2OlrS2BcWnh9DE_6TOvc" />
-    <meta name="google-site-verification" content="lz-_BdjGj_6xPmhvu_v9g7yxI2F98CrwisC0sPiiV7k" />
-    <meta name="google-site-verification" content="AuFI6wVuLHgKpSGuTu4DzakXHSvnkcAAzkofsDwn3eM" />
-    <meta name="google-site-verification" content="yIIxpd3xsOGWs-_gclgAymDYcL5kHm84CxMgbQUq7wE" />
-    <meta name="google-site-verification" content="aZzQOk9WLeqQcKKVB8IzBmTlYhrn0PA1eDhdnxc_WaY" />
-    <meta name="google-site-verification" content="HR-o9MjaLZ70sFuRJyN3yTfVlQDtd-ZA_Jo_kA_l78I" />
-    <meta name="google-site-verification" content="OeKAW3D4Szqqw2SI0tkLc5ze2-nnSwxSXiSGWeocBcs" />
-    <meta name="google-site-verification" content="l8kXp5BKsbYOznTlnGp-awBpsHzyBKoscsh0WdVNyvQ" />
     <meta name="description" content="LANDAKTOTO membawa identitas brand situs toto online dan bandar togel dengan informasi pilihan nomor terbaru, referensi terpercaya, serta pembaruan informasi sepanjang 2026.">
     <meta content="landaktoto, landak toto, bandar togel, togel online, situs toto, toto togel, bandar toto togel, toto togel online" name="keywords"/>
     <link rel="amphtml" href="https://stephand-landaktoto.pages.dev/" />
@@ -5947,5 +5939,4 @@ setInterval(firework,1800);
 <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon='{"version":"2024.11.0","token":"c8cce8b2285846d7b75ab574152ffc0f","r":1,"spa":2}' crossorigin="anonymous"></script>
 </body>
 </html>
-
 
