@@ -2,7 +2,7 @@
 <html lang="id">
 <head>
 	<meta name="google-site-verification" content="dMMmuoRFBM4DjQA10rTrycUApVN4lRayj35O4q8Nno8" />
-<link href="https://agenciacoder.com/portafolio/" rel="preconnect"/>
+<link href="https://agenciacoder.com/" rel="preconnect"/>
 <meta charset="utf-8"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
@@ -11,25 +11,25 @@
 <meta name="title" content="LANDAKTOTO – Pusat Agencia Bermain Situs Toto Online Dengan APK Mobile Terpercaya 2026">
 <meta name="description" content="LANDAKTOTO menjadi pilihan nama utama dalam informasi situs toto online 2026 dengan pengenalan APK mobile dan rangkuman layanan yang informatif.">
 <meta name="keywords" content="LANDAKTOTO, Toto Togel, Slot QRIS, QRIS, Link Slot Gacor, Slot Depo 5K, Depo 5K, Slot Depo 10K" />
-<link rel="canonical" href="https://agenciacoder.com/portafolio/">
+<link rel="canonical" href="https://agenciacoder.com/">
 <link rel="amphtml" href="https://agencia-landaktoto-online.pages.dev/togel/">
-<link rel="alternate" hreflang="id-ID" href="https://agenciacoder.com/portafolio/">
-<link rel="alternate" hreflang="en-ID" href="https://agenciacoder.com/portafolio/">
-<link rel="alternate" hreflang="id" href="https://agenciacoder.com/portafolio/">
-<link rel="alternate" hreflang="en" href="https://agenciacoder.com/portafolio/">
-<link rel="alternate" hreflang="x-default" href="https://agenciacoder.com/portafolio/"/>
+<link rel="alternate" hreflang="id-ID" href="https://agenciacoder.com/">
+<link rel="alternate" hreflang="en-ID" href="https://agenciacoder.com/">
+<link rel="alternate" hreflang="id" href="https://agenciacoder.com/">
+<link rel="alternate" hreflang="en" href="https://agenciacoder.com/">
+<link rel="alternate" hreflang="x-default" href="https://agenciacoder.com/"/>
 <meta name="robots" content="index, follow">
 <meta name="publisher" content="LANDAKTOTO">
 <meta name="sitecode" content="id">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="LANDAKTOTO – Pusat Agencia Bermain Situs Toto Online Dengan APK Mobile Terpercaya 2026">
 <meta name="twitter:description" content="LANDAKTOTO menjadi pilihan nama utama dalam informasi situs toto online 2026 dengan pengenalan APK mobile dan rangkuman layanan yang informatif.">
-<meta name="twitter:url" content="https://agenciacoder.com/portafolio/">
+<meta name="twitter:url" content="https://agenciacoder.com/">
 <meta name="twitter:image" content="https://imganekuan.com/uploads/mpnece1g.webp">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="LANDAKTOTO">
 <meta property="og:locale" content="id_ID">
-<meta property="og:url" content="https://agenciacoder.com/portafolio/">
+<meta property="og:url" content="https://agenciacoder.com/">
 <meta property="og:title" content="LANDAKTOTO – Pusat Agencia Bermain Situs Toto Online Dengan APK Mobile Terpercaya 2026">
 <meta property="og:description" content="LANDAKTOTO menjadi pilihan nama utama dalam informasi situs toto online 2026 dengan pengenalan APK mobile dan rangkuman layanan yang informatif.">
 <meta property="og:image" content="https://imganekuan.com/uploads/mpnece1g.webp">
@@ -728,13 +728,13 @@ digitalData.page.pageInfo.pageName = pageName;
 "@graph": [
 {
 "@type":"Organization",
-"@id":"https://agenciacoder.com/portafolio/#organization",
+"@id":"https://agenciacoder.com/#organization",
 "name":"LANDAKTOTO",
-"url":"https://agenciacoder.com/portafolio/",
+"url":"https://agenciacoder.com/",
 "logo": 
 {
 "@type": "ImageObject",
-"@id": "https://agenciacoder.com/portafolio/#logo",
+"@id": "https://agenciacoder.com/#logo",
 "url": "https://imgaku.com/images/logo-gif-landak.gif"
 },
 "description": "LANDAKTOTO menjadi pilihan nama utama dalam informasi situs toto online 2026 dengan pengenalan APK mobile dan rangkuman layanan yang informatif.",
@@ -748,12 +748,12 @@ digitalData.page.pageInfo.pageName = pageName;
 
 {
 "@type": "WebSite",
-"@id": "https://agenciacoder.com/portafolio/#website",
-"url": "https://agenciacoder.com/portafolio/",
+"@id": "https://agenciacoder.com/#website",
+"url": "https://agenciacoder.com/",
 "name": "LANDAKTOTO",
 "publisher": 
 {
-"@id": "https://agenciacoder.com/portafolio/#organization"
+"@id": "https://agenciacoder.com/#organization"
 },
 "inLanguage": "id-ID",
 "potentialAction": 
@@ -762,7 +762,7 @@ digitalData.page.pageInfo.pageName = pageName;
 "target": 
 {
 "@type": "EntryPoint",
-"urlTemplate": "https://agenciacoder.com/portafolio/?s={search_term_string}"
+"urlTemplate": "https://agenciacoder.com/?s={search_term_string}"
 },
 "query-input": "required name=search_term_string"
 }
@@ -770,22 +770,22 @@ digitalData.page.pageInfo.pageName = pageName;
 
 {
 "@type": "WebPage",
-"@id": "https://agenciacoder.com/portafolio/#webpage",
-"url": "https://agenciacoder.com/portafolio/",
+"@id": "https://agenciacoder.com/#webpage",
+"url": "https://agenciacoder.com/",
 "name": "LANDAKTOTO – Pusat Agencia Bermain Situs Toto Online Dengan APK Mobile Terpercaya 2026",
 "description": "LANDAKTOTO menjadi pilihan nama utama dalam informasi situs toto online 2026 dengan pengenalan APK mobile dan rangkuman layanan yang informatif.",
 "isPartOf": 
 {
-"@id": "https://agenciacoder.com/portafolio/#website"
+"@id": "https://agenciacoder.com/#website"
 },
 "about": 
 {
-"@id": "https://agenciacoder.com/portafolio/#organization"
+"@id": "https://agenciacoder.com/#organization"
 },
 
 "breadcrumb": 
 {
-"@id": "https://agenciacoder.com/portafolio/#breadcrumb"
+"@id": "https://agenciacoder.com/#breadcrumb"
 },
 
 "inLanguage": "id-ID"
@@ -793,37 +793,37 @@ digitalData.page.pageInfo.pageName = pageName;
 
 {
 "@type": "BreadcrumbList",
-"@id": "https://agenciacoder.com/portafolio/#breadcrumb",
+"@id": "https://agenciacoder.com/#breadcrumb",
 "itemListElement": 
 [{
 "@type":"ListItem",
 "position":1,
 "name":"LANDAKTOTO",
-"item":"https://agenciacoder.com/portafolio/"
+"item":"https://agenciacoder.com/"
 },
 {
 "@type":"ListItem",
 "position":2,
 "name":"Situs Toto",
-"item":"https://agenciacoder.com/portafolio/"
+"item":"https://agenciacoder.com/"
 },
 {
 "@type":"ListItem",
 "position":3,
 "name":"Toto Togel",
-"item":"https://agenciacoder.com/portafolio/"
+"item":"https://agenciacoder.com/"
 },
 {
 "@type":"ListItem",
 "position":4,
 "name":"HK Pools",
-"item":"https://agenciacoder.com/portafolio/"
+"item":"https://agenciacoder.com/"
 },
 {
 "@type":"ListItem",
 "position":5,
 "name":"LANDAKTOTO – Pusat Agencia Bermain Situs Toto Online Dengan APK Mobile Terpercaya 2026",
-"item":"https://agenciacoder.com/portafolio/"
+"item":"https://agenciacoder.com/"
 }
 ]
 },
@@ -841,7 +841,7 @@ digitalData.page.pageInfo.pageName = pageName;
 "offers": 
 {
 "@type": "AggregateOffer",
-"url": "https://agenciacoder.com/portafolio/",
+"url": "https://agenciacoder.com/",
 "priceCurrency": "IDR",
 "lowPrice": "0",
 "highPrice": "10000",
@@ -893,7 +893,7 @@ digitalData.page.pageInfo.pageName = pageName;
 },
 {
 "@type":"SoftwareApplication",
-"@id":"https://agenciacoder.com/portafolio/#application",
+"@id":"https://agenciacoder.com/#application",
 "name":"LANDAKTOTO",
 "applicationCategory":"BusinessApplication",
 "operatingSystem":["Windows","MacOS","Android","iOS"],
@@ -995,8 +995,8 @@ digitalData.page.pageInfo.pageName = pageName;
  <body>
   
   <div id="wrap">
-   <input id="searchDomain" name="searchDomain" type="hidden" value="https://agenciacoder.com/portafolio/"/>
-   <input id="esapiSearchDomain" name="esapiSearchDomain" type="hidden" value="https://agenciacoder.com/portafolio/"/>
+   <input id="searchDomain" name="searchDomain" type="hidden" value="https://agenciacoder.com/"/>
+   <input id="esapiSearchDomain" name="esapiSearchDomain" type="hidden" value="https://agenciacoder.com/"/>
    <input id="scene7domain" name="scene7domain" type="hidden" value="https://imganekuan.com/uploads/mpnece1g.webp"/>
    <input id="reviewUseYN" name="reviewUseYN" type="hidden" value="Y"/>
    <input id="aplautYn" name="aplautYn" type="hidden" value="N"/>
@@ -1012,8 +1012,8 @@ digitalData.page.pageInfo.pageName = pageName;
    <input id="store_sitecode" name="store_sitecode" type="hidden" value="id"/>
    <input id="language" name="language" type="hidden" value="in_ID"/>
    <input id="serverType" name="serverType" type="hidden" value="prod"/>
-   <input id="gpvStoreDomain" name="gpvStoreDomain" type="hidden" value="https://agenciacoder.com/portafolio/"/>
-   <input id="storeWebDomain" name="storeWebDomain" type="hidden" value="https://agenciacoder.com/portafolio/"/>
+   <input id="gpvStoreDomain" name="gpvStoreDomain" type="hidden" value="https://agenciacoder.com/"/>
+   <input id="storeWebDomain" name="storeWebDomain" type="hidden" value="https://agenciacoder.com/"/>
    <input id="shopIntegrationFlag" name="shopIntegrationFlag" type="hidden" value="Hybris-new"/>
    <input id="newHyvStoreDomain" name="newHyvStoreDomain" type="hidden"/>
    <input id="b2bFlag" name="b2bFlag" type="hidden" value="N"/>
@@ -1114,7 +1114,7 @@ digitalData.page.pageInfo.pageName = pageName;
     <div class="nv00-gnb-v4__wrap">
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
-       <a an-ac="gnb" an-ca="navigation" an-la="LANDAKTOTO" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="LANDAKTOTO" class="nv00-gnb-v4__logo" href="https://agenciacoder.com/portafolio/">
+       <a an-ac="gnb" an-ca="navigation" an-la="LANDAKTOTO" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="LANDAKTOTO" class="nv00-gnb-v4__logo" href="https://agenciacoder.com/">
         <img src="https://imgaku.com/images/logo-gif-landak.gif" loading="lazy" alt="LANDAKTOTO" width="200" height="56"/>
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
@@ -1206,7 +1206,7 @@ digitalData.page.pageInfo.pageName = pageName;
         <ul aria-label="main menu" class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--left" role="menubar">
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://agenciacoder.com/portafolio/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://agenciacoder.com/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
             LANDAKTOTO
             </span>
@@ -1215,7 +1215,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://agenciacoder.com/portafolio/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://agenciacoder.com/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              TOGEL TRIK
             </span>
@@ -1229,7 +1229,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://agenciacoder.com/portafolio/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://agenciacoder.com/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              TRIK AKURAT
             </span>
@@ -1243,7 +1243,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://agenciacoder.com/portafolio/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://agenciacoder.com/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              AKURAT SLOT
             </span>
@@ -1257,7 +1257,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://agenciacoder.com/portafolio/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://agenciacoder.com/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT GACOR
             </span>
@@ -1271,7 +1271,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://agenciacoder.com/portafolio/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://agenciacoder.com/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              GACOR MALAM
             </span>
@@ -1318,7 +1318,7 @@ digitalData.page.pageInfo.pageName = pageName;
            Buka Menu Saya
           </p>
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://agenciacoder.com/portafolio/" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://agenciacoder.com/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1394,7 +1394,7 @@ digitalData.page.pageInfo.pageName = pageName;
              <p class="user-name">
              </p>
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://agenciacoder.com/portafolio/" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://agenciacoder.com/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -1891,10 +1891,10 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="https://agenciacoder.com/portafolio/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://agenciacoder.com/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Masuk
             </a>
-            <a href="https://agenciacoder.com/portafolio/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://agenciacoder.com/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Daftar
             </a>
            </div>
@@ -2396,7 +2396,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd16-step-buying-v2__bottom-price__cta">
-            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://agenciacoder.com/portafolio/">
+            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://agenciacoder.com/">
              Add to cart
             </a>
            </div>
@@ -2542,7 +2542,7 @@ digitalData.page.pageInfo.pageName = pageName;
              </li>
             </ul>
             <div class="pdd16-step-buying-v2__learn-more-cta">
-             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://agenciacoder.com/portafolio/" target="_blank">
+             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://agenciacoder.com/" target="_blank">
               Product detail
               <svg aria-hidden="true" class="icon" focusable="false">
                <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -2632,63 +2632,63 @@ digitalData.page.pageInfo.pageName = pageName;
                       }'>
            <ul class="swiper-wrapper" role="list">
             <li class="hdd02-gallery__item swiper-slide" data-type-headline="LANDAKTOTO – Pusat Agencia Bermain Situs Toto Online Dengan APK Mobile Terpercaya 2026">
-             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="https://agenciacoder.com/portafolio/">
+             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="https://agenciacoder.com/">
               <div class="image">
                <img src="https://imganekuan.com/uploads/mpnece1g.webp" loading="lazy" alt="LANDAKTOTO – Pusat Agencia Bermain Situs Toto Online Dengan APK Mobile Terpercaya 2026" class="image__main lazy-load responsive-img" data-comp-name="image" data-desktop-src="https://imganekuan.com/uploads/mpnece1g.webp" data-mobile-src="https://imganekuan.com/uploads/mpnece1g.webp" role="img"/>
               </div>
              </a>
             </li>
             <li class="hdd02-gallery__item swiper-slide" data-type-headline="LANDAKTOTO">
-             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="https://agenciacoder.com/portafolio/">
+             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="https://agenciacoder.com/">
               <div class="image">
                <img src="https://imganekuan.com/uploads/mpnece1g.webp" loading="lazy" alt="LANDAKTOTO " class="image__main lazy-load responsive-img" data-comp-name="image" data-desktop-src="https://imganekuan.com/uploads/mpnece1g.webp" data-mobile-src="https://imganekuan.com/uploads/mpnece1g.webp" role="img"/>
               </div>
              </a>
             </li>
             <li class="hdd02-gallery__item swiper-slide" data-type-headline="LANDAKTOTO">
-             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="https://agenciacoder.com/portafolio/">
+             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="https://agenciacoder.com/">
               <div class="image">
                <img src="https://imganekuan.com/uploads/mpnece1g.webp" loading="lazy" alt="LANDAKTOTO " class="image__main lazy-load responsive-img" data-comp-name="image" data-desktop-src="https://imganekuan.com/uploads/mpnece1g.webp" data-mobile-src="https://imganekuan.com/uploads/mpnece1g.webp" role="img"/>
               </div>
              </a>
             </li>
             <li class="hdd02-gallery__item swiper-slide" data-type-headline="Toto Togel">
-             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="https://agenciacoder.com/portafolio/">
+             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="https://agenciacoder.com/">
               <div class="image">
                <img src="https://imganekuan.com/uploads/mpnece1g.webp" loading="lazy" alt="Toto Togel " class="image__main lazy-load responsive-img" data-comp-name="image" data-desktop-src="https://imganekuan.com/uploads/mpnece1g.webp" data-mobile-src="https://imganekuan.com/uploads/mpnece1g.webp" role="img"/>
               </div>
              </a>
             </li>
             <li class="hdd02-gallery__item swiper-slide" data-type-headline="LANDAKTOTO">
-             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="https://agenciacoder.com/portafolio/">
+             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="https://agenciacoder.com/">
               <div class="image">
                <img src="https://imganekuan.com/uploads/mpnece1g.webp" loading="lazy" alt="LANDAKTOTO " class="image__main lazy-load responsive-img" data-comp-name="image" data-desktop-src="https://imganekuan.com/uploads/mpnece1g.webp" data-mobile-src="https://imganekuan.com/uploads/mpnece1g.webp" role="img"/>
               </div>
              </a>
             </li>
             <li class="hdd02-gallery__item swiper-slide" data-type-headline="Toto Togel">
-             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="https://agenciacoder.com/portafolio/">
+             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="https://agenciacoder.com/">
               <div class="image">
                <img src="https://imganekuan.com/uploads/mpnece1g.webp" loading="lazy" alt="Toto Togel" class="image__main lazy-load responsive-img" data-comp-name="image" data-desktop-src="https://imganekuan.com/uploads/mpnece1g.webp" data-mobile-src="https://imganekuan.com/uploads/mpnece1g.webp" role="img"/>
               </div>
              </a>
             </li>
             <li class="hdd02-gallery__item swiper-slide" data-type-headline="Toto Togel">
-             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="https://agenciacoder.com/portafolio/">
+             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="https://agenciacoder.com/">
               <div class="image">
                <img src="https://imganekuan.com/uploads/mpnece1g.webp" loading="lazy" alt="Toto Togel " class="image__main lazy-load responsive-img" data-comp-name="image" data-desktop-src="https://imganekuan.com/uploads/mpnece1g.webp" data-mobile-src="https://imganekuan.com/uploads/mpnece1g.webp" role="img"/>
               </div>
              </a>
             </li>
             <li class="hdd02-gallery__item swiper-slide" data-type-headline="Toto Togel">
-             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="https://agenciacoder.com/portafolio/">
+             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="https://agenciacoder.com/">
               <div class="image">
                <img src="https://imganekuan.com/uploads/mpnece1g.webp" loading="lazy" alt="Toto Togel" class="image__main lazy-load responsive-img" data-comp-name="image" data-desktop-src="https://imganekuan.com/uploads/mpnece1g.webp" data-mobile-src="https://imganekuan.com/uploads/mpnece1g.webp" role="img"/>
               </div>
              </a>
             </li>
             <li class="hdd02-gallery__item swiper-slide" data-type-headline="Toto Togel">
-             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="https://agenciacoder.com/portafolio/">
+             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="https://agenciacoder.com/">
               <div class="image">
                <img src="https://imganekuan.com/uploads/mpnece1g.webp" loading="lazy" alt="Toto Togel" class="image__main lazy-load responsive-img" data-comp-name="image" data-desktop-src="https://imganekuan.com/uploads/mpnece1g.webp" data-mobile-src="https://imganekuan.com/uploads/mpnece1g.webp" role="img"/>
               </div>
@@ -3920,7 +3920,7 @@ digitalData.page.pageInfo.pageName = pageName;
            </p>
            <div class="cost-box__cta-wrap">
             <span class="cost-box__cta">
-             <a href="https://agenciacoder.com/portafolio/" class="cta cta--contained cta--emphasis add-special-tagging">
+             <a href="https://agenciacoder.com/" class="cta cta--contained cta--emphasis add-special-tagging">
               Masuk/Daftar
              </a>
             </span>
@@ -5807,31 +5807,31 @@ digitalData.page.pageInfo.pageName = pageName;
   <h1>LANDAKTOTO : Pusat Agencia Bermain Situs Toto Online Dengan APK Mobile Terpercaya 2026</h1>
 
   <p>
-    <a href="https://agenciacoder.com/portafolio/" style="color:#00ff26;">LANDAKTOTO</a> hadir sebagai pusat informasi situs toto online 2026 dengan pengenalan APK mobile dan berbagai informasi layanan dalam satu halaman terpadu. Mengusung identitas yang mudah dikenali, LANDAKTOTO menyajikan pembahasan mengenai fitur, informasi penggunaan aplikasi, serta perkembangan layanan mobile dengan tampilan yang responsif dan terstruktur.
+    <a href="https://agenciacoder.com/" style="color:#00ff26;">LANDAKTOTO</a> hadir sebagai pusat informasi situs toto online 2026 dengan pengenalan APK mobile dan berbagai informasi layanan dalam satu halaman terpadu. Mengusung identitas yang mudah dikenali, LANDAKTOTO menyajikan pembahasan mengenai fitur, informasi penggunaan aplikasi, serta perkembangan layanan mobile dengan tampilan yang responsif dan terstruktur.
   </p>
 
   <h2>Mengenal Pusat Layanan Situs Toto Online LANDAKTOTO</h2>
 
   <p>
-    Sebagai <a href="https://agenciacoder.com/portafolio/" style="color:#00ff26;">situs toto online</a>, LANDAKTOTO mengembangkan penyajian informasi yang berfokus pada kemudahan pemahaman dan keteraturan setiap halaman. Berbagai pembahasan mengenai identitas layanan, fitur website, informasi aplikasi, hingga ketentuan penggunaan disusun secara sistematis agar pengunjung dapat mengenali setiap bagian dengan lebih jelas.
+    Sebagai <a href="https://agenciacoder.com/" style="color:#00ff26;">situs toto online</a>, LANDAKTOTO mengembangkan penyajian informasi yang berfokus pada kemudahan pemahaman dan keteraturan setiap halaman. Berbagai pembahasan mengenai identitas layanan, fitur website, informasi aplikasi, hingga ketentuan penggunaan disusun secara sistematis agar pengunjung dapat mengenali setiap bagian dengan lebih jelas.
   </p>
 
   <h3>Informasi APK Mobile dan Fitur Aplikasi</h3>
 
   <p>
-    Kehadiran <a href="https://agenciacoder.com/portafolio/" style="color:#00ff26;">APK mobile</a> menjadi salah satu bagian penting dalam perkembangan layanan berbasis perangkat seluler. LANDAKTOTO menghadirkan pembahasan seputar kompatibilitas aplikasi, informasi fitur, tampilan antarmuka, serta panduan penggunaan yang membantu pengunjung memahami karakteristik aplikasi sebelum melakukan instalasi. Pastikan aplikasi diperoleh dari sumber resmi dan perhatikan izin yang diminta pada perangkat.
+    Kehadiran <a href="https://agenciacoder.com/" style="color:#00ff26;">APK mobile</a> menjadi salah satu bagian penting dalam perkembangan layanan berbasis perangkat seluler. LANDAKTOTO menghadirkan pembahasan seputar kompatibilitas aplikasi, informasi fitur, tampilan antarmuka, serta panduan penggunaan yang membantu pengunjung memahami karakteristik aplikasi sebelum melakukan instalasi. Pastikan aplikasi diperoleh dari sumber resmi dan perhatikan izin yang diminta pada perangkat.
   </p>
 
   <h2>Eksplorasi Informasi Toto Online dan Layanan Mobile</h2>
 
   <p>
-    Dalam kategori <a href="https://agenciacoder.com/portafolio/" style="color:#00ff26;">toto online</a>, kelengkapan informasi menjadi salah satu aspek yang perlu diperhatikan. LANDAKTOTO menyajikan pembahasan mengenai kategori layanan, ketentuan penggunaan, informasi fitur, serta panduan umum yang dapat menjadi referensi bagi pengunjung. Setiap informasi disusun dengan bahasa yang mudah dipahami sehingga tidak menimbulkan kesalahpahaman mengenai fungsi maupun ketentuan layanan.
+    Dalam kategori <a href="https://agenciacoder.com/" style="color:#00ff26;">toto online</a>, kelengkapan informasi menjadi salah satu aspek yang perlu diperhatikan. LANDAKTOTO menyajikan pembahasan mengenai kategori layanan, ketentuan penggunaan, informasi fitur, serta panduan umum yang dapat menjadi referensi bagi pengunjung. Setiap informasi disusun dengan bahasa yang mudah dipahami sehingga tidak menimbulkan kesalahpahaman mengenai fungsi maupun ketentuan layanan.
   </p>
 
   <h3>Perkembangan Teknologi APK LANDAKTOTO 2026</h3>
 
   <p>
-    Informasi <a href="https://agenciacoder.com/portafolio/" style="color:#00ff26;">LANDAKTOTO APK</a> turut menjadi bagian dari pembahasan perkembangan teknologi mobile pada tahun 2026. Pengunjung dapat mengenali informasi mengenai tampilan aplikasi, kompatibilitas perangkat, pembaruan sistem, serta aspek keamanan penggunaan. Pemahaman terhadap pembaruan aplikasi dan kebijakan privasi juga penting agar setiap pengguna dapat mempertimbangkan keamanan perangkatnya.
+    Informasi <a href="https://agenciacoder.com/" style="color:#00ff26;">LANDAKTOTO APK</a> turut menjadi bagian dari pembahasan perkembangan teknologi mobile pada tahun 2026. Pengunjung dapat mengenali informasi mengenai tampilan aplikasi, kompatibilitas perangkat, pembaruan sistem, serta aspek keamanan penggunaan. Pemahaman terhadap pembaruan aplikasi dan kebijakan privasi juga penting agar setiap pengguna dapat mempertimbangkan keamanan perangkatnya.
   </p>
 
   <h4>Tampilan Responsif dan Kemudahan Informasi Pengguna</h4>
@@ -5852,31 +5852,31 @@ digitalData.page.pageInfo.pageName = pageName;
   <h1>LANDAKTOTO : Pusat Agencia Bermain Situs Toto Online Dengan APK Mobile Terpercaya 2026</h1>
 
   <p>
-    <a href="https://agenciacoder.com/portafolio/" style="color:#00ff26;">LANDAKTOTO</a> hadir sebagai pusat informasi situs toto online 2026 dengan pengenalan APK mobile dan berbagai informasi layanan dalam satu halaman terpadu. Mengusung identitas yang mudah dikenali, LANDAKTOTO menyajikan pembahasan mengenai fitur, informasi penggunaan aplikasi, serta perkembangan layanan mobile dengan tampilan yang responsif dan terstruktur.
+    <a href="https://agenciacoder.com/" style="color:#00ff26;">LANDAKTOTO</a> hadir sebagai pusat informasi situs toto online 2026 dengan pengenalan APK mobile dan berbagai informasi layanan dalam satu halaman terpadu. Mengusung identitas yang mudah dikenali, LANDAKTOTO menyajikan pembahasan mengenai fitur, informasi penggunaan aplikasi, serta perkembangan layanan mobile dengan tampilan yang responsif dan terstruktur.
   </p>
 
   <h2>Mengenal Pusat Layanan Situs Toto Online LANDAKTOTO</h2>
 
   <p>
-    Sebagai <a href="https://agenciacoder.com/portafolio/" style="color:#00ff26;">situs toto online</a>, LANDAKTOTO mengembangkan penyajian informasi yang berfokus pada kemudahan pemahaman dan keteraturan setiap halaman. Berbagai pembahasan mengenai identitas layanan, fitur website, informasi aplikasi, hingga ketentuan penggunaan disusun secara sistematis agar pengunjung dapat mengenali setiap bagian dengan lebih jelas.
+    Sebagai <a href="https://agenciacoder.com/" style="color:#00ff26;">situs toto online</a>, LANDAKTOTO mengembangkan penyajian informasi yang berfokus pada kemudahan pemahaman dan keteraturan setiap halaman. Berbagai pembahasan mengenai identitas layanan, fitur website, informasi aplikasi, hingga ketentuan penggunaan disusun secara sistematis agar pengunjung dapat mengenali setiap bagian dengan lebih jelas.
   </p>
 
   <h3>Informasi APK Mobile dan Fitur Aplikasi</h3>
 
   <p>
-    Kehadiran <a href="https://agenciacoder.com/portafolio/" style="color:#00ff26;">APK mobile</a> menjadi salah satu bagian penting dalam perkembangan layanan berbasis perangkat seluler. LANDAKTOTO menghadirkan pembahasan seputar kompatibilitas aplikasi, informasi fitur, tampilan antarmuka, serta panduan penggunaan yang membantu pengunjung memahami karakteristik aplikasi sebelum melakukan instalasi. Pastikan aplikasi diperoleh dari sumber resmi dan perhatikan izin yang diminta pada perangkat.
+    Kehadiran <a href="https://agenciacoder.com/" style="color:#00ff26;">APK mobile</a> menjadi salah satu bagian penting dalam perkembangan layanan berbasis perangkat seluler. LANDAKTOTO menghadirkan pembahasan seputar kompatibilitas aplikasi, informasi fitur, tampilan antarmuka, serta panduan penggunaan yang membantu pengunjung memahami karakteristik aplikasi sebelum melakukan instalasi. Pastikan aplikasi diperoleh dari sumber resmi dan perhatikan izin yang diminta pada perangkat.
   </p>
 
   <h2>Eksplorasi Informasi Toto Online dan Layanan Mobile</h2>
 
   <p>
-    Dalam kategori <a href="https://agenciacoder.com/portafolio/" style="color:#00ff26;">toto online</a>, kelengkapan informasi menjadi salah satu aspek yang perlu diperhatikan. LANDAKTOTO menyajikan pembahasan mengenai kategori layanan, ketentuan penggunaan, informasi fitur, serta panduan umum yang dapat menjadi referensi bagi pengunjung. Setiap informasi disusun dengan bahasa yang mudah dipahami sehingga tidak menimbulkan kesalahpahaman mengenai fungsi maupun ketentuan layanan.
+    Dalam kategori <a href="https://agenciacoder.com/" style="color:#00ff26;">toto online</a>, kelengkapan informasi menjadi salah satu aspek yang perlu diperhatikan. LANDAKTOTO menyajikan pembahasan mengenai kategori layanan, ketentuan penggunaan, informasi fitur, serta panduan umum yang dapat menjadi referensi bagi pengunjung. Setiap informasi disusun dengan bahasa yang mudah dipahami sehingga tidak menimbulkan kesalahpahaman mengenai fungsi maupun ketentuan layanan.
   </p>
 
   <h3>Perkembangan Teknologi APK LANDAKTOTO 2026</h3>
 
   <p>
-    Informasi <a href="https://agenciacoder.com/portafolio/" style="color:#00ff26;">LANDAKTOTO APK</a> turut menjadi bagian dari pembahasan perkembangan teknologi mobile pada tahun 2026. Pengunjung dapat mengenali informasi mengenai tampilan aplikasi, kompatibilitas perangkat, pembaruan sistem, serta aspek keamanan penggunaan. Pemahaman terhadap pembaruan aplikasi dan kebijakan privasi juga penting agar setiap pengguna dapat mempertimbangkan keamanan perangkatnya.
+    Informasi <a href="https://agenciacoder.com/" style="color:#00ff26;">LANDAKTOTO APK</a> turut menjadi bagian dari pembahasan perkembangan teknologi mobile pada tahun 2026. Pengunjung dapat mengenali informasi mengenai tampilan aplikasi, kompatibilitas perangkat, pembaruan sistem, serta aspek keamanan penggunaan. Pemahaman terhadap pembaruan aplikasi dan kebijakan privasi juga penting agar setiap pengguna dapat mempertimbangkan keamanan perangkatnya.
   </p>
 
   <h4>Tampilan Responsif dan Kemudahan Informasi Pengguna</h4>
@@ -6081,7 +6081,7 @@ digitalData.page.pageInfo.pageName = pageName;
      <div class="breadcrumb__inner">
       <ul class="breadcrumb__path" role="list">
        <li role="listitem">
-        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:home" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Home" href="https://agenciacoder.com/portafolio/">
+        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:home" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Home" href="https://agenciacoder.com/">
          <span class="breadcrumb__text-desktop">
           LANDAKTOTO <span style="margin-left: 15px;">></span>
          </span>
@@ -6095,7 +6095,7 @@ digitalData.page.pageInfo.pageName = pageName;
         </svg>
        </li>
        <li role="listitem">
-        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:mobile" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Mobile" href="https://agenciacoder.com/portafolio/">
+        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:mobile" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Mobile" href="https://agenciacoder.com/">
          <span class="breadcrumb__text-desktop">
           Toto Togel <span style="margin-left: 15px;">></span>
          </span>
@@ -6109,7 +6109,7 @@ digitalData.page.pageInfo.pageName = pageName;
         </svg>
        </li>
 <li role="listitem">
-        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:mobile" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Mobile" href="https://agenciacoder.com/portafolio/">
+        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:mobile" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Mobile" href="https://agenciacoder.com/">
          <span class="breadcrumb__text-desktop">
           SLOT <span style="margin-left: 15px;">></span>
          </span>
@@ -6123,7 +6123,7 @@ digitalData.page.pageInfo.pageName = pageName;
         </svg>
        </li>
 <li role="listitem">
-        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:mobile" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Mobile" href="https://agenciacoder.com/portafolio/">
+        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:mobile" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Mobile" href="https://agenciacoder.com/">
          <span class="breadcrumb__text-desktop">
           Toto Togel <span style="margin-left: 15px;">></span>
          </span>
@@ -6137,7 +6137,7 @@ digitalData.page.pageInfo.pageName = pageName;
         </svg>
        </li>              
  <li role="listitem">
-        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:mobile" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Mobile" href="https://agenciacoder.com/portafolio/">
+        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:mobile" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Mobile" href="https://agenciacoder.com/">
          <span class="breadcrumb__text-desktop">
           LANDAKTOTO <span style="margin-left: 15px;">></span>
          </span>
@@ -6223,42 +6223,42 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     TOTO TOGEL
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     TOGEL TRIK
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     TRIK AKURAT
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     AKURAT SLOT
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     SLOT GACOR
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     GACOR MALAM
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     TOTO TOGEL
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     TOGEL TRIK
                   </a>
                 </li>
@@ -6283,37 +6283,37 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     Promo &amp; Cashback Harian
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     Bocoran &amp; Event
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     Program &amp; Undian
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     Metode Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     Fitur Maxwin
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     Fitur Mega Jackpot
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     Program Referral
                   </a>
                 </li>
@@ -6339,37 +6339,37 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     Pusat Bantuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     Rtp Slot 97%
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     WhatsApp Support
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     FAQ
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     Kebijakan Privasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     Syarat &amp; Ketentuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     Responsible Gaming
                   </a>
                 </li>
@@ -6395,32 +6395,32 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     LANDAKTOTO Login
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     Daftar Akun Baru
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     Lupa Password
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     Riwayat Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     Fitur Verifikasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     Program VIP
                   </a>
                 </li>
@@ -6447,22 +6447,22 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     Fitur Akses
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     Gacor Maxwin
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     Aturan &amp; Kebijakan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     Kontak Resmi
                   </a>
                 </li>
@@ -6486,22 +6486,22 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     Tentang LANDAKTOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     Kenapa Pilih Link Gacor
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://agenciacoder.com/portafolio/">
+                  <a class="footer-category__link" href="https://agenciacoder.com/">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -6517,7 +6517,7 @@ digitalData.page.pageInfo.pageName = pageName;
         <div class="footer-copyright-wrap">
           <div class="footer-copyright-align">
             <p class="footer-copyright">
-              &copy; 2026 <a href="https://agenciacoder.com/portafolio/">LANDAKTOTO</a>. All rights reserved.
+              &copy; 2026 <a href="https://agenciacoder.com/">LANDAKTOTO</a>. All rights reserved.
             </p>
           </div>
           <div class="footer-language">
