@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="id">
 
-<head prefix="og: https://bujanginam.com/ fb: https://bujanginam.com/ product: https://bujanginam.com/">
+<head prefix="og: https://seeds-of-light.co.uk/contact/ fb: https://seeds-of-light.co.uk/contact/ product: https://seeds-of-light.co.uk/contact/">
     <script data-breeze="1">
         var LOCALE = 'id\u002DID';
         var BASE_URL = 'https\u003A\u002F\u002Fwww.mothercare.co.id\u002F';
@@ -39,14 +39,14 @@
     <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-regular-webfont.woff2">
     <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-thin-webfont.woff2">
     <link rel="amphtml" href="https://apk-landaktoto-slot-gacor.pages.dev/" />
-    <link rel="alternate" hreflang="id-id" href="https://bujanginam.com/" />
-    <link rel="alternate" href="https://bujanginam.com/" />
-    <link rel="alternate" hreflang="id" href="https://bujanginam.com/" />
-    <link rel="alternate" hreflang="en" href="https://bujanginam.com/" />
-    <link rel="alternate" hreflang="x-default" href="https://bujanginam.com/" />
+    <link rel="alternate" hreflang="id-id" href="https://seeds-of-light.co.uk/contact/" />
+    <link rel="alternate" href="https://seeds-of-light.co.uk/contact/" />
+    <link rel="alternate" hreflang="id" href="https://seeds-of-light.co.uk/contact/" />
+    <link rel="alternate" hreflang="en" href="https://seeds-of-light.co.uk/contact/" />
+    <link rel="alternate" hreflang="x-default" href="https://seeds-of-light.co.uk/contact/" />
     <link rel="icon" type="image/x-icon" href="https://imganekuan.com/uploads/9mre7x65.png">
     <link rel="shortcut icon" type="image/x-icon" href="https://imganekuan.com/uploads/9mre7x65.png">
-    <link rel="canonical" href="https://bujanginam.com/">
+    <link rel="canonical" href="https://seeds-of-light.co.uk/contact/">
 
 
     <style>
@@ -188,7 +188,7 @@
     <meta property="og:title" content="LANDAKTOTO | Link Daftar APK Slot Gacor Hari Ini Dengan Akses Login Paling Stabil">
     <meta property="og:image" content="https://imganekuan.com/uploads/571dryrc.webp">
     <meta property="og:description" content="LANDAKTOTO menjadi sorotan melalui pusat informasi APK Slot Gacor, link login terbaru, serta pembaruan permainan harian yang memperkuat identitas brand di dunia hiburan slot online.">
-    <meta property="og:url" content="https://bujanginam.com/">
+    <meta property="og:url" content="https://seeds-of-light.co.uk/contact/">
     <meta property="product:price:amount" content="10000">
     <meta property="product:price:currency" content="IDR">
     <script type="text/javascript" id="klevu_initsessiondata">
@@ -622,7 +622,7 @@
                 </div>
             </div>
             <div class="header content"><span data-action="toggle-nav" class="action nav-toggle"><span>Toggle Nav</span></span>
-                <a class="logo" href="https://bujanginam.com/" title="" aria-label="store logo">
+                <a class="logo" href="https://seeds-of-light.co.uk/contact/" title="" aria-label="store logo">
                     <img src="https://imgaku.com/images/gif-lt.gif" title="" alt="" width="155" height="28">
                 </a>
 
@@ -631,10 +631,10 @@
                         <div class="top-header-components-mc mobile-component">
                             <div class="header_panel_info">
                                 <ul>
-                                    <li><a href="https://bujanginam.com/"><span><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/KanmoCircle.svg"></span>about Kanmo Circle</a></li>
-                                    <li><a href="https://bujanginam.com/"><img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_blue.svg">gift registry</a></li>
-                                    <li><a href="https://bujanginam.com/"><span><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/storefinder_blue.svg"></span>store finder</a></li>
-                                    <li><a href="https://bujanginam.com/" target="_blank"><span><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"></span>contact us</a></li>
+                                    <li><a href="https://seeds-of-light.co.uk/contact/"><span><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/KanmoCircle.svg"></span>about Kanmo Circle</a></li>
+                                    <li><a href="https://seeds-of-light.co.uk/contact/"><img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_blue.svg">gift registry</a></li>
+                                    <li><a href="https://seeds-of-light.co.uk/contact/"><span><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/storefinder_blue.svg"></span>store finder</a></li>
+                                    <li><a href="https://seeds-of-light.co.uk/contact/" target="_blank"><span><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"></span>contact us</a></li>
 
                                 </ul>
 
@@ -643,7 +643,7 @@
                         <div class="block ves-menu ves-megamenu-mobile " id="menu-top-mothercare1742308061777474800-menu">
                             <nav class="navigation" role="navigation" data-action="navigation">
                                 <ul id="menu-top-mothercare1742308061777474800" class="ves-megamenu menu-hover ves-horizontal " data-mage-init='{"menu":{"responsive":false, "expanded":false, "position":{"my":"left top","at":"left bottom"}}}' data-toggle-mobile-nav="false">
-                                    <li id="vesitem-884521742308061573800708" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://bujanginam.com/" style="font-size:12px;" class=" nav-anchor"><span>LANDAKTOTO </span><span class="caret"></span><span class="opener"></span></a>
+                                    <li id="vesitem-884521742308061573800708" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://seeds-of-light.co.uk/contact/" style="font-size:12px;" class=" nav-anchor"><span>LANDAKTOTO </span><span class="caret"></span><span class="opener"></span></a>
                                         <div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;">
                                             <div class="content-wrap">
                                                 <div class="megamenu-content" style="width:100%">
@@ -1311,7 +1311,7 @@
                                             </div>
                                         </div>
                                     </li>
-                                    <li id="vesitem-8845517423080611320572800" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://bujanginam.com/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>TOTO</span><span class="caret"></span><span class="opener"></span></a>
+                                    <li id="vesitem-8845517423080611320572800" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://seeds-of-light.co.uk/contact/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>TOTO</span><span class="caret"></span><span class="opener"></span></a>
                                         <div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;">
                                             <div class="content-wrap">
                                                 <div class="megamenu-content" style="width:100%">
@@ -1487,7 +1487,7 @@
                                             </div>
                                         </div>
                                     </li>
-                                    <li id="vesitem-8845817423080611645503736" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://bujanginam.com/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>TOGEL 4D</span><span class="caret"></span><span class="opener"></span></a>
+                                    <li id="vesitem-8845817423080611645503736" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://seeds-of-light.co.uk/contact/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>TOGEL 4D</span><span class="caret"></span><span class="opener"></span></a>
                                         <div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;">
                                             <div class="content-wrap">
                                                 <div class="megamenu-content" style="width:100%">
@@ -1605,7 +1605,7 @@
                                             </div>
                                         </div>
                                     </li>
-                                    <li id="vesitem-8846117423080611688273500" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://bujanginam.com/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SITUS TOTO</span><span class="caret"></span><span class="opener"></span></a>
+                                    <li id="vesitem-8846117423080611688273500" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://seeds-of-light.co.uk/contact/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SITUS TOTO</span><span class="caret"></span><span class="opener"></span></a>
                                         <div class="submenu animated  dropdown-menu" style="animation-duration: 0.5s;-webkit-animation-duration: 0.5s;">
                                             <div class="content-wrap">
                                                 <div class="megamenu-content" style="width:100%">
@@ -1689,7 +1689,7 @@
                                             </div>
                                         </div>
                                     </li>
-                                    <li id="vesitem-884641742308061459618024" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://bujanginam.com/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>TOTO TOGEL</span><span class="caret"></span><span class="opener"></span></a>
+                                    <li id="vesitem-884641742308061459618024" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://seeds-of-light.co.uk/contact/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>TOTO TOGEL</span><span class="caret"></span><span class="opener"></span></a>
                                         <div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;">
                                             <div class="content-wrap">
                                                 <div class="megamenu-content" style="width:100%">
@@ -1815,7 +1815,7 @@
                                             </div>
                                         </div>
                                     </li>
-                                    <li id="vesitem-8846717423080612122176647" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://bujanginam.com/" style="max-lines: 2;
+                                    <li id="vesitem-8846717423080612122176647" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://seeds-of-light.co.uk/contact/" style="max-lines: 2;
 line-height: 20px;
 width:100%;
 font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>TOGEL TERPERCAYA</span><span class="caret"></span><span class="opener"></span></a>
@@ -1928,7 +1928,7 @@ font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>TOGEL TERPERCAYA<
                                             </div>
                                         </div>
                                     </li>
-                                    <li id="vesitem-88470174230806170878408" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://bujanginam.com/" style="white-space: nowrap;
+                                    <li id="vesitem-88470174230806170878408" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://seeds-of-light.co.uk/contact/" style="white-space: nowrap;
 font-size:12px;
 " class=" nav-anchor"><span>SITUS TOGEL TERPERCAYA</span><span class="caret"></span><span class="opener"></span></a>
                                         <div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;">
@@ -1986,7 +1986,7 @@ font-size:12px;
                                             </div>
                                         </div>
                                     </li>
-                                    <li id="vesitem-8847317423080612096131144" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://bujanginam.com/" target="_self" data-hover-color="#fff !important" data-hover-bgcolor="#09c6bd !important" data-color="#fff !important" data-bgcolor="#09c6bd !important" style="color: #fff !important;background-color: #09c6bd !important;" class=" nav-anchor"><span>SLOT GACOR </span></a></li>
+                                    <li id="vesitem-8847317423080612096131144" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://seeds-of-light.co.uk/contact/" target="_self" data-hover-color="#fff !important" data-hover-bgcolor="#09c6bd !important" data-color="#fff !important" data-bgcolor="#09c6bd !important" style="color: #fff !important;background-color: #09c6bd !important;" class=" nav-anchor"><span>SLOT GACOR </span></a></li>
                                 </ul>
                             </nav>
 
@@ -2110,7 +2110,7 @@ font-size:12px;
                 </script>
 
                 <div class="actions dropdown options switcher-options no-chevron account-dropdown">
-                    <a class="action toggle switcher-trigger" href="https://bujanginam.com/" title="Akun Saya" data-mage-init='{"dropdown":{"dialog":null}}' data-toggle="dropdown" data-trigger-keypress-button="true">
+                    <a class="action toggle switcher-trigger" href="https://seeds-of-light.co.uk/contact/" title="Akun Saya" data-mage-init='{"dropdown":{"dialog":null}}' data-toggle="dropdown" data-trigger-keypress-button="true">
 
                         <span class="abs-visually-hidden">Akun Saya</span>
                     </a>
@@ -2134,12 +2134,12 @@ font-size:12px;
 
 
                             <li>
-                                <a href="https://bujanginam.com/">
+                                <a href="https://seeds-of-light.co.uk/contact/">
                                     buat akun </a>
                             </li>
                             <li>
 
-                                <a href="https://bujanginam.com/">
+                                <a href="https://seeds-of-light.co.uk/contact/">
                                     <span>Bantuan</span>
                                 </a>
                             </li>
@@ -2148,7 +2148,7 @@ font-size:12px;
                 </div>
 
                 <div class="actions dropdown options switcher-options no-chevron no-chevron wishlist-dropdown dropdown-lg">
-                    <a class="action toggle switcher-trigger" href="https://bujanginam.com/" title="Daftar Keinginan">
+                    <a class="action toggle switcher-trigger" href="https://seeds-of-light.co.uk/contact/" title="Daftar Keinginan">
 
                         <span class="abs-visually-hidden">Daftar Keinginan</span>
                     </a>
@@ -2156,7 +2156,7 @@ font-size:12px;
                 </div>
 
                 <div data-block="minicart" class="minicart-wrapper">
-                    <a class="action showcart" href="https://bujanginam.com/" data-bind="scope: 'minicart_content'">
+                    <a class="action showcart" href="https://seeds-of-light.co.uk/contact/" data-bind="scope: 'minicart_content'">
                         <span class="text empty" data-bind="
             css: {
                 empty: !!getCartParam('summary_count') == false
@@ -2507,7 +2507,7 @@ font-size:12px;
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "LANDAKTOTO",
-  "url": "https://bujanginam.com/",
+  "url": "https://seeds-of-light.co.uk/contact/",
   "logo": "https://imgaku.com/images/gif-lt.gif",
   "description": "LANDAKTOTO menjadi sorotan melalui pusat informasi APK Slot Gacor, link login terbaru, serta pembaruan permainan harian yang memperkuat identitas brand di dunia hiburan slot online.",
   "foundingDate": "2024",
@@ -2584,19 +2584,19 @@ font-size:12px;
       "@type": "ListItem",
       "position": 1,
       "name": "LANDAKTOTO",
-      "item": "https://bujanginam.com/"
+      "item": "https://seeds-of-light.co.uk/contact/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Sistem Modern",
-      "item": "https://bujanginam.com/"
+      "item": "https://seeds-of-light.co.uk/contact/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "LANDAKTOTO | Link Daftar APK Slot Gacor Hari Ini Dengan Akses Login Paling Stabil",
-      "item": "https://bujanginam.com/"
+      "item": "https://seeds-of-light.co.uk/contact/"
     }
   ]
 }
@@ -2635,13 +2635,13 @@ font-size:12px;
 
                                 <div class="product attribute overview">
                                     <div class="value" style="text-align: justify;">
-<p class="isSelectedEnd" style="text-align: justify;"><a href="https://bujanginam.com/">LANDAKTOTO</a> hadir sebagai brand yang menyediakan informasi seputar APK slot online, tautan login, serta berbagai pilihan hiburan digital dalam satu tampilan yang praktis. Mengusung konsep layanan yang responsif dan susunan informasi yang tertata, LANDAKTOTO memperkenalkan halaman daftar APK slot gacor hari ini dengan sistem akses yang dirancang stabil, ringan, dan mudah dipahami melalui berbagai perangkat.</p>
-                                 <p class="isSelectedEnd" style="text-align: justify;"><a href="https://bujanginam.com/">LANDAKTOTO</a> menjadi salah satu nama yang mengutamakan kemudahan pengguna dalam menemukan informasi seputar slot online. Melalui penyajian informasi yang terorganisir, pengunjung dapat mengenali berbagai kategori permainan, detail layanan, serta informasi APK yang tersedia. Setiap bagian dirancang dengan tampilan sederhana agar informasi dapat dibaca secara praktis tanpa susunan yang membingungkan.</p>
-								 <p class="isSelectedEnd" style="text-align: justify;"><a href="https://bujanginam.com/">APK Slot Gacor</a> menjadi salah satu kategori informasi yang diperkenalkan LANDAKTOTO melalui halaman khusus dengan susunan pilihan permainan dan keterangan fitur yang mudah dipahami. Informasi mengenai variasi tema, karakteristik permainan, serta kompatibilitas perangkat disajikan secara terstruktur. Dengan tampilan responsif, pengunjung dapat membaca informasi melalui desktop maupun perangkat mobile dengan lebih nyaman.</p>
-								 <p class="isSelectedEnd" style="text-align: justify;">LANDAKTOTO menghadirkan informasi <a href="https://bujanginam.com/">link login resmi</a> melalui halaman yang mengutamakan kejelasan dan kemudahan navigasi. Susunan menu dibuat sederhana agar pengunjung dapat mengenali informasi daftar, login, dan panduan penggunaan tanpa harus menghadapi tampilan yang rumit. Performa halaman yang ringan serta pengelolaan sistem yang konsisten menjadi bagian penting dalam menghadirkan pengalaman menjelajahi informasi secara lebih praktis.</p>
-								 <p class="isSelectedEnd" style="text-align: justify;">Sebagai brand yang mengangkat informasi <a href="https://bujanginam.com/">situs slot gacor</a>, LANDAKTOTO menampilkan berbagai informasi layanan dengan susunan yang rapi, tampilan responsif, dan pembahasan fitur yang mudah dipahami. Informasi APK, panduan pendaftaran, serta detail akses login ditempatkan secara terstruktur untuk membantu pengunjung memahami setiap bagian layanan. Kejelasan informasi dan stabilitas halaman menjadi perhatian utama dalam pengembangan identitas brand LANDAKTOTO.</p>
-								 <p class="isSelectedEnd" style="text-align: justify;"><a href="https://bujanginam.com/">Slot Gacor Hari Ini</a> merupakan kategori informasi permainan online yang memiliki beragam tema, fitur, dan karakteristik berbeda. Melalui LANDAKTOTO, pengunjung dapat mengenali pilihan kategori permainan beserta informasi pendukungnya dalam tampilan yang lebih terorganisir. Setiap permainan tetap memiliki hasil yang bergantung pada peluang dan tidak menjamin kemenangan, sehingga informasi disajikan sebagai referensi yang perlu dipahami secara bijak.</p>
-								 <p class="isSelectedEnd" style="text-align: justify;">Dengan mengutamakan identitas brand, informasi <a href="https://bujanginam.com/">APK Slot Gacor</a>, panduan pendaftaran, serta pembahasan akses login yang stabil, LANDAKTOTO membangun halaman informasi yang praktis dan mudah dijelajahi. Perpaduan tampilan ringan, struktur konten yang jelas, dan kompatibilitas berbagai perangkat menjadi bagian dari pengembangan layanan informasi LANDAKTOTO. Pengunjung juga diharapkan memahami risiko permainan berbasis peluang dan menggunakan layanan secara bijak serta sesuai ketentuan usia yang berlaku.</p>
+<p class="isSelectedEnd" style="text-align: justify;"><a href="https://seeds-of-light.co.uk/contact/">LANDAKTOTO</a> hadir sebagai brand yang menyediakan informasi seputar APK slot online, tautan login, serta berbagai pilihan hiburan digital dalam satu tampilan yang praktis. Mengusung konsep layanan yang responsif dan susunan informasi yang tertata, LANDAKTOTO memperkenalkan halaman daftar APK slot gacor hari ini dengan sistem akses yang dirancang stabil, ringan, dan mudah dipahami melalui berbagai perangkat.</p>
+                                 <p class="isSelectedEnd" style="text-align: justify;"><a href="https://seeds-of-light.co.uk/contact/">LANDAKTOTO</a> menjadi salah satu nama yang mengutamakan kemudahan pengguna dalam menemukan informasi seputar slot online. Melalui penyajian informasi yang terorganisir, pengunjung dapat mengenali berbagai kategori permainan, detail layanan, serta informasi APK yang tersedia. Setiap bagian dirancang dengan tampilan sederhana agar informasi dapat dibaca secara praktis tanpa susunan yang membingungkan.</p>
+								 <p class="isSelectedEnd" style="text-align: justify;"><a href="https://seeds-of-light.co.uk/contact/">APK Slot Gacor</a> menjadi salah satu kategori informasi yang diperkenalkan LANDAKTOTO melalui halaman khusus dengan susunan pilihan permainan dan keterangan fitur yang mudah dipahami. Informasi mengenai variasi tema, karakteristik permainan, serta kompatibilitas perangkat disajikan secara terstruktur. Dengan tampilan responsif, pengunjung dapat membaca informasi melalui desktop maupun perangkat mobile dengan lebih nyaman.</p>
+								 <p class="isSelectedEnd" style="text-align: justify;">LANDAKTOTO menghadirkan informasi <a href="https://seeds-of-light.co.uk/contact/">link login resmi</a> melalui halaman yang mengutamakan kejelasan dan kemudahan navigasi. Susunan menu dibuat sederhana agar pengunjung dapat mengenali informasi daftar, login, dan panduan penggunaan tanpa harus menghadapi tampilan yang rumit. Performa halaman yang ringan serta pengelolaan sistem yang konsisten menjadi bagian penting dalam menghadirkan pengalaman menjelajahi informasi secara lebih praktis.</p>
+								 <p class="isSelectedEnd" style="text-align: justify;">Sebagai brand yang mengangkat informasi <a href="https://seeds-of-light.co.uk/contact/">situs slot gacor</a>, LANDAKTOTO menampilkan berbagai informasi layanan dengan susunan yang rapi, tampilan responsif, dan pembahasan fitur yang mudah dipahami. Informasi APK, panduan pendaftaran, serta detail akses login ditempatkan secara terstruktur untuk membantu pengunjung memahami setiap bagian layanan. Kejelasan informasi dan stabilitas halaman menjadi perhatian utama dalam pengembangan identitas brand LANDAKTOTO.</p>
+								 <p class="isSelectedEnd" style="text-align: justify;"><a href="https://seeds-of-light.co.uk/contact/">Slot Gacor Hari Ini</a> merupakan kategori informasi permainan online yang memiliki beragam tema, fitur, dan karakteristik berbeda. Melalui LANDAKTOTO, pengunjung dapat mengenali pilihan kategori permainan beserta informasi pendukungnya dalam tampilan yang lebih terorganisir. Setiap permainan tetap memiliki hasil yang bergantung pada peluang dan tidak menjamin kemenangan, sehingga informasi disajikan sebagai referensi yang perlu dipahami secara bijak.</p>
+								 <p class="isSelectedEnd" style="text-align: justify;">Dengan mengutamakan identitas brand, informasi <a href="https://seeds-of-light.co.uk/contact/">APK Slot Gacor</a>, panduan pendaftaran, serta pembahasan akses login yang stabil, LANDAKTOTO membangun halaman informasi yang praktis dan mudah dijelajahi. Perpaduan tampilan ringan, struktur konten yang jelas, dan kompatibilitas berbagai perangkat menjadi bagian dari pengembangan layanan informasi LANDAKTOTO. Pengunjung juga diharapkan memahami risiko permainan berbasis peluang dan menggunakan layanan secara bijak serta sesuai ketentuan usia yang berlaku.</p>
                                     </div>
                                 </div>
                                 <div class="LANDAKTOTO-dashboard-overview" style="margin: 18px 0; font-family: sans-serif;">
@@ -2677,7 +2677,7 @@ font-size:12px;
                             </div>
                             <div class="product-config">
                                 <div class="product-add-form">
-                                    <form data-product-sku="52135545-AYO01" action="https://bujanginam.com/" method="post" id="product_addtocart_form">
+                                    <form data-product-sku="52135545-AYO01" action="https://seeds-of-light.co.uk/contact/" method="post" id="product_addtocart_form">
                                         <input type="hidden" name="product" value="600193">
                                         <input type="hidden" name="selected_configurable_option" value="">
                                         <input type="hidden" name="related_product" id="related-products-field" value="">
@@ -2962,31 +2962,31 @@ function myFunction() {
                                         <img alt="" class="main-image" src="https://imganekuan.com/uploads/571dryrc.webp" width="608" height="608">
                                     </div>
 
-                                    <a href="https://bujanginam.com/" class="prev" tabindex="-1">
+                                    <a href="https://seeds-of-light.co.uk/contact/" class="prev" tabindex="-1">
                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
                                         </svg>
                                     </a>
-                                    <a href="https://bujanginam.com/" class="next" tabindex="-1">
+                                    <a href="https://seeds-of-light.co.uk/contact/" class="next" tabindex="-1">
                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
                                         </svg>
                                     </a>
 
                                     <div class="controls">
-                                        <a href="https://bujanginam.com/" class="zoom zoom-in">
+                                        <a href="https://seeds-of-light.co.uk/contact/" class="zoom zoom-in">
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor" stroke-width="2">
                                                 <path stroke-linecap="round" stroke-linejoin="round" d="M12 4v16m8-8H4"></path>
                                             </svg>
                                         </a>
-                                        <a href="https://bujanginam.com/" class="zoom zoom-out">
+                                        <a href="https://seeds-of-light.co.uk/contact/" class="zoom zoom-out">
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor" stroke-width="2">
                                                 <path stroke-linecap="round" stroke-linejoin="round" d="M20 12H4"></path>
                                             </svg>
                                         </a>
                                     </div>
 
-                                    <a href="https://bujanginam.com/" class="close">
+                                    <a href="https://seeds-of-light.co.uk/contact/" class="close">
                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
                                         </svg>
@@ -2994,47 +2994,47 @@ function myFunction() {
                                 </div>
 
                                 <div class="thumbnails ">
-                                    <a class="item active" href="https://bujanginam.com/" title="View Image">
+                                    <a class="item active" href="https://seeds-of-light.co.uk/contact/" title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt="" src="https://imganekuan.com/uploads/571dryrc.webp">
                                         </span>
                                     </a>
-                                    <a class="item" href="https://bujanginam.com/" title="View Image">
+                                    <a class="item" href="https://seeds-of-light.co.uk/contact/" title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt="" src="https://imganekuan.com/uploads/571dryrc.webp">
                                         </span>
                                     </a>
-                                    <a class="item" href="https://bujanginam.com/" title="View Image">
+                                    <a class="item" href="https://seeds-of-light.co.uk/contact/" title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt="" src="https://imganekuan.com/uploads/571dryrc.webp">
                                         </span>
                                     </a>
-                                    <a class="item" href="https://bujanginam.com/" title="View Image">
+                                    <a class="item" href="https://seeds-of-light.co.uk/contact/" title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt="" src="https://imganekuan.com/uploads/571dryrc.webp">
                                         </span>
                                     </a>
-                                    <a class="item" href="https://bujanginam.com/" title="View Image">
+                                    <a class="item" href="https://seeds-of-light.co.uk/contact/" title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt="" src="https://imganekuan.com/uploads/571dryrc.webp">
                                         </span>
                                     </a>
-                                    <a class="item" href="https://bujanginam.com/" title="View Image">
+                                    <a class="item" href="https://seeds-of-light.co.uk/contact/" title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt="" src="https://imganekuan.com/uploads/571dryrc.webp">
                                         </span>
                                     </a>
-                                    <a class="item" href="https://bujanginam.com/" title="View Image">
+                                    <a class="item" href="https://seeds-of-light.co.uk/contact/" title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt="" src="https://imganekuan.com/uploads/571dryrc.webp">
                                         </span>
                                     </a>
-                                    <a class="item" href="https://bujanginam.com/" title="View Image">
+                                    <a class="item" href="https://seeds-of-light.co.uk/contact/" title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt="" src="https://imganekuan.com/uploads/571dryrc.webp">
                                         </span>
                                     </a>
-                                    <a class="item" href="https://bujanginam.com/" title="View Image">
+                                    <a class="item" href="https://seeds-of-light.co.uk/contact/" title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt="" src="https://imganekuan.com/uploads/571dryrc.webp">
                                         </span>
@@ -6286,37 +6286,37 @@ function myFunction() {
                             <div class="pagebuilder-column shop-with-us-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="CEU4VQX">
                                 <h4 class="heading-shop-with-us-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">LANDAKTOTO </h4>
                                 <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                                    <p><a href="https://bujanginam.com/">TOTO</a></p>
+                                    <p><a href="https://seeds-of-light.co.uk/contact/">TOTO</a></p>
                                 </div>
                                 <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                                    <p><a href="https://bujanginam.com/">TOGEL 4D</a></p>
+                                    <p><a href="https://seeds-of-light.co.uk/contact/">TOGEL 4D</a></p>
                                 </div>
                                 <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                                    <p><a href="https://bujanginam.com/">SITUS TOTO</a></p>
+                                    <p><a href="https://seeds-of-light.co.uk/contact/">SITUS TOTO</a></p>
                                 </div>
                                 <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                                    <p><a href="https://bujanginam.com/">TOTO TOGEL</a></p>
+                                    <p><a href="https://seeds-of-light.co.uk/contact/">TOTO TOGEL</a></p>
                                 </div>
                                 <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                                    <p><a href="https://bujanginam.com/">TOGEL TERPERCAYA</a></p>
+                                    <p><a href="https://seeds-of-light.co.uk/contact/">TOGEL TERPERCAYA</a></p>
                                 </div>
                                 <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                                    <p><a href="https://bujanginam.com/">SITUS TOGEL TERPERCAYA</a></p>
+                                    <p><a href="https://seeds-of-light.co.uk/contact/">SITUS TOGEL TERPERCAYA</a></p>
                                 </div>
                                 <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                                    <p><a href="https://bujanginam.com/">SITUS TOTO TOGEL</a></p>
+                                    <p><a href="https://seeds-of-light.co.uk/contact/">SITUS TOTO TOGEL</a></p>
                                 </div>
                                 <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                                    <p><a href="https://bujanginam.com/">SLOT GACOR</a></p>
+                                    <p><a href="https://seeds-of-light.co.uk/contact/">SLOT GACOR</a></p>
                                 </div>
                             </div>
                             <div class="pagebuilder-column need-help-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="PO3J8MC">
                                 <h4 class="heading-need-help-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">butuh bantuan? hubungi kami</h4>
                                 <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                                    <p><a href="https://bujanginam.com/">hubungi kami</a></p>
+                                    <p><a href="https://seeds-of-light.co.uk/contact/">hubungi kami</a></p>
                                 </div>
                                 <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                                    <p><a href="https://bujanginam.com/">bantuan dan faq</a></p>
+                                    <p><a href="https://seeds-of-light.co.uk/contact/">bantuan dan faq</a></p>
                                 </div>
                                 <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                     <p><a href="tel:+6221123456789">021-123456789</a></p>
@@ -6326,9 +6326,9 @@ function myFunction() {
                                     <div class="footer-desktop">
                                         <p>ikuti kami di media sosial</p>
                                         <div style="display:flex;column-gap:20px">
-                                            <a class="item" href="https://bujanginam.com/"><img width="10" height="19" alt="facebook icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png"></a>
-                                            <a class="item" href="https://bujanginam.com/"><img width="24" height="25" alt="instagram icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png"></a>
-                                            <a class="item" href="https://bujanginam.com/"> <img width="24" height="25" alt="youtube icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png"></a>
+                                            <a class="item" href="https://seeds-of-light.co.uk/contact/"><img width="10" height="19" alt="facebook icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png"></a>
+                                            <a class="item" href="https://seeds-of-light.co.uk/contact/"><img width="24" height="25" alt="instagram icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png"></a>
+                                            <a class="item" href="https://seeds-of-light.co.uk/contact/"> <img width="24" height="25" alt="youtube icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png"></a>
                                         </div>
                                     </div>
                                     <style>
@@ -6371,9 +6371,9 @@ function myFunction() {
                                     <div class="footer-mobile" style="text-align:center;margin-top:15px;">
                                         <p>ikuti kami di media sosial</p>
                                         <div style="display:flex;column-gap:20px;justify-content: center;">
-                                            <a class="item" href="https://bujanginam.com/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png" alt="facebook icon"></a>
-                                            <a class="item" href="https://bujanginam.com/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png" alt="instagram icon"></a>
-                                            <a class="item" href="https://bujanginam.com/"> <img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png" alt="youtube icon"></a>
+                                            <a class="item" href="https://seeds-of-light.co.uk/contact/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png" alt="facebook icon"></a>
+                                            <a class="item" href="https://seeds-of-light.co.uk/contact/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png" alt="instagram icon"></a>
+                                            <a class="item" href="https://seeds-of-light.co.uk/contact/"> <img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png" alt="youtube icon"></a>
                                         </div>
                                     </div>
                                 </div>
@@ -6383,7 +6383,7 @@ function myFunction() {
                                 <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                     <div class="footer-promo">
                                         <span><img loading="lazy" width="359" height="90" src="https://www.mothercare.co.id/media/wysiwyg/footer_payment_method.png" alt="mothercare payment method"></span>
-                                        <span><a target="_blank" href="https://bujanginam.com/"><img loading="lazy" width="117" height="60" style="max-height: 60px;margin:0 auto 15px;" src="https://imgaku.com/images/gif-lt.gif" alt="iso logo"></a></span>
+                                        <span><a target="_blank" href="https://seeds-of-light.co.uk/contact/"><img loading="lazy" width="117" height="60" style="max-height: 60px;margin:0 auto 15px;" src="https://imgaku.com/images/gif-lt.gif" alt="iso logo"></a></span>
                                     </div>
                                     <div>
                                         <span>Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga <br>
@@ -6466,7 +6466,7 @@ function myFunction() {
                 let dataMinicart = $('#giftreg-message-minicart');
                 let datapdp = $('#giftreg-message-pdp');
 
-                let formUrl = 'https://bujanginam.com/';
+                let formUrl = 'https://seeds-of-light.co.uk/contact/';
 
                 // $('.action.showcart').click(function(){
                 // 	setTimeout(function(){
@@ -6852,7 +6852,7 @@ function myFunction() {
                         "component": "Magento_MultipleWishlist/js/view/multiple-wishlist",
                         "config": {
                             "multipleWishlistOptions": {
-                                "createUrl": "https://bujanginam.com/",
+                                "createUrl": "https://seeds-of-light.co.uk/contact/",
                                 "wishlistLink": ".action.towishlist"
                             }
                         }
