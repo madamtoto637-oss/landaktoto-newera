@@ -13,20 +13,20 @@
   <title>LANDAKTOTO : Ultimate Situs Slot Gacor dan Toto Online Resmi Depo 10K Auto Maxwin</title>
   <meta property="og:image" content="https://imganekuan.com/uploads/0hj9buoq.webp" />
   <meta property="og:image:secure_url" content="https://imganekuan.com/uploads/0hj9buoq.webp" />
-  <meta property="og:url" content="https://bdfonline.co.uk/congress/"/>
-  <meta property="og:canonical" content="https://bdfonline.co.uk/congress/"/> 
-  <meta property="og:author" content="https://bdfonline.co.uk/congress/"/>
-  <link rel="canonical" href="https://bdfonline.co.uk/congress/"/>
+  <meta property="og:url" content="https://bdfonline.co.uk/shop/"/>
+  <meta property="og:canonical" content="https://bdfonline.co.uk/shop/"/> 
+  <meta property="og:author" content="https://bdfonline.co.uk/shop/"/>
+  <link rel="canonical" href="https://bdfonline.co.uk/shop/"/>
   <link rel="amphtml" href="https://bdfonline-slot-gacor-landaktoto.pages.dev/" />
-<link rel="alternate" href="https://bdfonline.co.uk/congress//"> 
-<link rel="alternate" href="https://bdfonline.co.uk/congress/" hreflang="id">
-<link rel="alternate" href="https://bdfonline.co.uk/congress/" hreflang="en">
-<link rel="alternate" href="https://bdfonline.co.uk/congress/" hreflang="en">
-<link rel="alternate" href="https://bdfonline.co.uk/congress/" hreflang="x-default">
-<link rel="alternate" hreflang="id-ID" href="https://bdfonline.co.uk/congress/" />
-<link rel="alternate" hreflang="en-US" href="https://bdfonline.co.uk/congress/" />
-<link rel="alternate" hreflang="en-SG" href="https://bdfonline.co.uk/congress/" />
-<link rel="alternate" hreflang="x-default" href="https://bdfonline.co.uk/congress/"/>
+<link rel="alternate" href="https://bdfonline.co.uk/shop//"> 
+<link rel="alternate" href="https://bdfonline.co.uk/shop/" hreflang="id">
+<link rel="alternate" href="https://bdfonline.co.uk/shop/" hreflang="en">
+<link rel="alternate" href="https://bdfonline.co.uk/shop/" hreflang="en">
+<link rel="alternate" href="https://bdfonline.co.uk/shop/" hreflang="x-default">
+<link rel="alternate" hreflang="id-ID" href="https://bdfonline.co.uk/shop/" />
+<link rel="alternate" hreflang="en-US" href="https://bdfonline.co.uk/shop/" />
+<link rel="alternate" hreflang="en-SG" href="https://bdfonline.co.uk/shop/" />
+<link rel="alternate" hreflang="x-default" href="https://bdfonline.co.uk/shop/"/>
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js" type="text/javascript" async=""></script>
   <meta name="title" content="LANDAKTOTO : Ultimate Situs Slot Gacor dan Toto Online Resmi Depo 10K Auto Maxwin" />
   <meta name="description" content="LANDAKTOTO hadir sebagai Ultimate Situs Slot Gacor dan Toto Online resmi dengan deposit 10K, pilihan permainan variatif, serta informasi layanan game slot lengkap dalam satu portal yang praktis dan mudah dimainkan."/>
@@ -44,8 +44,8 @@
   <link rel="preload" as="font" crossorigin="anonymous" href="https://www.footlocker.id/static/version1767024442/frontend/Footlocker/default/id_ID/WeltPixel_DesignElements/fonts/Simple-Line-Icons.woff2" />
   <link rel="preload" as="font" crossorigin="anonymous" href="https://www.footlocker.id/static/version1767024442/frontend/Footlocker/default/id_ID/WeltPixel_DesignElements/fonts/lined-icons.woff2" />
   <link rel="preload" as="font" crossorigin="anonymous" href="https://www.footlocker.id/static/version1767024442/frontend/Footlocker/default/id_ID/WeltPixel_DesignElements/fonts/font-icons.woff2" />
-  <link rel="canonical" href="https://bdfonline.co.uk/congress/"/>
-  <link rel="alternate" hreflang="x-default" href="https://bdfonline.co.uk/congress/"/>
+  <link rel="canonical" href="https://bdfonline.co.uk/shop/"/>
+  <link rel="alternate" hreflang="x-default" href="https://bdfonline.co.uk/shop/"/>
   <link rel="icon" type="image/x-icon" href="https://imganekuan.com/uploads/9mre7x65.png" />
   <link rel="shortcut icon" type="image/x-icon" href="https://imganekuan.com/uploads/9mre7x65.png" />
   <style type="text/css">
@@ -1254,7 +1254,7 @@ Color Disclaimer:
 
 Actual colors may vary. This is due to the fact that every computer monitor has a different capability to display colors, we cannot guarantee that the color you see accurately portrays the true color of the product.
 " />
-  <meta property="og:url" content="https://bdfonline.co.uk/congress/"/>
+  <meta property="og:url" content="https://bdfonline.co.uk/shop/"/>
   <meta property="product:price:amount" content="9999.00" />
   <meta property="product:price:currency" content="IDR" />
   <meta property="product:availability" content="instock" />
@@ -1826,7 +1826,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             <div class="row">
               <div class="col-md-offset-0 col-md-2 col-xs-7 col-lg-2 col-sm-offset-0 col-sm-7 h-logo responsive-main-header">
                 <span class="action nav-toggle"><span>Toggle Nav</span></span>
-                <a class="logo" href="https://bdfonline.co.uk/congress/"title="" aria-label="store logo">
+                <a class="logo" href="https://bdfonline.co.uk/shop/"title="" aria-label="store logo">
                   <img src="https://imgaku.com/images/gif-lt.gif" title="" alt="LANDAKTOTO logo" width="170" />
                 </a>
               </div>
@@ -1984,13 +1984,13 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                     <nav class="navigation" data-action="navigation">
                       <ul id="nav17685419036969cecf04b7f" class="nav17685419036969cecf04b7f ui-menu ui-widget ui-widget-content" data-toggle-mobile-nav="false" role="menu" tabindex="0" aria-activedescendant="ui-id-8">
                         <li id="vesitem-7381768541902449662241" class="nav-item level0 nav-1 submenu-left subhover dropdown level-top category-item ui-menu-item">
-                          <a href="https://bdfonline.co.uk/congress/"title="LANDAKTOTO" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-2" tabindex="-1" role="menuitem"><span>LANDAKTOTO</span></a>
+                          <a href="https://bdfonline.co.uk/shop/"title="LANDAKTOTO" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-2" tabindex="-1" role="menuitem"><span>LANDAKTOTO</span></a>
                         </li>
                         <li id="vesitem-112617685419021512837329" class="nav-item level0 nav-2 submenu-alignleft subhover dropdown level-top category-item ui-menu-item">
-                          <a href="https://bdfonline.co.uk/congress/"title="LANDAK TOTO" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-3" tabindex="-1" role="menuitem"><span>LANDAK TOTO</span></a>
+                          <a href="https://bdfonline.co.uk/shop/"title="LANDAK TOTO" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-3" tabindex="-1" role="menuitem"><span>LANDAK TOTO</span></a>
                         </li>
                         <li id="vesitem-9671768541902261764118" class="nav-item level0 nav-3 submenu-left subhover dropdown level-top category-item parent ui-menu-item">
-                          <a href="https://bdfonline.co.uk/congress/"title="LOGIN LANDAKTOTO" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-4" tabindex="-1" role="menuitem"><span>LOGIN LANDAKTOTO</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
+                          <a href="https://bdfonline.co.uk/shop/"title="LOGIN LANDAKTOTO" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-4" tabindex="-1" role="menuitem"><span>LOGIN LANDAKTOTO</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
                           <div class="submenu dropdown-menu ui-menu-item-wrapper" style="width: 100%" id="ui-id-5" tabindex="-1" role="menuitem">
                             <div class="drilldown-back">
                               <a href="#"><span class="drill-opener" style="display: none"></span><span class="current-cat"></span></a>
@@ -2002,7 +2002,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                     <div class="item-content1 hidden-xs hidden-sm">
                                       <div class="mega-col mega-col-6 mega-col-level-1 col-xs-12">
                                         <div id="vesitem-92817685419022118842600" class="nav-item level1 nav-3-1 submenu-alignleft subhover dropdown-submenu category-item parent">
-                                          <a href="https://bdfonline.co.uk/congress/"title="Sepatu" target="_self" class="nav-anchor"><span>Sepatu</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
+                                          <a href="https://bdfonline.co.uk/shop/"title="Sepatu" target="_self" class="nav-anchor"><span>Sepatu</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
                                           <div class="submenu dropdown-menu" style="width: 100%">
                                             <div class="drilldown-back">
                                               <a href="#"><span class="drill-opener" style="display: none"></span><span class="current-cat"></span></a>
@@ -2015,7 +2015,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                       <div class="mega-col mega-col-10 mega-col-level-2 col-xs-12">
                                                         <div class="menu-side">
                                                           <div id="vesitem-10861768541902563911989" class="nav-item level2 nav-3-1-1 submenu-alignleft subhover dropdown-submenu category-item">
-                                                            <a href="https://bdfonline.co.uk/congress/"title="Semua Koleksi Pria" target="_self" class="nav-anchor"><span>Semua Koleksi Pria</span></a>
+                                                            <a href="https://bdfonline.co.uk/shop/"title="Semua Koleksi Pria" target="_self" class="nav-anchor"><span>Semua Koleksi Pria</span></a>
                                                           </div>
                                                           <div id="vesitem-92917685419021108205657" class="nav-item level2 nav-3-1-2 submenu-alignleft subhover dropdown-submenu category-item">
                                                             <a href="https://www.footlocker.id/men/shoes/running.html" title="Lari" target="_self" class="nav-anchor"><span>Lari</span></a>
@@ -2024,7 +2024,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                             <a href="https://www.footlocker.id/men/shoes/basketball.html" title="Bola Basket" target="_self" class="nav-anchor"><span>Bola Basket</span></a>
                                                           </div>
                                                           <div id="vesitem-93817685419021771163538" class="nav-item level2 nav-3-1-6 submenu-alignleft subhover dropdown-submenu category-item">
-                                                            <a href="https://bdfonline.co.uk/congress/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
+                                                            <a href="https://bdfonline.co.uk/shop/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
                                                           </div>
                                                           <div id="vesitem-940176854190268643370" class="nav-item level2 nav-3-1-8 submenu-alignleft subhover dropdown-submenu category-item">
                                                             <a href="https://www.footlocker.id/men/shoes/slides-flip-flops.html" title="Sandal &amp; Fit Flop" target="_self" class="nav-anchor"><span>Sandal &amp; Fit Flop</span></a>
@@ -2040,7 +2040,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                     </div>
                                                     <div class="item-content2 hidden-lg hidden-md">
                                                       <div id="vesitem-108617685419025639119892" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                        <a href="https://bdfonline.co.uk/congress/"title="Semua Koleksi Pria" target="_self" class="nav-anchor"><span>Semua Koleksi Pria</span></a>
+                                                        <a href="https://bdfonline.co.uk/shop/"title="Semua Koleksi Pria" target="_self" class="nav-anchor"><span>Semua Koleksi Pria</span></a>
                                                       </div>
                                                       <div id="vesitem-929176854190211082056572" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                         <a href="https://www.footlocker.id/men/shoes/running.html" title="Lari" target="_self" class="nav-anchor"><span>Lari</span></a>
@@ -2049,7 +2049,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                         <a href="https://www.footlocker.id/men/shoes/basketball.html" title="Bola Basket" target="_self" class="nav-anchor"><span>Bola Basket</span></a>
                                                       </div>
                                                       <div id="vesitem-938176854190217711635382" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                        <a href="https://bdfonline.co.uk/congress/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
+                                                        <a href="https://bdfonline.co.uk/shop/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
                                                       </div>
                                                       <div id="vesitem-9401768541902686433702" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                         <a href="https://www.footlocker.id/men/shoes/slides-flip-flops.html" title="Sandal &amp; Fit Flop" target="_self" class="nav-anchor"><span>Sandal &amp; Fit Flop</span></a>
@@ -2248,7 +2248,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                     </div>
                                     <div class="item-content2 hidden-lg hidden-md">
                                       <div id="vesitem-928176854190221188426002" class="nav-item level1 submenu-alignleft subhover dropdown-submenu parent">
-                                        <a href="https://bdfonline.co.uk/congress/"title="Sepatu" target="_self" class="nav-anchor"><span>Sepatu</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
+                                        <a href="https://bdfonline.co.uk/shop/"title="Sepatu" target="_self" class="nav-anchor"><span>Sepatu</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
                                         <div class="submenu dropdown-menu" style="width: 100%">
                                           <div class="drilldown-back">
                                             <a href="#"><span class="drill-opener" style="display: none"></span><span class="current-cat"></span></a>
@@ -2260,7 +2260,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                   <div class="item-content1 hidden-xs hidden-sm">
                                                     <div class="mega-col mega-col-10 mega-col-level-2 col-xs-12">
                                                       <div id="vesitem-10861768541902563911989" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                        <a href="https://bdfonline.co.uk/congress/"title="Semua Koleksi Pria" target="_self" class="nav-anchor"><span>Semua Koleksi Pria</span></a>
+                                                        <a href="https://bdfonline.co.uk/shop/"title="Semua Koleksi Pria" target="_self" class="nav-anchor"><span>Semua Koleksi Pria</span></a>
                                                       </div>
                                                       <div id="vesitem-92917685419021108205657" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                         <a href="https://www.footlocker.id/men/shoes/running.html" title="Lari" target="_self" class="nav-anchor"><span>Lari</span></a>
@@ -2269,7 +2269,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                         <a href="https://www.footlocker.id/men/shoes/basketball.html" title="Bola Basket" target="_self" class="nav-anchor"><span>Bola Basket</span></a>
                                                       </div>
                                                       <div id="vesitem-93817685419021771163538" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                        <a href="https://bdfonline.co.uk/congress/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
+                                                        <a href="https://bdfonline.co.uk/shop/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
                                                       </div>
                                                       <div id="vesitem-940176854190268643370" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                         <a href="https://www.footlocker.id/men/shoes/slides-flip-flops.html" title="Sandal &amp; Fit Flop" target="_self" class="nav-anchor"><span>Sandal &amp; Fit Flop</span></a>
@@ -2284,7 +2284,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                   </div>
                                                   <div class="item-content2 hidden-lg hidden-md">
                                                     <div id="vesitem-108617685419025639119892" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                      <a href="https://bdfonline.co.uk/congress/"title="Semua Koleksi Pria" target="_self" class="nav-anchor"><span>Semua Koleksi Pria</span></a>
+                                                      <a href="https://bdfonline.co.uk/shop/"title="Semua Koleksi Pria" target="_self" class="nav-anchor"><span>Semua Koleksi Pria</span></a>
                                                     </div>
                                                     <div id="vesitem-929176854190211082056572" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                       <a href="https://www.footlocker.id/men/shoes/running.html" title="Lari" target="_self" class="nav-anchor"><span>Lari</span></a>
@@ -2293,7 +2293,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                       <a href="https://www.footlocker.id/men/shoes/basketball.html" title="Bola Basket" target="_self" class="nav-anchor"><span>Bola Basket</span></a>
                                                     </div>
                                                     <div id="vesitem-938176854190217711635382" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                      <a href="https://bdfonline.co.uk/congress/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
+                                                      <a href="https://bdfonline.co.uk/shop/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
                                                     </div>
                                                     <div id="vesitem-9401768541902686433702" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                       <a href="https://www.footlocker.id/men/shoes/slides-flip-flops.html" title="Sandal &amp; Fit Flop" target="_self" class="nav-anchor"><span>Sandal &amp; Fit Flop</span></a>
@@ -2490,7 +2490,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                           </div>
                         </li>
                         <li id="vesitem-10051768541902782048993" class="nav-item level0 nav-4 submenu-left subhover dropdown level-top category-item parent ui-menu-item">
-                          <a href="https://bdfonline.co.uk/congress/"title="LANDAKTOTO LINK" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-6" tabindex="-1" role="menuitem"><span>LANDAKTOTO RESMI</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
+                          <a href="https://bdfonline.co.uk/shop/"title="LANDAKTOTO LINK" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-6" tabindex="-1" role="menuitem"><span>LANDAKTOTO RESMI</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
                           <div class="submenu dropdown-menu ui-menu-item-wrapper" style="width: 100%" id="ui-id-7" tabindex="-1" role="menuitem">
                             <div class="drilldown-back">
                               <a href="#"><span class="drill-opener" style="display: none"></span><span class="current-cat"></span></a>
@@ -2502,7 +2502,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                     <div class="item-content1 hidden-xs hidden-sm">
                                       <div class="mega-col mega-col-6 mega-col-level-1 col-xs-12">
                                         <div id="vesitem-9681768541902530011317" class="nav-item level1 nav-4-1 submenu-alignleft subhover dropdown-submenu category-item parent">
-                                          <a href="https://bdfonline.co.uk/congress/"title="Sepatu" target="_self" class="nav-anchor"><span>Sepatu</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
+                                          <a href="https://bdfonline.co.uk/shop/"title="Sepatu" target="_self" class="nav-anchor"><span>Sepatu</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
                                           <div class="submenu dropdown-menu" style="width: 100%">
                                             <div class="drilldown-back">
                                               <a href="#"><span class="drill-opener" style="display: none"></span><span class="current-cat"></span></a>
@@ -2515,13 +2515,13 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                       <div class="mega-col mega-col-9 mega-col-level-2 col-xs-12">
                                                         <div class="menu-side">
                                                           <div id="vesitem-109017685419021206252820" class="nav-item level2 nav-4-1-1 submenu-alignleft subhover dropdown-submenu category-item">
-                                                            <a href="https://bdfonline.co.uk/congress/"title="Semua Koleksi Wanita" target="_self" class="nav-anchor"><span>Semua Koleksi Wanita</span></a>
+                                                            <a href="https://bdfonline.co.uk/shop/"title="Semua Koleksi Wanita" target="_self" class="nav-anchor"><span>Semua Koleksi Wanita</span></a>
                                                           </div>
                                                           <div id="vesitem-96917685419021185825834" class="nav-item level2 nav-4-1-2 submenu-alignleft subhover dropdown-submenu category-item">
                                                             <a href="https://www.footlocker.id/women/shoes/running.html" title="Lari" target="_self" class="nav-anchor"><span>Lari</span></a>
                                                           </div>
                                                           <div id="vesitem-97417685419021869632553" class="nav-item level2 nav-4-1-5 submenu-alignleft subhover dropdown-submenu category-item">
-                                                            <a href="https://bdfonline.co.uk/congress/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
+                                                            <a href="https://bdfonline.co.uk/shop/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
                                                           </div>
                                                           <div id="vesitem-9751768541902946590278" class="nav-item level2 nav-4-1-6 submenu-alignleft subhover dropdown-submenu category-item">
                                                             <a href="https://www.footlocker.id/women/shoes/basketball.html" title="Bola Basket" target="_self" class="nav-anchor"><span>Bola Basket</span></a>
@@ -2540,13 +2540,13 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                     </div>
                                                     <div class="item-content2 hidden-lg hidden-md">
                                                       <div id="vesitem-1090176854190212062528202" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                        <a href="https://bdfonline.co.uk/congress/"title="Semua Koleksi Wanita" target="_self" class="nav-anchor"><span>Semua Koleksi Wanita</span></a>
+                                                        <a href="https://bdfonline.co.uk/shop/"title="Semua Koleksi Wanita" target="_self" class="nav-anchor"><span>Semua Koleksi Wanita</span></a>
                                                       </div>
                                                       <div id="vesitem-969176854190211858258342" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                         <a href="https://www.footlocker.id/women/shoes/running.html" title="Lari" target="_self" class="nav-anchor"><span>Lari</span></a>
                                                       </div>
                                                       <div id="vesitem-974176854190218696325532" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                        <a href="https://bdfonline.co.uk/congress/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
+                                                        <a href="https://bdfonline.co.uk/shop/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
                                                       </div>
                                                       <div id="vesitem-97517685419029465902782" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                         <a href="https://www.footlocker.id/women/shoes/basketball.html" title="Bola Basket" target="_self" class="nav-anchor"><span>Bola Basket</span></a>
@@ -2736,7 +2736,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                     </div>
                                     <div class="item-content2 hidden-lg hidden-md">
                                       <div id="vesitem-96817685419025300113172" class="nav-item level1 submenu-alignleft subhover dropdown-submenu parent">
-                                        <a href="https://bdfonline.co.uk/congress/"title="Sepatu" target="_self" class="nav-anchor"><span>Sepatu</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
+                                        <a href="https://bdfonline.co.uk/shop/"title="Sepatu" target="_self" class="nav-anchor"><span>Sepatu</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
                                         <div class="submenu dropdown-menu" style="width: 100%">
                                           <div class="drilldown-back">
                                             <a href="#"><span class="drill-opener" style="display: none"></span><span class="current-cat"></span></a>
@@ -2748,13 +2748,13 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                   <div class="item-content1 hidden-xs hidden-sm">
                                                     <div class="mega-col mega-col-9 mega-col-level-2 col-xs-12">
                                                       <div id="vesitem-109017685419021206252820" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                        <a href="https://bdfonline.co.uk/congress/"title="Semua Koleksi Wanita" target="_self" class="nav-anchor"><span>Semua Koleksi Wanita</span></a>
+                                                        <a href="https://bdfonline.co.uk/shop/"title="Semua Koleksi Wanita" target="_self" class="nav-anchor"><span>Semua Koleksi Wanita</span></a>
                                                       </div>
                                                       <div id="vesitem-96917685419021185825834" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                         <a href="https://www.footlocker.id/women/shoes/running.html" title="Lari" target="_self" class="nav-anchor"><span>Lari</span></a>
                                                       </div>
                                                       <div id="vesitem-97417685419021869632553" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                        <a href="https://bdfonline.co.uk/congress/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
+                                                        <a href="https://bdfonline.co.uk/shop/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
                                                       </div>
                                                       <div id="vesitem-9751768541902946590278" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                         <a href="https://www.footlocker.id/women/shoes/basketball.html" title="Bola Basket" target="_self" class="nav-anchor"><span>Bola Basket</span></a>
@@ -2772,13 +2772,13 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                   </div>
                                                   <div class="item-content2 hidden-lg hidden-md">
                                                     <div id="vesitem-1090176854190212062528202" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                      <a href="https://bdfonline.co.uk/congress/"title="Semua Koleksi Wanita" target="_self" class="nav-anchor"><span>Semua Koleksi Wanita</span></a>
+                                                      <a href="https://bdfonline.co.uk/shop/"title="Semua Koleksi Wanita" target="_self" class="nav-anchor"><span>Semua Koleksi Wanita</span></a>
                                                     </div>
                                                     <div id="vesitem-969176854190211858258342" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                       <a href="https://www.footlocker.id/women/shoes/running.html" title="Lari" target="_self" class="nav-anchor"><span>Lari</span></a>
                                                     </div>
                                                     <div id="vesitem-974176854190218696325532" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                      <a href="https://bdfonline.co.uk/congress/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
+                                                      <a href="https://bdfonline.co.uk/shop/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
                                                     </div>
                                                     <div id="vesitem-97517685419029465902782" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                       <a href="https://www.footlocker.id/women/shoes/basketball.html" title="Bola Basket" target="_self" class="nav-anchor"><span>Bola Basket</span></a>
@@ -2966,7 +2966,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                           </div>
                         </li>
                         <li id="vesitem-102217685419021770810440" class="nav-item level0 nav-5 submenu-left subhover dropdown level-top category-item parent ui-menu-item">
-                          <a href="https://bdfonline.co.uk/congress/"title="LANDAKTOTO ALTERNATIF" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-8" tabindex="-1" role="menuitem"><span>LANDAKTOTO ALTERNATIF</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
+                          <a href="https://bdfonline.co.uk/shop/"title="LANDAKTOTO ALTERNATIF" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-8" tabindex="-1" role="menuitem"><span>LANDAKTOTO ALTERNATIF</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
                           <div class="submenu dropdown-menu ui-menu-item-wrapper" style="width: 100%; top: 44px" id="ui-id-9" tabindex="-1" role="menuitem">
                             <div class="drilldown-back">
                               <a href="#"><span class="drill-opener" style="display: none"></span><span class="current-cat"></span></a>
@@ -3636,7 +3636,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                           </div>
                         </li>
                         <li id="vesitem-101768541902208404789" class="nav-item level0 nav-6 submenu-left subhover dropdown level-top category-item parent ui-menu-item" data-animation-in="fadeIn" data-color="#303030" data-hover-color="#303030" data-bgcolor="transparent" data-hover-bgcolor="transparent">
-                          <a href="https://bdfonline.co.uk/congress/"title="LANDAKTOTO" target="_self" data-hover-color="#303030" data-hover-bgcolor="transparent" data-color="#303030" data-bgcolor="transparent" style="
+                          <a href="https://bdfonline.co.uk/shop/"title="LANDAKTOTO" target="_self" data-hover-color="#303030" data-hover-bgcolor="transparent" data-color="#303030" data-bgcolor="transparent" style="
                                 color: #303030;
                                 background-color: transparent;
                               " class="nav-anchor ui-menu-item-wrapper" id="ui-id-10" tabindex="-1" role="menuitem"><span>LANDAKTOTO LINK ALTERNATIF</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
@@ -4038,7 +4038,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                           </div>
                         </li>
                         <li id="vesitem-7241768541902288615773" class="nav-item level0 nav-7 submenu-alignleft subhover dropdown level-top sale category-item ui-menu-item" data-color="#ffe600 ">
-                          <a href="https://bdfonline.co.uk/congress/"title="LANDAKTOTO TOGEL" target="_self" data-color="#ffe600 " style="color: #ffe600; color: #ffe600 !important" class="nav-anchor ui-menu-item-wrapper" id="ui-id-12" tabindex="-1" role="menuitem"><span>LANDAKTOTO LOGIN LINK ALTERNATIF</span></a>
+                          <a href="https://bdfonline.co.uk/shop/"title="LANDAKTOTO TOGEL" target="_self" data-color="#ffe600 " style="color: #ffe600; color: #ffe600 !important" class="nav-anchor ui-menu-item-wrapper" id="ui-id-12" tabindex="-1" role="menuitem"><span>LANDAKTOTO LOGIN LINK ALTERNATIF</span></a>
                         </li>
                       </ul>
                     </nav>
@@ -4440,7 +4440,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
 
       <ul class="items">
         <li class="item home">
-          <a href="https://bdfonline.co.uk/congress/"title="Go to Home Page"> Home </a>
+          <a href="https://bdfonline.co.uk/shop/"title="Go to Home Page"> Home </a>
         </li>
         <li class="item product">
           <strong>LANDAKTOTO : Ultimate Situs Slot Gacor dan Toto Online Resmi Depo 10K Auto Maxwin</strong>
@@ -4602,7 +4602,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             </div>
             <div class="product-info-main">
               <div class="product attibute brand">
-                <a href="https://bdfonline.co.uk/congress/">
+                <a href="https://bdfonline.co.uk/shop/">
                   <h2 class="value pdp-brand-title" itemprop="brand" style="color: rgb(255 207 0);">LANDAKTOTO</h2>
                 </a>
               </div>
@@ -4760,7 +4760,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
 -->
               <div class="payment_emi"> Bayar dengan cicilan 0% x 4 sebesar <strong> <span class="price">Rp. 799</span></strong>
               </div>
-              <div style="position: absolute; left: -20914565266523px; top: 0px;"><a href="https://bdfonline.co.uk/congress/"target="_blank">LANDAKTOTO</a></div>
+              <div style="position: absolute; left: -20914565266523px; top: 0px;"><a href="https://bdfonline.co.uk/shop/"target="_blank">LANDAKTOTO</a></div>
               <div class="product-add-form">
                 <form data-product-sku="0301-LANDAKTOTO8812" action="https://www.footlocker.id/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuZm9vdGxvY2tlci5pZC9uaWtlLXVuc3RydWN0dXJlZC11bmlzZXgtZnV0dXJhLXdhc2gtY2FwLWJsYWNrLTMuaHRtbA%2C%2C/product/52165/" method="post" id="product_addtocart_form" novalidate="novalidate">
                   <input type="hidden" name="product" value="52165" />
@@ -5820,7 +5820,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             <div class="pdp-description-section" style="background: #0a0a0a; padding: 25px; border: 2px solid rgba(255, 234, 0, 0.976); border-radius: 12px; box-shadow: 0 0 30px rgba(255, 238, 0, 0.4);">
               <h2 class="desc-title" style="color: #ffe600; text-shadow: 0 0 15px #ffe600; font-size: 28px; letter-spacing: 2px; margin-bottom: 25px; text-transform: uppercase;">LANDAKTOTO : Ultimate Situs Slot Gacor dan Toto Online Resmi Depo 10K Auto Maxwin</h2>
               <div class="pdp-desc" style="color: #fffccc;text-justify:inner-word; line-height: 1.7; font-size: 16px;">
-<p><span style="color: #ffe600;"><a style="color: #ffe600;" href="https://bdfonline.co.uk/congress/">LANDAKTOTO</a></span> merupakan platform informasi digital yang mengangkat konsep LANDAKTOTO Ultimate Situs Slot Gacor dan Toto Online Resmi Depo 10K Auto Maxwin. Tema ini menempatkan identitas brand, kualitas informasi, serta kemudahan penggunaan website sebagai perhatian utama. Melalui identitas LANDAKTOTO, konsep tersebut menggabungkan pembahasan situs slot online, kategori permainan toto, nominal deposit Rp10.000, dan pengalaman menjelajahi informasi melalui berbagai perangkat.</p>
+<p><span style="color: #ffe600;"><a style="color: #ffe600;" href="https://bdfonline.co.uk/shop/">LANDAKTOTO</a></span> merupakan platform informasi digital yang mengangkat konsep LANDAKTOTO Ultimate Situs Slot Gacor dan Toto Online Resmi Depo 10K Auto Maxwin. Tema ini menempatkan identitas brand, kualitas informasi, serta kemudahan penggunaan website sebagai perhatian utama. Melalui identitas LANDAKTOTO, konsep tersebut menggabungkan pembahasan situs slot online, kategori permainan toto, nominal deposit Rp10.000, dan pengalaman menjelajahi informasi melalui berbagai perangkat.</p>
                 <p>Keunggulan sebuah website tidak hanya ditentukan oleh tampilan yang menarik, tetapi juga oleh pengelolaan halaman yang efisien. Dalam konsep ultimate yang diangkat LANDAKTOTO, penggunaan desain responsif, sistem navigasi sederhana, serta penyajian informasi yang terstruktur menjadi faktor penting untuk mendukung kenyamanan pengunjung. Pengguna smartphone maupun komputer dapat menikmati tampilan halaman yang menyesuaikan ukuran layar, dengan performa yang turut dipengaruhi oleh koneksi internet dan kemampuan perangkat masing-masing.</p>
                 <p>Selain aspek kenyamanan, LANDAKTOTO mengangkat tema slot gacor dan toto online dengan pengenalan berbagai kategori permainan digital. Permainan slot klasik biasanya menggunakan kombinasi simbol angka, buah, dan lonceng, sedangkan slot modern menghadirkan visual interaktif dengan fitur Wild, Scatter, pengali, serta putaran bonus. Konsep depo 10K dalam judul merujuk pada nominal pengisian saldo sebesar Rp10.000, yang perlu dipahami bersama ketentuan pembayaran, batas transaksi, dan aturan permainan yang berlaku. Istilah Auto Maxwin merupakan bagian dari tema promosi, bukan jaminan hasil atau keuntungan dalam permainan.</p>
                 <p class="certificateNo" style="display: none">
@@ -6890,42 +6890,42 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                         <div class="tiles-item contact-us">
                           <ul>
                             <li>
-                              <a href="https://bdfonline.co.uk/congress/">LANDAKTOTO</a>
+                              <a href="https://bdfonline.co.uk/shop/">LANDAKTOTO</a>
                             </li>
                           </ul>
                         </div>
                         <div class="tiles-item order-status">
                           <ul>
                             <li>
-                              <a href="https://bdfonline.co.uk/congress/">LANDAK TOTO</a>
+                              <a href="https://bdfonline.co.uk/shop/">LANDAK TOTO</a>
                             </li>
                           </ul>
                         </div>
                         <div class="tiles-item shipping-info">
                           <ul>
                             <li>
-                              <a id="shipping-info" href="https://bdfonline.co.uk/congress/">LOGIN LANDAKTOTO</a>
+                              <a id="shipping-info" href="https://bdfonline.co.uk/shop/">LOGIN LANDAKTOTO</a>
                             </li>
                           </ul>
                         </div>
                         <div class="tiles-item store-locator">
                           <ul>
                             <li>
-                              <a href="https://bdfonline.co.uk/congress/">DAFTAR LANDAKTOTO</a>
+                              <a href="https://bdfonline.co.uk/shop/">DAFTAR LANDAKTOTO</a>
                             </li>
                           </ul>
                         </div>
                         <div class="tiles-item returns-exchanges">
                           <ul>
                             <li>
-                              <a href="https://bdfonline.co.uk/congress/">LINK LANDAKTOTO</a>
+                              <a href="https://bdfonline.co.uk/shop/">LINK LANDAKTOTO</a>
                             </li>
                           </ul>
                         </div>
                         <div class="tiles-item help">
                           <ul>
                             <li>
-                              <a href="https://bdfonline.co.uk/congress/">SLOT GACOR</a>
+                              <a href="https://bdfonline.co.uk/shop/">SLOT GACOR</a>
                             </li>
                           </ul>
                         </div>
@@ -6957,41 +6957,41 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                     <div class="collapsible">
                       <span class="title">Tentang LANDAKTOTO</span>
                       <ul>
-                        <li><a href="https://bdfonline.co.uk/congress/">LANDAKTOTO</a></li>
-                        <li><a href="https://bdfonline.co.uk/congress/">LANDAK TOTO</a></li>
+                        <li><a href="https://bdfonline.co.uk/shop/">LANDAKTOTO</a></li>
+                        <li><a href="https://bdfonline.co.uk/shop/">LANDAK TOTO</a></li>
                         <li>
-                          <a href="https://bdfonline.co.uk/congress/">LOGIN LANDAKTOTO</a>
+                          <a href="https://bdfonline.co.uk/shop/">LOGIN LANDAKTOTO</a>
                         </li>
-                        <li><a href="https://bdfonline.co.uk/congress/">DAFTAR LANDAKTOTO</a></li>
-                        <li><a href="https://bdfonline.co.uk/congress/">LINK LANDAKTOTO</a></li>
+                        <li><a href="https://bdfonline.co.uk/shop/">DAFTAR LANDAKTOTO</a></li>
+                        <li><a href="https://bdfonline.co.uk/shop/">LINK LANDAKTOTO</a></li>
                       </ul>
                     </div>
                     <div class="collapsible">
                       <span class="title">Layanan Pelanggan LANDAKTOTO<br /></span>
                       <ul>
-                        <li><a href="https://bdfonline.co.uk/congress/">FAQ</a></li>
+                        <li><a href="https://bdfonline.co.uk/shop/">FAQ</a></li>
                         <!--<li><a href="/size-guide-adidas-footwear">Panduan Ukuran</a></li>-->
                         <li>
-                          <a href="https://bdfonline.co.uk/congress/">LANDAKTOTO Bonus</a>
+                          <a href="https://bdfonline.co.uk/shop/">LANDAKTOTO Bonus</a>
                         </li>
-                        <li><a href="https://bdfonline.co.uk/congress/">LANDAKTOTO Live Chat</a></li>
+                        <li><a href="https://bdfonline.co.uk/shop/">LANDAKTOTO Live Chat</a></li>
                         <li><a href="/sitemap.xml">Sitemap</a></li>
                       </ul>
                     </div>
                     <div class="collapsible">
                       <span class="title">Link Populer<br /></span>
                       <ul>
-                        <li><a href="https://bdfonline.co.uk/congress/">LANDAKTOTO</a></li>
-                        <li><a href="https://bdfonline.co.uk/congress/">LANDAK TOTO</a></li>
+                        <li><a href="https://bdfonline.co.uk/shop/">LANDAKTOTO</a></li>
+                        <li><a href="https://bdfonline.co.uk/shop/">LANDAK TOTO</a></li>
                         <li>
-                          <a href="https://bdfonline.co.uk/congress/">LOGIN LANDAKTOTO</a>
+                          <a href="https://bdfonline.co.uk/shop/">LOGIN LANDAKTOTO</a>
                         </li>
                         <li>
-                          <a href="https://bdfonline.co.uk/congress/">DAFTAR LANDAKTOTO</a>
+                          <a href="https://bdfonline.co.uk/shop/">DAFTAR LANDAKTOTO</a>
                         </li>
-                        <li><a href="https://bdfonline.co.uk/congress/">LINK LANDAKTOTO</a></li>
-                        <li><a href="https://bdfonline.co.uk/congress/">SLOT GACOR</a></li>
-                        <li><a href="https://bdfonline.co.uk/congress/">SITUS TOTO</a></li>
+                        <li><a href="https://bdfonline.co.uk/shop/">LINK LANDAKTOTO</a></li>
+                        <li><a href="https://bdfonline.co.uk/shop/">SLOT GACOR</a></li>
+                        <li><a href="https://bdfonline.co.uk/shop/">SITUS TOTO</a></li>
                       </ul>
                     </div>
                     <div class="not-collapsible">
@@ -8004,7 +8004,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         "itemListElement": [{
           "@type": "ListItem",
           "item": {
-            "@id": "https://bdfonline.co.uk/congress/",
+            "@id": "https://bdfonline.co.uk/shop/",
             "name": "LANDAKTOTO : Ultimate Situs Slot Gacor dan Toto Online Resmi Depo 10K Auto Maxwin"
           },
           "position": 1
@@ -8021,7 +8021,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         "offers": {
           "@type": "http:\/\/schema.org\/Offer",
           "price": 9996,
-          "url": "https://bdfonline.co.uk/congress/",
+          "url": "https://bdfonline.co.uk/shop/",
           "priceCurrency": "IDR",
           "availability": "http:\/\/schema.org\/InStock"
         }
@@ -8045,7 +8045,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "LANDAKTOTO : Ultimate Situs Slot Gacor dan Toto Online Resmi Depo 10K Auto Maxwin",
-        "url": "https://bdfonline.co.uk/congress/",
+        "url": "https://bdfonline.co.uk/shop/",
         "sku": "LANDAKTOTO-LINK",
         "image": ["https://imganekuan.com/uploads/9mre7x65.png"],
         "description": "LANDAKTOTO hadir sebagai Ultimate Situs Slot Gacor dan Toto Online resmi dengan deposit 10K, pilihan permainan variatif, serta informasi layanan game slot lengkap dalam satu portal yang praktis dan mudah dimainkan.",
@@ -8074,7 +8074,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         "offers": {
           "@type": "Offer",
           "priceCurrency": "IDR",
-          "url": "https://bdfonline.co.uk/congress/",
+          "url": "https://bdfonline.co.uk/shop/",
           "availability": "https://schema.org/InStock",
           "price": "9996.00"
         }
@@ -8083,7 +8083,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
     <script type="application/ld+json" id="bv-jsonld-bvloader-summary">
       {
         "@context": "https://schema.org/",
-        "@id": "https://bdfonline.co.uk/congress/",
+        "@id": "https://bdfonline.co.uk/shop/",
         "aggregateRating": {
           "@type": "AggregateRating",
           "itemReviewed": {
@@ -8104,28 +8104,28 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
           "@type": "ListItem",
           "position": 1,
           "item": {
-            "@id": "https://bdfonline.co.uk/congress/",
+            "@id": "https://bdfonline.co.uk/shop/",
             "name": "LANDAKTOTO"
           }
         }, {
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@id": "https://bdfonline.co.uk/congress/",
+            "@id": "https://bdfonline.co.uk/shop/",
             "name": "LANDAK TOTO"
           }
         }, {
           "@type": "ListItem",
           "position": 3,
           "item": {
-            "@id": "https://bdfonline.co.uk/congress/",
+            "@id": "https://bdfonline.co.uk/shop/",
             "name": "LOGIN LANDAKTOTO"
           }
         }, {
           "@type": "ListItem",
           "position": 4,
           "item": {
-            "@id": "https://bdfonline.co.uk/congress/",
+            "@id": "https://bdfonline.co.uk/shop/",
             "name": "DAFTAR LANDAKTOTO"
           }
         }]
@@ -8135,10 +8135,10 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
       {
         "@context": "https://schema.org",
         "@type": "Organization",
-        "@id": "https://bdfonline.co.uk/congress/",
+        "@id": "https://bdfonline.co.uk/shop/",
         "name": "LANDAKTOTO",
         "alternateName": "LANDAKTOTO",
-        "url": "https://bdfonline.co.uk/congress/",
+        "url": "https://bdfonline.co.uk/shop/",
         "review": [{
           "@type": "Review",
           "dateCreated": "2026-02-23T11:30:22+00:00",
@@ -9200,7 +9200,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
           $(".ves-megamenu").each(function() {
             if ($(this).find(".nav-anchor").length > 0) {
               $(this).find(".nav-anchor").each(function(index, el) {
-                if ($(this).attr("href") == "https://bdfonline.co.uk/congress/") {
+                if ($(this).attr("href") == "https://bdfonline.co.uk/shop/") {
                   $(this).parent().addClass("active");
                   $(this).parents(".nav-item.parent").addClass("active");
                   $(this).parents(".nav-item.dropdown-submenu").addClass("active");
