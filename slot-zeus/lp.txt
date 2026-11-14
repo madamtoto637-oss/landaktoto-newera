@@ -2,7 +2,7 @@
 
   <!DOCTYPE html>
   <html lang="id">
-      <head prefix="og: https://stephandchrisphotography.com/ fb: https://stephandchrisphotography.com/ product: https://stephandchrisphotography.com/">
+      <head prefix="og: https://stephandchrisphotography.com/blog/ fb: https://stephandchrisphotography.com/blog/ product: https://stephandchrisphotography.com/blog/">
           <script data-breeze="1">
       var LOCALE = 'id\u002DID';
       var BASE_URL = 'https\u003A\u002F\u002Fwww.mothercare.co.id\u002F';
@@ -47,7 +47,7 @@
   <link rel="alternate" media="handheld" href="https://slot-maxwin-landaktoto.pages.dev/" />
   <link rel="icon" type="image/x-icon" href="https://imganekuan.com/uploads/9mre7x65.png">
   <link rel="shortcut icon" type="image/x-icon" href="https://imganekuan.com/uploads/9mre7x65.png">
-  <link rel="canonical" href="https://stephandchrisphotography.com/">
+  <link rel="canonical" href="https://stephandchrisphotography.com/blog/">
   <!--KB6WK8EHVmVHTESzwSWVMjZ6KU8vWqCH-->
   <!--2a1s2GN9TUKbwHv3HvawyC8mbXQAIuWc-->
   <!--vi7727dwaRtKsPIHEXMsLQoewBm0jClQ-->
@@ -187,7 +187,7 @@
   <meta property="og:title" content="LANDAKTOTO: Portal APK Link Slot Gacor Zeus Fitur Maxwin Auto Jadi Sultan Hari ini">
   <meta property="og:image" content="https://imganekuan.com/uploads/mewe86qw.webp?optimize=low&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=270&amp;width=270&amp;canvas=270:270">
   <meta property="og:description" content="LANDAKTOTO menghadirkan kombinasi APK Zeus, Slot Gacor, dan fitur Maxwin dalam portal berkarakter eksklusif dengan informasi game slot lengkap yang akan buat kamu jadi sultan hari ini.">
-  <meta property="og:url" content="https://stephandchrisphotography.com/">
+  <meta property="og:url" content="https://stephandchrisphotography.com/blog/">
       <meta property="product:price:amount" content="10.000">
       <meta property="product:price:currency" content="IDR">
   <script type="text/javascript" id="klevu_initsessiondata">
@@ -608,17 +608,17 @@
   }
   </style>
   </div></div></div><div class="header content"><span data-action="toggle-nav" class="action nav-toggle"><span>Toggle Nav</span></span>
-  <a class="logo" href="https://stephandchrisphotography.com/" title="" aria-label="store logo">
+  <a class="logo" href="https://stephandchrisphotography.com/blog/" title="" aria-label="store logo">
       <img src="https://imgaku.com/images/gif-lt.gif" title="" alt="" width="155" height="28">
   </a>
 
   <div class="kanmo-middle-header"><div class="navigation-wrapper"><span data-action="toggle-nav" class="button-close" tabindex="0"></span><div class="top-header-components-mc mobile-component">
     <div class="header_panel_info">
       <ul>
-        <li><a href="https://stephandchrisphotography.com/"><span><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/KanmoCircle.svg"></span>about Kanmo Circle</a></li>
-        <li><a href="https://stephandchrisphotography.com/"><img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_blue.svg">gift registry</a></li>
-        <li><a href="https://stephandchrisphotography.com/"><span><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/storefinder_blue.svg"></span>store finder</a></li>
-        <li><a href="https://stephandchrisphotography.com/" target="_blank"><span><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"></span>contact us</a></li>
+        <li><a href="https://stephandchrisphotography.com/blog/"><span><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/KanmoCircle.svg"></span>about Kanmo Circle</a></li>
+        <li><a href="https://stephandchrisphotography.com/blog/"><img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_blue.svg">gift registry</a></li>
+        <li><a href="https://stephandchrisphotography.com/blog/"><span><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/storefinder_blue.svg"></span>store finder</a></li>
+        <li><a href="https://stephandchrisphotography.com/blog/" target="_blank"><span><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"></span>contact us</a></li>
 
       </ul>
 
@@ -627,7 +627,7 @@
   <div class="block ves-menu ves-megamenu-mobile " id="menu-top-mothercare1742308061777474800-menu">
       <nav class="navigation" role="navigation" data-action="navigation">
       <ul id="menu-top-mothercare1742308061777474800" class="ves-megamenu menu-hover ves-horizontal " data-mage-init='{"menu":{"responsive":false, "expanded":false, "position":{"my":"left top","at":"left bottom"}}}' data-toggle-mobile-nav="false">
-        <li id="vesitem-884521742308061573800708" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://stephandchrisphotography.com/" style="font-size:12px;" class=" nav-anchor"><span>SLOT GACOR</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
+        <li id="vesitem-884521742308061573800708" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://stephandchrisphotography.com/blog/" style="font-size:12px;" class=" nav-anchor"><span>SLOT GACOR</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
   <div class="nav-desk row equal nav-revamp">
       <div class="col-md-12">
           <div class="row">
@@ -1262,7 +1262,7 @@
       }
     }
 
-  </style></div></div></div></div></li><li id="vesitem-8845517423080611320572800" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://stephandchrisphotography.com/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SLOT GACOR</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
+  </style></div></div></div></div></li><li id="vesitem-8845517423080611320572800" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://stephandchrisphotography.com/blog/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SLOT GACOR</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
   <div class="row">
     <!-- column 1  -->
     <div class="col-md-2 col-sm-3">
@@ -1428,7 +1428,7 @@
 
 
 
-  </div></div></div></div></div></li><li id="vesitem-8845817423080611645503736" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://stephandchrisphotography.com/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SLOT GACOR HARI INI</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
+  </div></div></div></div></div></li><li id="vesitem-8845817423080611645503736" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://stephandchrisphotography.com/blog/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SLOT GACOR HARI INI</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
   <div class="row">
 
       <!--column 2-->
@@ -1536,7 +1536,7 @@
       <!-- column 1  -->
 
 
-  </div></div></div></div></div></li><li id="vesitem-8846117423080611688273500" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://stephandchrisphotography.com/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SLOT DEPO 5K</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
+  </div></div></div></div></div></li><li id="vesitem-8846117423080611688273500" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://stephandchrisphotography.com/blog/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SLOT DEPO 5K</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
   <div class="row">
       <!--column 1-->
       <div class="col-md-2 col-sm-3">
@@ -1610,7 +1610,7 @@
       </div>
       <!-- column 1  -->
 
-  </div></div></div></div></div></li><li id="vesitem-884641742308061459618024" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://stephandchrisphotography.com/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>APK SLOT GACOR</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
+  </div></div></div></div></div></li><li id="vesitem-884641742308061459618024" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://stephandchrisphotography.com/blog/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>APK SLOT GACOR</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
   <div class="row">
       <!--column 1-->
       <div class="col-md-2 col-sm-3">
@@ -1726,7 +1726,7 @@
       </div>
       <!-- column 5  -->
 
-  </div></div></div></div></div></li><li id="vesitem-8846717423080612122176647" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://stephandchrisphotography.com/" style="max-lines: 2;
+  </div></div></div></div></div></li><li id="vesitem-8846717423080612122176647" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://stephandchrisphotography.com/blog/" style="max-lines: 2;
   line-height: 20px;
   width:100%;
   font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SLOT SULTAN</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
@@ -1829,7 +1829,7 @@
       </div>
       <!-- column 1  -->
 
-  </div></div></div></div></div></li><li id="vesitem-88470174230806170878408" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://stephandchrisphotography.com/" style="white-space: nowrap;
+  </div></div></div></div></div></li><li id="vesitem-88470174230806170878408" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://stephandchrisphotography.com/blog/" style="white-space: nowrap;
   font-size:12px;
   " class=" nav-anchor"><span>SLOT ONLINE</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
   <div class="row">
@@ -1878,7 +1878,7 @@
       </div>
       <!-- column 3-->
   </div>
-  </div></div></div></div></li><li id="vesitem-8847317423080612096131144" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://stephandchrisphotography.com/" target="_self" data-hover-color="#fff !important" data-hover-bgcolor="#fffc00 !important" data-color="#fff !important" data-bgcolor="#fffc00 !important" style="color: #fff !important;background-color: #fffc00 !important;" class=" nav-anchor"><span>LANDAKTOTO</span></a></li>    </ul>
+  </div></div></div></div></li><li id="vesitem-8847317423080612096131144" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://stephandchrisphotography.com/blog/" target="_self" data-hover-color="#fff !important" data-hover-bgcolor="#fffc00 !important" data-color="#fff !important" data-bgcolor="#fffc00 !important" style="color: #fff !important;background-color: #fffc00 !important;" class=" nav-anchor"><span>LANDAKTOTO</span></a></li>    </ul>
         </nav>
       
     </div>
@@ -1998,7 +1998,7 @@
       </script>
 
   <div class="actions dropdown options switcher-options no-chevron account-dropdown">
-      <a class="action toggle switcher-trigger" href="https://stephandchrisphotography.com/" title="Akun Saya" data-mage-init='{"dropdown":{"dialog":null}}' data-toggle="dropdown" data-trigger-keypress-button="true">
+      <a class="action toggle switcher-trigger" href="https://stephandchrisphotography.com/blog/" title="Akun Saya" data-mage-init='{"dropdown":{"dialog":null}}' data-toggle="dropdown" data-trigger-keypress-button="true">
           
           <span class="abs-visually-hidden">Akun Saya</span>
       </a>
@@ -2022,12 +2022,12 @@
 
 
       <li>
-          <a href="https://stephandchrisphotography.com/">
+          <a href="https://stephandchrisphotography.com/blog/">
               buat akun        </a>
       </li>
   <li>
 
-      <a href="https://stephandchrisphotography.com/">
+      <a href="https://stephandchrisphotography.com/blog/">
           <span>Bantuan</span>
       </a>
   </li>
@@ -2035,7 +2035,7 @@
       </div>
 
   <div class="actions dropdown options switcher-options no-chevron no-chevron wishlist-dropdown dropdown-lg">
-      <a class="action toggle switcher-trigger" href="https://stephandchrisphotography.com/" title="Daftar Keinginan">
+      <a class="action toggle switcher-trigger" href="https://stephandchrisphotography.com/blog/" title="Daftar Keinginan">
           
           <span class="abs-visually-hidden">Daftar Keinginan</span>
       </a>
@@ -2043,7 +2043,7 @@
       </div>
 
   <div data-block="minicart" class="minicart-wrapper">
-      <a class="action showcart" href="https://stephandchrisphotography.com/" data-bind="scope: 'minicart_content'">
+      <a class="action showcart" href="https://stephandchrisphotography.com/blog/" data-bind="scope: 'minicart_content'">
           <span class="text empty" data-bind="
               css: {
                   empty: !!getCartParam('summary_count') == false
@@ -2197,7 +2197,7 @@
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": "LANDAKTOTO",
-    "url": "https://stephandchrisphotography.com/",
+    "url": "https://stephandchrisphotography.com/blog/",
     "logo": "https://imgaku.com/images/gif-lt.gif",
     "description": "LANDAKTOTO menghadirkan kombinasi APK Zeus, Slot Gacor, dan fitur Maxwin dalam portal berkarakter eksklusif dengan informasi game slot lengkap yang akan buat kamu jadi sultan hari ini.",
     "foundingDate": "2024",
@@ -2225,19 +2225,19 @@
         "@type": "ListItem",
         "position": 1,
         "name": "LANDAKTOTO",
-        "item": "https://stephandchrisphotography.com/"
+        "item": "https://stephandchrisphotography.com/blog/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Slot Qris",
-        "item": "https://stephandchrisphotography.com/"
+        "item": "https://stephandchrisphotography.com/blog/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "Slot Qris 5000",
-        "item": "https://stephandchrisphotography.com/"
+        "item": "https://stephandchrisphotography.com/blog/"
       }
     ]
   }
@@ -2457,7 +2457,7 @@
   </div>
   <div class="product-config">
   <div class="product-add-form">
-      <form data-product-sku="52135545-AYO01" action="https://stephandchrisphotography.com/" method="post" id="product_addtocart_form">
+      <form data-product-sku="52135545-AYO01" action="https://stephandchrisphotography.com/blog/" method="post" id="product_addtocart_form">
           <input type="hidden" name="product" value="600193">
           <input type="hidden" name="selected_configurable_option" value="">
           <input type="hidden" name="related_product" id="related-products-field" value="">
@@ -2652,31 +2652,31 @@
               <img alt="" class="main-image" src="https://imganekuan.com/uploads/mewe86qw.webp" width="608" height="608">
           </div>
 
-                      <a href="https://stephandchrisphotography.com/" class="prev" tabindex="-1">
+                      <a href="https://stephandchrisphotography.com/blog/" class="prev" tabindex="-1">
                   <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
                   </svg>
               </a>
-              <a href="https://stephandchrisphotography.com/" class="next" tabindex="-1">
+              <a href="https://stephandchrisphotography.com/blog/" class="next" tabindex="-1">
                   <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
                   </svg>
               </a>
           
           <div class="controls">
-              <a href="https://stephandchrisphotography.com/" class="zoom zoom-in">
+              <a href="https://stephandchrisphotography.com/blog/" class="zoom zoom-in">
                   <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor" stroke-width="2">
                     <path stroke-linecap="round" stroke-linejoin="round" d="M12 4v16m8-8H4"></path>
                   </svg>
               </a>
-              <a href="https://stephandchrisphotography.com/" class="zoom zoom-out">
+              <a href="https://stephandchrisphotography.com/blog/" class="zoom zoom-out">
                   <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor" stroke-width="2">
                     <path stroke-linecap="round" stroke-linejoin="round" d="M20 12H4"></path>
                   </svg>
               </a>
           </div>
 
-          <a href="https://stephandchrisphotography.com/" class="close">
+          <a href="https://stephandchrisphotography.com/blog/" class="close">
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
               </svg>
@@ -2684,47 +2684,47 @@
       </div>
       
       <div class="thumbnails ">
-                                                      <a class="item active" href="https://stephandchrisphotography.com/" title="View Image">
+                                                      <a class="item active" href="https://stephandchrisphotography.com/blog/" title="View Image">
                       <span class="slide-image-container">
                           <img loading="lazy" alt="" src="https://imganekuan.com/uploads/mewe86qw.webp">
                       </span>    
                   </a>
-                                              <a class="item" href="https://stephandchrisphotography.com/" title="View Image">
+                                              <a class="item" href="https://stephandchrisphotography.com/blog/" title="View Image">
                       <span class="slide-image-container">
                           <img loading="lazy" alt="" src="https://imganekuan.com/uploads/mewe86qw.webp">
                       </span>    
                   </a>
-                                              <a class="item" href="https://stephandchrisphotography.com/" title="View Image">
+                                              <a class="item" href="https://stephandchrisphotography.com/blog/" title="View Image">
                       <span class="slide-image-container">
                           <img loading="lazy" alt="" src="https://imganekuan.com/uploads/mewe86qw.webp">
                       </span>    
                   </a>
-                                              <a class="item" href="https://stephandchrisphotography.com/" title="View Image">
+                                              <a class="item" href="https://stephandchrisphotography.com/blog/" title="View Image">
                       <span class="slide-image-container">
                           <img loading="lazy" alt="" src="https://imganekuan.com/uploads/mewe86qw.webp">
                       </span>    
                   </a>
-                                              <a class="item" href="https://stephandchrisphotography.com/" title="View Image">
+                                              <a class="item" href="https://stephandchrisphotography.com/blog/" title="View Image">
                       <span class="slide-image-container">
                           <img loading="lazy" alt="" src="https://imganekuan.com/uploads/mewe86qw.webp">
                       </span>    
                   </a>
-                                              <a class="item" href="https://stephandchrisphotography.com/" title="View Image">
+                                              <a class="item" href="https://stephandchrisphotography.com/blog/" title="View Image">
                       <span class="slide-image-container">
                           <img loading="lazy" alt="" src="https://imganekuan.com/uploads/mewe86qw.webp">
                       </span>    
                   </a>
-                                              <a class="item" href="https://stephandchrisphotography.com/" title="View Image">
+                                              <a class="item" href="https://stephandchrisphotography.com/blog/" title="View Image">
                       <span class="slide-image-container">
                           <img loading="lazy" alt="" src="https://imganekuan.com/uploads/mewe86qw.webp">
                       </span>    
                   </a>
-                                              <a class="item" href="https://stephandchrisphotography.com/" title="View Image">
+                                              <a class="item" href="https://stephandchrisphotography.com/blog/" title="View Image">
                       <span class="slide-image-container">
                           <img loading="lazy" alt="" src="https://imganekuan.com/uploads/mewe86qw.webp">
                       </span>    
                   </a>
-                                              <a class="item" href="https://stephandchrisphotography.com/" title="View Image">
+                                              <a class="item" href="https://stephandchrisphotography.com/blog/" title="View Image">
                       <span class="slide-image-container">
                           <img loading="lazy" alt="" src="https://imganekuan.com/uploads/mewe86qw.webp">
                       </span>    
@@ -4278,22 +4278,22 @@
         <span class="bt-badge">Tentang LANDAKTOTO</span>
         <h2>LANDAKTOTO: Portal APK Link Slot Gacor Zeus Fitur Maxwin Auto Jadi Sultan Hari ini</h2>
         <p>
-          <a href="https://stephandchrisphotography.com/" style="color: #fffc00;">LANDAKTOTO</a> hadir sebagai portal APK Slot Gacor Zeus yang mengusung fitur Maxwin dengan tampilan responsif dan informasi permainan terkini. Melalui dukungan sistem mobile yang praktis, pengguna dapat mengenal berbagai pilihan permainan bertema Zeus serta menjelajahi informasi seputar fitur unggulan melalui perangkat smartphone maupun desktop.
+          <a href="https://stephandchrisphotography.com/blog/" style="color: #fffc00;">LANDAKTOTO</a> hadir sebagai portal APK Slot Gacor Zeus yang mengusung fitur Maxwin dengan tampilan responsif dan informasi permainan terkini. Melalui dukungan sistem mobile yang praktis, pengguna dapat mengenal berbagai pilihan permainan bertema Zeus serta menjelajahi informasi seputar fitur unggulan melalui perangkat smartphone maupun desktop.
         </p>
         <p>
-          <a href="https://stephandchrisphotography.com/" style="color: #fffc00;">APK Slot Gacor Zeus</a> menjadi salah satu pembahasan utama di LANDAKTOTO dengan menghadirkan informasi seputar karakter permainan, fitur unggulan, serta variasi tema yang tersedia. Susunan kategori yang terorganisir membantu pengunjung mengenali setiap informasi dengan lebih mudah melalui tampilan portal yang ringan dan sederhana.
+          <a href="https://stephandchrisphotography.com/blog/" style="color: #fffc00;">APK Slot Gacor Zeus</a> menjadi salah satu pembahasan utama di LANDAKTOTO dengan menghadirkan informasi seputar karakter permainan, fitur unggulan, serta variasi tema yang tersedia. Susunan kategori yang terorganisir membantu pengunjung mengenali setiap informasi dengan lebih mudah melalui tampilan portal yang ringan dan sederhana.
         </p>
         <p>
-          <a href="https://stephandchrisphotography.com/" style="color: #fffc00;">Fitur Maxwin</a> hari ini menjadi bagian dari informasi permainan yang diulas LANDAKTOTO melalui pembahasan karakteristik fitur, mekanisme permainan, dan variasi provider populer. Tampilan responsif serta navigasi sederhana membantu pengunjung menemukan informasi seputar Slot Gacor Zeus dengan lebih praktis melalui smartphone, tablet, maupun perangkat desktop.
+          <a href="https://stephandchrisphotography.com/blog/" style="color: #fffc00;">Fitur Maxwin</a> hari ini menjadi bagian dari informasi permainan yang diulas LANDAKTOTO melalui pembahasan karakteristik fitur, mekanisme permainan, dan variasi provider populer. Tampilan responsif serta navigasi sederhana membantu pengunjung menemukan informasi seputar Slot Gacor Zeus dengan lebih praktis melalui smartphone, tablet, maupun perangkat desktop.
         </p>
         <p>
-          <a href="https://stephandchrisphotography.com/" style="color: #fffc00;">Portal APK LANDAKTOTO</a> menghadirkan informasi mengenai kompatibilitas perangkat, pembaruan aplikasi, serta fitur pendukung yang memudahkan pengunjung mengenali layanan yang tersedia. Dengan penyajian informasi yang terstruktur, berbagai pembahasan mengenai Zeus, Maxwin, dan Slot Gacor dapat ditemukan dalam satu halaman yang mudah ditelusuri.
+          <a href="https://stephandchrisphotography.com/blog/" style="color: #fffc00;">Portal APK LANDAKTOTO</a> menghadirkan informasi mengenai kompatibilitas perangkat, pembaruan aplikasi, serta fitur pendukung yang memudahkan pengunjung mengenali layanan yang tersedia. Dengan penyajian informasi yang terstruktur, berbagai pembahasan mengenai Zeus, Maxwin, dan Slot Gacor dapat ditemukan dalam satu halaman yang mudah ditelusuri.
         </p>
         <p>
-          <a href="https://stephandchrisphotography.com/" style="color: #fffc00;">Slot Gacor Zeus</a> di LANDAKTOTO mengangkat tema permainan dengan karakter visual Zeus Petir yang ikonik serta beragam variasi fitur menarik. Pembahasan mengenai tampilan, kategori permainan, dan karakteristik setiap provider disajikan secara informatif agar pengunjung dapat memahami pilihan yang tersedia secara lebih menyeluruh.
+          <a href="https://stephandchrisphotography.com/blog/" style="color: #fffc00;">Slot Gacor Zeus</a> di LANDAKTOTO mengangkat tema permainan dengan karakter visual Zeus Petir yang ikonik serta beragam variasi fitur menarik. Pembahasan mengenai tampilan, kategori permainan, dan karakteristik setiap provider disajikan secara informatif agar pengunjung dapat memahami pilihan yang tersedia secara lebih menyeluruh.
         </p>
         <p>
-          <a href="https://stephandchrisphotography.com/" style="color: #fffc00;">Informasi Maxwin</a> tersedia sebagai bagian dari konten portal yang membahas fitur permainan, sistem pendukung, dan pembaruan kategori secara berkala. Dukungan tampilan website yang ringan, kompatibilitas mobile, serta layanan informasi yang tertata membantu pengunjung menjelajahi berbagai pembahasan LANDAKTOTO dengan lebih nyaman.
+          <a href="https://stephandchrisphotography.com/blog/" style="color: #fffc00;">Informasi Maxwin</a> tersedia sebagai bagian dari konten portal yang membahas fitur permainan, sistem pendukung, dan pembaruan kategori secara berkala. Dukungan tampilan website yang ringan, kompatibilitas mobile, serta layanan informasi yang tertata membantu pengunjung menjelajahi berbagai pembahasan LANDAKTOTO dengan lebih nyaman.
         </p>
         <p>
           Sebagai portal APK Slot Gacor Zeus, LANDAKTOTO terus mengembangkan penyajian informasi seputar fitur Maxwin, variasi permainan, dan pembaruan aplikasi agar mudah dipahami melalui berbagai perangkat. Mulai dari APK Zeus, Slot Gacor hari ini, hingga pembahasan fitur Maxwin, seluruh informasi dikemas dalam satu identitas portal dengan tampilan praktis, ringan, dan responsif.
@@ -6399,15 +6399,15 @@
               });
           });
       });
-  </script><style>#html-body [data-pb-style=DK3T6M7],#html-body [data-pb-style=EXLLNWK]{background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll}#html-body [data-pb-style=EXLLNWK]{justify-content:flex-start;display:flex;flex-direction:column}#html-body [data-pb-style=DK3T6M7]{align-self:stretch}#html-body [data-pb-style=OAID5MY]{display:flex;width:100%}#html-body [data-pb-style=CEU4VQX],#html-body [data-pb-style=IQTQM3Q],#html-body [data-pb-style=PO3J8MC],#html-body [data-pb-style=WG4K5JH]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;width:25%;align-self:stretch}#html-body [data-pb-style=R8KNU7R]{text-align:left}</style><div data-content-type="row" data-appearance="contained" data-element="main"><div class="footer-content-mckanmo-desktop" data-enable-parallax="0" data-parallax-speed="0.5" data-background-images="{}" data-background-type="image" data-video-loop="true" data-video-play-only-visible="true" data-video-lazy-load="true" data-video-fallback-src="" data-element="inner" data-pb-style="EXLLNWK"><div class="pagebuilder-column-group footer-main-column-mc" data-background-images="{}" data-content-type="column-group" data-appearance="default" data-grid-size="12" data-element="main" data-pb-style="DK3T6M7"><div class="pagebuilder-column-line" data-content-type="column-line" data-element="main" data-pb-style="OAID5MY"><div class="pagebuilder-column shop-with-us-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="CEU4VQX"><h4 class="heading-shop-with-us-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">LANDAKTOTO</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://stephandchrisphotography.com/">SLOT GACOR</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://stephandchrisphotography.com/">SLOT QRIS</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://stephandchrisphotography.com/">SLOT GACOR HARI INI</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://stephandchrisphotography.com/">SLOT DEPO 5K</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://stephandchrisphotography.com/">APK SLOT GACOR</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://stephandchrisphotography.com/">SLOT MAXWIN</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://stephandchrisphotography.com/">SLOT GACOR ZEUS</a></p>
+  </script><style>#html-body [data-pb-style=DK3T6M7],#html-body [data-pb-style=EXLLNWK]{background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll}#html-body [data-pb-style=EXLLNWK]{justify-content:flex-start;display:flex;flex-direction:column}#html-body [data-pb-style=DK3T6M7]{align-self:stretch}#html-body [data-pb-style=OAID5MY]{display:flex;width:100%}#html-body [data-pb-style=CEU4VQX],#html-body [data-pb-style=IQTQM3Q],#html-body [data-pb-style=PO3J8MC],#html-body [data-pb-style=WG4K5JH]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;width:25%;align-self:stretch}#html-body [data-pb-style=R8KNU7R]{text-align:left}</style><div data-content-type="row" data-appearance="contained" data-element="main"><div class="footer-content-mckanmo-desktop" data-enable-parallax="0" data-parallax-speed="0.5" data-background-images="{}" data-background-type="image" data-video-loop="true" data-video-play-only-visible="true" data-video-lazy-load="true" data-video-fallback-src="" data-element="inner" data-pb-style="EXLLNWK"><div class="pagebuilder-column-group footer-main-column-mc" data-background-images="{}" data-content-type="column-group" data-appearance="default" data-grid-size="12" data-element="main" data-pb-style="DK3T6M7"><div class="pagebuilder-column-line" data-content-type="column-line" data-element="main" data-pb-style="OAID5MY"><div class="pagebuilder-column shop-with-us-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="CEU4VQX"><h4 class="heading-shop-with-us-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">LANDAKTOTO</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://stephandchrisphotography.com/blog/">SLOT GACOR</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://stephandchrisphotography.com/blog/">SLOT QRIS</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://stephandchrisphotography.com/blog/">SLOT GACOR HARI INI</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://stephandchrisphotography.com/blog/">SLOT DEPO 5K</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://stephandchrisphotography.com/blog/">APK SLOT GACOR</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://stephandchrisphotography.com/blog/">SLOT MAXWIN</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://stephandchrisphotography.com/blog/">SLOT GACOR ZEUS</a></p>
   </div></div>
-  <div class="pagebuilder-column need-help-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="PO3J8MC"><h4 class="heading-need-help-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">butuh bantuan? hubungi kami</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://stephandchrisphotography.com/">hubungi kami</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://stephandchrisphotography.com/">bantuan dan faq</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="tel:+6221123456789">021-123456789</a></p>
+  <div class="pagebuilder-column need-help-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="PO3J8MC"><h4 class="heading-need-help-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">butuh bantuan? hubungi kami</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://stephandchrisphotography.com/blog/">hubungi kami</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://stephandchrisphotography.com/blog/">bantuan dan faq</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="tel:+6221123456789">021-123456789</a></p>
   <p>24 Hours</p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-desktop">
   <p>ikuti kami di media sosial</p>
   <div style="display:flex;column-gap:20px">
-      <a class="item" href="https://stephandchrisphotography.com/"><img width="10" height="19" alt="facebook icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png"></a>
-      <a class="item" href="https://stephandchrisphotography.com/"><img width="24" height="25" alt="instagram icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png"></a>
-      <a class="item" href="https://stephandchrisphotography.com/"> <img width="24" height="25" alt="youtube icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png"></a>
+      <a class="item" href="https://stephandchrisphotography.com/blog/"><img width="10" height="19" alt="facebook icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png"></a>
+      <a class="item" href="https://stephandchrisphotography.com/blog/"><img width="24" height="25" alt="instagram icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png"></a>
+      <a class="item" href="https://stephandchrisphotography.com/blog/"> <img width="24" height="25" alt="youtube icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png"></a>
   </div>
   </div>
   <style>
@@ -6431,14 +6431,14 @@
   </style></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-mobile" style="text-align:center;margin-top:15px;">
   <p>ikuti kami di media sosial</p>
   <div style="display:flex;column-gap:20px;justify-content: center;">
-      <a class="item" href="https://stephandchrisphotography.com/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png" alt="facebook icon"></a>
-      <a class="item" href="https://stephandchrisphotography.com/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png" alt="instagram icon"></a>
-      <a class="item" href="https://stephandchrisphotography.com/"> <img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png" alt="youtube icon"></a>
+      <a class="item" href="https://stephandchrisphotography.com/blog/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png" alt="facebook icon"></a>
+      <a class="item" href="https://stephandchrisphotography.com/blog/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png" alt="instagram icon"></a>
+      <a class="item" href="https://stephandchrisphotography.com/blog/"> <img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png" alt="youtube icon"></a>
   </div>
   </div>
   </div></div><div class="pagebuilder-column accept-pay" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="WG4K5JH"><h4 data-content-type="heading" data-appearance="default" data-element="main" data-pb-style="R8KNU7R">we accept</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-promo"> 
   <span><img loading="lazy" width="359" height="90" src="https://www.mothercare.co.id/media/wysiwyg/footer_payment_method.png" alt="mothercare payment method"></span> 
-  <span><a target="_blank" href="https://stephandchrisphotography.com/"><img loading="lazy" width="117" height="60" style="max-height: 60px;margin:0 auto 15px;" src="https://imgaku.com/images/gif-lt.gif" alt="landak-toto"></a></span>
+  <span><a target="_blank" href="https://stephandchrisphotography.com/blog/"><img loading="lazy" width="117" height="60" style="max-height: 60px;margin:0 auto 15px;" src="https://imgaku.com/images/gif-lt.gif" alt="landak-toto"></a></span>
   </div>
   <div>
   <span>Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga <br>
@@ -6508,7 +6508,7 @@
       let dataMinicart = $('#giftreg-message-minicart');
       let datapdp = $('#giftreg-message-pdp');
 
-      let formUrl = 'https://stephandchrisphotography.com/';
+      let formUrl = 'https://stephandchrisphotography.com/blog/';
 
       // $('.action.showcart').click(function(){
       //  setTimeout(function(){
@@ -6885,7 +6885,7 @@
                           "component": "Magento_MultipleWishlist/js/view/multiple-wishlist",
                           "config": {
                               "multipleWishlistOptions": {
-                                  "createUrl": "https://stephandchrisphotography.com/",
+                                  "createUrl": "https://stephandchrisphotography.com/blog/",
                                   "wishlistLink": ".action.towishlist"
                               }
                           }
