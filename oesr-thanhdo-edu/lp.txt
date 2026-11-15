@@ -20331,7 +20331,7 @@
               margin-top: 14px;
             }
           </style>
-          <article class="landaktt-container" aria-label="Artikel Rupiahtoto">
+          <article class="landaktt-container" aria-label="Artikel Landaktoto">
             <!-- Introduction -->
             <style>
               .landaktt-article {
