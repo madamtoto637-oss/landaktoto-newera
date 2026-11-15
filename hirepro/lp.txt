@@ -851,7 +851,7 @@ digitalData.page.pageInfo.pageName = pageName;
         {
           "@type": "Review",
           "name": "Danang Setiawan",
-          "reviewBody": Salah satu hal yang menarik dari LANDAKTOTO adalah susunan navigasinya. Perpindahan antarhalaman terasa praktis dan tampilannya tetap nyaman ketika dibuka melalui smartphone.",
+          "reviewBody": "Salah satu hal yang menarik dari LANDAKTOTO adalah susunan navigasinya. Perpindahan antarhalaman terasa praktis dan tampilannya tetap nyaman ketika dibuka melalui smartphone.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
