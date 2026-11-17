@@ -1,7 +1,6 @@
 
 
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -132,7 +131,7 @@
                     <!-- for desktop -->
                     <div class="menu-wraper d-xl-block d-none">
                        <div id="explore-category" class="explore-btn" href="javascript:void(0)">
-                        <img height="23" width="23" class="me-2" src="https://imgaku.com/images/gif-lt.gif" alt="explore">Explore                            
+                        <img height="23" width="23" class="me-2" src="https://imganekuan.com/uploads/9mre7x65.png" alt="explore">Explore                            
                         </div>
                         <div class="menu-content" id="wstabitem-loader">
                             <div class="u-loader-sl s1x">
