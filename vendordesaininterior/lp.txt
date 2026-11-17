@@ -4288,7 +4288,7 @@ LIVE CHAT
                     <span class="info-dot"></span>
                     <span class="info-text">Minimal Deposit</span>
                 </div>
-                <span class="info-number">Rp 20.000</span>
+                <span class="info-number">Rp 10.000</span>
             </div>
 
             <div class="info-row">
