@@ -180,7 +180,6 @@ console.log(
 <meta property="og:type" content="product">
 <meta property="og:title" content="LANDAKTOTO : Login Situs Slot777 & Link Slot Gacor Online Terbaru Gampang Menang">
 <meta property="og:image" content="https://imganekuan.com/uploads/qg33vtva.webp">
-<meta name="google-site-verification" content="SecEP0yJoYZOONWFSrlRmf5V7twIcHAKtqmoL2vJSdA" />
 <meta property="og:description" content="LANDAKTOTO menghadirkan informasi Slot Gacor dan Slot777 terbaru 2026 melalui pembaruan link login, fitur permainan variatif, serta layanan online yang mudah dijangkau.">
 <meta property="og:url" content="https://www.the-insurance-surgery.co.uk/blog/">
     <meta property="product:price:amount" content="5000">
