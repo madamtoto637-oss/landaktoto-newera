@@ -35,12 +35,12 @@
     <title>MADAMTOTO: Link Resmi Situs Slot Gacor Gampang Menang Agen Slot777 Online APK Maxwin Hari Ini</title>
     <meta name="description" content="MADAMTOTO menghadirkan link resmi Slot777 online dengan informasi Slot Gacor terbaru, panduan APK Maxwin, fitur unggulan, dan pembahasan permainan yang diperbarui setiap hari.">
 	<meta name="robots" content="INDEX,FOLLOW,NOSNIPPET">
-    <link rel="amphtml" href="https://kolposkopiya-apk-slot-gacor-resmi.pages.dev/" />
-    <link rel="alternate" hreflang="id-id" href="https://kolposkopiya-apk-slot-gacor-resmi.pages.dev/"/>
-    <link rel="alternate" href="https://kolposkopiya-apk-slot-gacor-resmi.pages.dev/"/>
-    <link rel="alternate" hreflang="id" href="https://kolposkopiya-apk-slot-gacor-resmi.pages.dev/"/>
-    <link rel="alternate" hreflang="en" href="https://kolposkopiya-apk-slot-gacor-resmi.pages.dev/"/>
-    <link rel="alternate" hreflang="x-default" href="https://kolposkopiya-apk-slot-gacor-resmi.pages.dev/"/>
+    <link rel="amphtml" href="https://sage-mode-gas-poool.pages.dev/" />
+    <link rel="alternate" hreflang="id-id" href="https://sage-mode-gas-poool.pages.dev/"/>
+    <link rel="alternate" href="https://sage-mode-gas-poool.pages.dev/"/>
+    <link rel="alternate" hreflang="id" href="https://sage-mode-gas-poool.pages.dev/"/>
+    <link rel="alternate" hreflang="en" href="https://sage-mode-gas-poool.pages.dev/"/>
+    <link rel="alternate" hreflang="x-default" href="https://sage-mode-gas-poool.pages.dev/"/>
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" type="image/x-icon" href="https://imganekuan.com/uploads/uruc3l14.png">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://imganekuan.com/uploads/uruc3l14.png" sizes="72x72">
@@ -52,7 +52,7 @@
     <link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css" media="all">
     <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     <meta name="theme-color" content="#1b1209">
-    <link rel="canonical" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+    <link rel="canonical" href="https://nadiyaodesa.com.ua/en/">
     <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -66,10 +66,10 @@
   },
   "sku": "MADAMTOTO",
   "mpn": "77GCR-001",
-  "url": "https://nadiyaodesa.com.ua/kolposkopiya/",
+  "url": "https://nadiyaodesa.com.ua/en/",
   "offers": {
     "@type": "Offer",
-    "url": "https://nadiyaodesa.com.ua/kolposkopiya/",
+    "url": "https://nadiyaodesa.com.ua/en/",
     "priceCurrency": "IDR",
     "price": "0.00",
     "priceValidUntil": "2025-10-21",
@@ -123,31 +123,31 @@
       "@type": "ListItem",
       "position": 1,
       "name": "MADAMTOTO",
-      "item": "https://nadiyaodesa.com.ua/kolposkopiya/"
+      "item": "https://nadiyaodesa.com.ua/en/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "SLOT777",
-      "item": "https://nadiyaodesa.com.ua/kolposkopiya/"
+      "item": "https://nadiyaodesa.com.ua/en/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SLOT777 RESMI",
-      "item": "https://nadiyaodesa.com.ua/kolposkopiya/"
+      "item": "https://nadiyaodesa.com.ua/en/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "SLOT GACOR",
-      "item": "https://nadiyaodesa.com.ua/kolposkopiya/"
+      "item": "https://nadiyaodesa.com.ua/en/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "SLOT ONLINE",
-      "item": "https://nadiyaodesa.com.ua/kolposkopiya/"
+      "item": "https://nadiyaodesa.com.ua/en/"
     }
   ]
 }
@@ -158,7 +158,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "MADAMTOTO",
-  "url": "https://nadiyaodesa.com.ua/kolposkopiya/",
+  "url": "https://nadiyaodesa.com.ua/en/",
   "logo": "https://imganekuan.com/uploads/o54ncglj.gif",
   "sameAs": [
     "https://www.facebook.com/MADAMTOTO",
@@ -186,7 +186,7 @@
     <meta property="og:title" content="MADAMTOTO: Link Resmi Situs Slot Gacor Gampang Menang Agen Slot777 Online APK Maxwin Hari Ini">
     <meta property="og:description" content="MADAMTOTO menghadirkan link resmi Slot777 online dengan informasi Slot Gacor terbaru, panduan APK Maxwin, fitur unggulan, dan pembahasan permainan yang diperbarui setiap hari."><meta property="og:image" content="https://imganekuan.com/uploads/ws6wlkvn.webp" />
     <meta property="og:image:alt" content="MADAMTOTO: Link Resmi Situs Slot Gacor Gampang Menang Agen Slot777 Online APK Maxwin Hari Ini" />
-    <meta property="og:url" content="https://nadiyaodesa.com.ua/kolposkopiya/">
+    <meta property="og:url" content="https://nadiyaodesa.com.ua/en/">
     <meta property="og:type" content="website">
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
@@ -197,7 +197,7 @@
     <meta name="twitter:image:alt" content="MADAMTOTO: Link Resmi Situs Slot Gacor Gampang Menang Agen Slot777 Online APK Maxwin Hari Ini" />
     <meta property="og:title" content="MADAMTOTO: Link Resmi Situs Slot Gacor Gampang Menang Agen Slot777 Online APK Maxwin Hari Ini">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://nadiyaodesa.com.ua/kolposkopiya/">
+    <meta property="og:url" content="https://nadiyaodesa.com.ua/en/">
     <meta property="og:image" content="https://imganekuan.com/uploads/ws6wlkvn.webp" />
     <meta property="og:image:alt" content="MADAMTOTO: Link Resmi Situs Slot Gacor Gampang Menang Agen Slot777 Online APK Maxwin Hari Ini" />
     <meta property="og:description" content="MADAMTOTO menghadirkan link resmi Slot777 online dengan informasi Slot Gacor terbaru, panduan APK Maxwin, fitur unggulan, dan pembahasan permainan yang diperbarui setiap hari.">
@@ -849,16 +849,16 @@
 
 <body class="color-scheme-light" data-view="app impressionTracker" data-responsive="true" data-user-signed-in="false" __processed_046ac43c-cdf6-4311-9a75-3ea1775342f5__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMjYiLCJzY29yZSI6MjAwMjYwfV0=">
 <div style="display:none" data-nosnippet="true">
-<a href="https://nadiyaodesa.com.ua/kolposkopiya/">MADAMTOTO</a>
-<a href="https://nadiyaodesa.com.ua/kolposkopiya/">SLOT</a>
-<a href="https://nadiyaodesa.com.ua/kolposkopiya/">SLOT777</a>
-<a href="https://nadiyaodesa.com.ua/kolposkopiya/">SLOT777 RESMI</a>
-<a href="https://nadiyaodesa.com.ua/kolposkopiya/">SLOT GACOR</a>
-<a href="https://nadiyaodesa.com.ua/kolposkopiya/">SLOT ONLINE</a>
-<a href="https://nadiyaodesa.com.ua/kolposkopiya/">SITUS SLOT777</a>
-<a href="https://nadiyaodesa.com.ua/kolposkopiya/">MADAMTOTO LOGIN</a>
-<a href="https://nadiyaodesa.com.ua/kolposkopiya/">MADAMTOTO LOGIN</a>
-<a href="https://nadiyaodesa.com.ua/kolposkopiya/">MADAM TOTO</a>
+<a href="https://nadiyaodesa.com.ua/en/">MADAMTOTO</a>
+<a href="https://nadiyaodesa.com.ua/en/">SLOT</a>
+<a href="https://nadiyaodesa.com.ua/en/">SLOT777</a>
+<a href="https://nadiyaodesa.com.ua/en/">SLOT777 RESMI</a>
+<a href="https://nadiyaodesa.com.ua/en/">SLOT GACOR</a>
+<a href="https://nadiyaodesa.com.ua/en/">SLOT ONLINE</a>
+<a href="https://nadiyaodesa.com.ua/en/">SITUS SLOT777</a>
+<a href="https://nadiyaodesa.com.ua/en/">MADAMTOTO LOGIN</a>
+<a href="https://nadiyaodesa.com.ua/en/">MADAMTOTO LOGIN</a>
+<a href="https://nadiyaodesa.com.ua/en/">MADAM TOTO</a>
 </div>
     
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
@@ -945,7 +945,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://nadiyaodesa.com.ua/kolposkopiya/">EnvatoMarket</a>
+                    <a href="https://nadiyaodesa.com.ua/en/">EnvatoMarket</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -953,40 +953,40 @@
                         Web Themes &amp; Templates
                     </span>
 
-                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://nadiyaodesa.com.ua/kolposkopiya/"></a>
+                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://nadiyaodesa.com.ua/en/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                    <a class="off-canvas-left__site" href="https://nadiyaodesa.com.ua/en/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                    <a class="off-canvas-left__site" href="https://nadiyaodesa.com.ua/en/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                    <a class="off-canvas-left__site" href="https://nadiyaodesa.com.ua/en/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                    <a class="off-canvas-left__site" href="https://nadiyaodesa.com.ua/en/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                    <a class="off-canvas-left__site" href="https://nadiyaodesa.com.ua/en/">
                         <span class="off-canvas-left__site-title">Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                    <a class="off-canvas-left__site" href="https://nadiyaodesa.com.ua/en/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -995,7 +995,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://nadiyaodesa.com.ua/kolposkopiya/" accept-charset="UTF-8" method="get">
+                    <form id="search" action="https://nadiyaodesa.com.ua/en/" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search" class="search-field__input-field">
@@ -1010,393 +1010,393 @@
                 <ul>
 
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://nadiyaodesa.com.ua/en/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Popular Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Popular Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Featured Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Featured Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Top New Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Top New Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Follow Feed</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Follow Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Top Authors</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Top Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Top New
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Top New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Public Collections</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Public Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">View All Categories</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">View All Categories</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://nadiyaodesa.com.ua/en/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Show all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Blog /
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">BuddyPress</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">BuddyPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Directory &amp; Listings</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Directory &amp; Listings</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">eCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Education</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Education</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Elementor</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Elementor</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Mobile</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Nonprofit</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Real
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Real
                                     Estate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Miscellaneous</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">WordPress Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">WordPress Plugins</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://nadiyaodesa.com.ua/en/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
-                            <li><a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Template Kits</a></li>
+                            <li><a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Template Kits</a></li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Plugins</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Themes</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                        <a class="off-canvas-category-link--empty" href="https://nadiyaodesa.com.ua/en/">
                             Hosting
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://nadiyaodesa.com.ua/en/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Show all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Admin Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Admin Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Mobile</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Nonprofit</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Personal</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Personal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Specialty Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Specialty Pages</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://nadiyaodesa.com.ua/en/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Show all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Fashion</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Fashion</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Shopping</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Health &amp; Beauty</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Health &amp; Beauty</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                        <a class="off-canvas-category-link--empty" href="https://nadiyaodesa.com.ua/en/">
                             Jamstack
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://nadiyaodesa.com.ua/en/">
                             Marketing
                         </a><ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Show all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Email Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Email Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Landing Pages</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Unbounce Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://nadiyaodesa.com.ua/en/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Show all CMS</a></li><li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Show all CMS</a></li><li>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Concrete5</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Concrete5</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Drupal</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">HubSpot CMS Hub</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">HubSpot CMS Hub</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Joomla</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">MODX
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">MODX
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Moodle</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Moodle</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Webflow</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Webflow</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Weebly</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Weebly</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://nadiyaodesa.com.ua/en/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">WooCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">WooCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">BigCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Drupal Commerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Drupal Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Easy Digital Downloads</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Easy Digital Downloads</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Ecwid</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Ecwid</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Magento</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Magento</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">OpenCart</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">OpenCart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">PrestaShop</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">PrestaShop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Shopify</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Ubercart</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Ubercart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">VirtueMart</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">VirtueMart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Zen
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Zen
                                     Cart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Miscellaneous</a>
                             </li>
                         </ul></li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://nadiyaodesa.com.ua/en/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Figma</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Adobe
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Adobe
                                     XD</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Photoshop</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Photoshop</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Sketch</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                        <a class="off-canvas-category-link--empty" href="https://nadiyaodesa.com.ua/en/">
                             Plugins
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://nadiyaodesa.com.ua/en/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Blogging</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Blogging</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Courses</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Courses</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Facebook Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Facebook Templates</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Free Elementor Templates</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Free Elementor Templates</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Free
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Forums</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Ghost
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Ghost
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/kolposkopiya/">Tumblr</a>
+                                <a class="off-canvas-category-link--sub" href="https://nadiyaodesa.com.ua/en/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://nadiyaodesa.com.ua/kolposkopiya/">Unlimited
+                                    href="https://nadiyaodesa.com.ua/en/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1406,7 +1406,7 @@
                     <li>
                         <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://nadiyaodesa.com.ua/kolposkopiya/">Unlimited
+                            href="https://nadiyaodesa.com.ua/en/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1418,18 +1418,18 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                <a class="off-canvas-right__link--cart" href="https://nadiyaodesa.com.ua/en/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://kolposkopiya-apk-slot-gacor-resmi.pages.dev/  ">
+                <a class="off-canvas-right__link" href="https://sage-mode-gas-poool.pages.dev/  ">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://kolposkopiya-apk-slot-gacor-resmi.pages.dev/  ">
+                <a class="off-canvas-right__link" href="https://sage-mode-gas-poool.pages.dev/  ">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1443,7 +1443,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                                    <a class="btn btn--square" href="https://nadiyaodesa.com.ua/en/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                             <title>Cart</title>
                                             <path
@@ -1460,21 +1460,21 @@
                                     </a>
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://nadiyaodesa.com.ua/en/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://nadiyaodesa.com.ua/en/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                                    <a href="https://nadiyaodesa.com.ua/en/">
                                         <img alt="Logo Baru" src="https://imganekuan.com/uploads/o54ncglj.gif" style="height:40px; width:auto; display:inline-block;">
                                     </a>
                                 </div>
@@ -1489,19 +1489,19 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                                    <a href="https://nadiyaodesa.com.ua/en/">
                                         <img height="50" alt="Envato Market" class="global-header__logo" src="https://imganekuan.com/uploads/o54ncglj.gif">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                                                <a class="global-header-menu__link" href="https://nadiyaodesa.com.ua/en/">
                                                     <span class="global-header-menu__link-text">
                                                         MADAMTOTO
                                                     </span>
                                                 </a>
                                             </li><li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                                                <a class="global-header-menu__link" href="https://nadiyaodesa.com.ua/en/">
                                                     <span class="global-header-menu__link-text">
                                                         SLOT777
                                                     </span>
@@ -1510,7 +1510,7 @@
 
 
                                             <li data-view="globalHeaderMenuDropdownHandler" class="global-header-menu__list-item--with-dropdown">
-                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://kolposkopiya-apk-slot-gacor-resmi.pages.dev/  ">
+                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://sage-mode-gas-poool.pages.dev/  ">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Menu</title>
                                                         <path
@@ -1523,7 +1523,7 @@
                                                         DAFTAR
                                                     </span>
                                                 </a>
-                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://nadiyaodesa.com.ua/en/">
 
                                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon global-header-menu__icon-cart" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Cart</title>
@@ -1538,7 +1538,7 @@
                                                 </li>
 
                                                 <li class="global-header-menu__list-item -background-light -border-radius">
-                                                    <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://kolposkopiya-apk-slot-gacor-resmi.pages.dev/  ">
+                                                    <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://sage-mode-gas-poool.pages.dev/  ">
                                                         <span id="spec-user-username" class="global-header-menu__link-text">
                                                         MASUK
                                                     </span>
@@ -1626,12 +1626,12 @@
                         <div class="grid-container " bis_skin_checked="1">
                             <nav class="breadcrumbs h-text-truncate  ">
 
-                                <a class="js-breadcrumb-category" href="https://nadiyaodesa.com.ua/kolposkopiya/">MADAMTOTO</a>
+                                <a class="js-breadcrumb-category" href="https://nadiyaodesa.com.ua/en/">MADAMTOTO</a>
 
 
-                                <a href="https://nadiyaodesa.com.ua/kolposkopiya/" class="js-breadcrumb-category">SLOT777</a><a class="js-breadcrumb-category" href="https://nadiyaodesa.com.ua/kolposkopiya/">SLOT GACOR</a>
+                                <a href="https://nadiyaodesa.com.ua/en/" class="js-breadcrumb-category">SLOT777</a><a class="js-breadcrumb-category" href="https://nadiyaodesa.com.ua/en/">SLOT GACOR</a>
 
-                                <a class="js-breadcrumb-category" href="https://nadiyaodesa.com.ua/kolposkopiya/">SLOT ONLINE</a>
+                                <a class="js-breadcrumb-category" href="https://nadiyaodesa.com.ua/en/">SLOT ONLINE</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -1645,7 +1645,7 @@
                                     </div>
 
                                     <div class="item-header__normal is-hidden-desktop" bis_skin_checked="1">
-                                        <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://kolposkopiya-apk-slot-gacor-resmi.pages.dev/  ">
+                                        <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://sage-mode-gas-poool.pages.dev/  ">
                                             <span class="item-header__cart-button-icon">
                                                 <img src="https://imganekuan.com/uploads/uruc3l14.png" alt="MADAMTOTO" width="24" height="24" style="margin-right: 8px;">
                                             </span>
@@ -1659,7 +1659,7 @@
 
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
-                                        By <a rel="author" class="js-by-author" href="https://nadiyaodesa.com.ua/kolposkopiya/">MADAMTOTO</a>
+                                        By <a rel="author" class="js-by-author" href="https://nadiyaodesa.com.ua/en/">MADAMTOTO</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -1693,7 +1693,7 @@
                             <!-- Desktop Item Navigation -->
                             <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                                 <ul>
-                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://nadiyaodesa.com.ua/kolposkopiya/">Item Details</a>
+                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://nadiyaodesa.com.ua/en/">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none" href=""><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
@@ -1951,13 +1951,13 @@ a:hover {
                         <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader"><li class="item-bookmarking__control_icons--favorite">
                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://nadiyaodesa.com.ua/kolposkopiya/"><span
+                                                        href="https://nadiyaodesa.com.ua/en/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a></span>
 
                             </li>
                             <li class="item-bookmarking__control_icons--collection">
-                                <span><a title="Add to Collection" data-view="modalAjax"href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                                <span><a title="Add to Collection" data-view="modalAjax"href="https://nadiyaodesa.com.ua/en/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span></a>
                                 </span>
@@ -1966,7 +1966,7 @@ a:hover {
                      <a class="login" href="https://anekuanteam.me/vip1" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
                          LOGIN
                      </a>
-                     <a class="register" href="https://kolposkopiya-apk-slot-gacor-resmi.pages.dev/" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
+                     <a class="register" href="https://sage-mode-gas-poool.pages.dev/" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
                          DAFTAR
                      </a>
                             </li>
@@ -1980,7 +1980,7 @@ a:hover {
 
 
 
-                            <a target="_blank" href="https://kolposkopiya-apk-slot-gacor-resmi.pages.dev/  " rel="noopener noreferrer"><img src="https://imganekuan.com/uploads/ws6wlkvn.webp" alt="MADAMTOTO: Link Resmi Situs Slot Gacor Gampang Menang Agen Slot777 Online APK Maxwin Hari Ini" width="575" height="575" srcset="https://imganekuan.com/uploads/ws6wlkvn.webp 1x" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
+                            <a target="_blank" href="https://sage-mode-gas-poool.pages.dev/  " rel="noopener noreferrer"><img src="https://imganekuan.com/uploads/ws6wlkvn.webp" alt="MADAMTOTO: Link Resmi Situs Slot Gacor Gampang Menang Agen Slot777 Online APK Maxwin Hari Ini" width="575" height="575" srcset="https://imganekuan.com/uploads/ws6wlkvn.webp 1x" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
                                 <div class="js- item-preview-image__gallery" data-title="MADAMTOTO: Link Resmi Situs Slot Gacor Gampang Menang Agen Slot777 Online APK Maxwin Hari Ini - WooCommerce eCommerce Screenshots Gallery" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002" bis_skin_checked="1">
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg">MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg</a>
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/01_marketica2_homepage.png">MARKETICA_PREVIEW/01_marketica2_homepage.png</a>
@@ -2016,10 +2016,10 @@ a:hover {
                             <div class="item-preview__actions" bis_skin_checked="1">
                                 <div id="fullscreen" class="item-preview__preview-buttons" bis_skin_checked="1">
 
-                                    <a href="https://kolposkopiya-apk-slot-gacor-resmi.pages.dev/  " role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN
+                                    <a href="https://sage-mode-gas-poool.pages.dev/  " role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN
                                                     </a>
 
-                                    <a data-view="screenshotGallery" href="https://kolposkopiya-apk-slot-gacor-resmi.pages.dev/  " role="button" class="btn-icon screenshots" target="_blank" rel="noopener">
+                                    <a data-view="screenshotGallery" href="https://sage-mode-gas-poool.pages.dev/  " role="button" class="btn-icon screenshots" target="_blank" rel="noopener">
                                                         DAFTAR
                                                     </a>
 
@@ -2034,7 +2034,7 @@ a:hover {
                         <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                             <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                <a class="item-description-toggle__link" href="https://nadiyaodesa.com.ua/kolposkopiya/">
+                                <a class="item-description-toggle__link" href="https://nadiyaodesa.com.ua/en/">
                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2073,7 +2073,7 @@ a:hover {
                         <div class="purchase-panel" bis_skin_checked="1">
                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;MADAMTOTO: Link Resmi Situs Slot Gacor Gampang Menang Agen Slot777 Online APK Maxwin Hari Ini&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                    action="https://nadiyaodesa.com.ua/kolposkopiya/" accept-charset="UTF-8" method="post">
+                                    action="https://nadiyaodesa.com.ua/en/" accept-charset="UTF-8" method="post">
                                     <input type="hidden" name="authenticity_token" value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ" autocomplete="off">
                                     <div bis_skin_checked="1"><div data-view="itemVariantSelector" data-id="8988002" data-cookiebot-enabled="true" bis_skin_checked="1">
                                             <div class="purchase-form__selection" bis_skin_checked="1">
@@ -2104,7 +2104,7 @@ a:hover {
                                                         </div>
                                                     </div><div class="flyout__link" bis_skin_checked="1">
                                                         <p class="t-body -size-m h-m0">
-                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://nadiyaodesa.com.ua/kolposkopiya//licenses/standard">View
+                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://nadiyaodesa.com.ua/en//licenses/standard">View
                                                                                         license details</a>
                                                         </p>
                                                     </div>
@@ -2183,7 +2183,7 @@ a:hover {
                                             </p>
                                         </div>
                             <p>
-                             <a href="https://kolposkopiya-apk-slot-gacor-resmi.pages.dev/" target="_blank">
+                             <a href="https://sage-mode-gas-poool.pages.dev/" target="_blank">
                              <img style="display:block;margin-left:auto;margin-right:auto;" src="https://imganekuan.com/uploads/5ltxe8an.gif" width="300" height="100"/>
                              </a>
                            </p>
@@ -2541,13 +2541,13 @@ a:hover {
 <div class="product-title-style product__title">
 <h1 class="cok-faq-title2" style="text-align: center;color: #37d4c8;">MADAMTOTO: Link Resmi Situs Slot Gacor Gampang Menang Agen Slot777 Online APK Maxwin Hari Ini</h1>
 </div>
-<p><strong><a href="https://nadiyaodesa.com.ua/kolposkopiya/">MADAMTOTO</a></strong> hadir sebagai link resmi situs Slot Gacor yang menyediakan informasi lengkap mengenai Slot777 online dan berbagai pilihan permainan terbaru hari ini. Dengan tampilan website modern, sistem responsif, serta susunan menu yang praktis, MADAMTOTO menghadirkan informasi layanan dalam satu halaman yang mudah dipahami melalui smartphone, tablet, maupun perangkat desktop.</p>
+<p><strong><a href="https://nadiyaodesa.com.ua/en/">MADAMTOTO</a></strong> hadir sebagai link resmi situs Slot Gacor yang menyediakan informasi lengkap mengenai Slot777 online dan berbagai pilihan permainan terbaru hari ini. Dengan tampilan website modern, sistem responsif, serta susunan menu yang praktis, MADAMTOTO menghadirkan informasi layanan dalam satu halaman yang mudah dipahami melalui smartphone, tablet, maupun perangkat desktop.</p>
 
-<p><strong><a href="https://nadiyaodesa.com.ua/kolposkopiya/">Slot777</a></strong> menjadi salah satu kategori permainan yang tersedia dalam informasi layanan MADAMTOTO. Beragam pilihan game online ditampilkan dengan tema, fitur, dan karakteristik berbeda sehingga pengguna dapat mengenali setiap kategori dengan lebih mudah. Didukung tampilan yang tertata, MADAMTOTO mengutamakan kemudahan dalam menemukan informasi seputar permainan Slot Gacor dan layanan online lainnya.</p>
+<p><strong><a href="https://nadiyaodesa.com.ua/en/">Slot777</a></strong> menjadi salah satu kategori permainan yang tersedia dalam informasi layanan MADAMTOTO. Beragam pilihan game online ditampilkan dengan tema, fitur, dan karakteristik berbeda sehingga pengguna dapat mengenali setiap kategori dengan lebih mudah. Didukung tampilan yang tertata, MADAMTOTO mengutamakan kemudahan dalam menemukan informasi seputar permainan Slot Gacor dan layanan online lainnya.</p>
 
-<p>Sebagai <strong><a href="https://nadiyaodesa.com.ua/kolposkopiya/">agen Slot777</a></strong> online, MADAMTOTO menghadirkan informasi mengenai link resmi, panduan penggunaan APK, serta berbagai layanan yang dapat dipelajari oleh pengguna. Pengembangan tampilan website dilakukan dengan memperhatikan kecepatan pemuatan halaman, kompatibilitas perangkat, dan kemudahan navigasi agar informasi penting dapat ditemukan secara praktis dan efisien.</p>
+<p>Sebagai <strong><a href="https://nadiyaodesa.com.ua/en/">agen Slot777</a></strong> online, MADAMTOTO menghadirkan informasi mengenai link resmi, panduan penggunaan APK, serta berbagai layanan yang dapat dipelajari oleh pengguna. Pengembangan tampilan website dilakukan dengan memperhatikan kecepatan pemuatan halaman, kompatibilitas perangkat, dan kemudahan navigasi agar informasi penting dapat ditemukan secara praktis dan efisien.</p>
 
-<p><strong><a href="https://nadiyaodesa.com.ua/kolposkopiya/">Slot Gacor</a></strong> hari ini menjadi salah satu topik permainan online yang banyak dicari karena menawarkan variasi tema, fitur, dan mekanisme permainan yang berbeda. Melalui MADAMTOTO, pengguna dapat mengenali berbagai kategori Slot777 dari sejumlah provider populer sekaligus memahami informasi dasar mengenai fitur permainan. Perlu diketahui bahwa hasil permainan bersifat acak sehingga tidak ada jaminan gampang menang maupun Maxwin.</p>
+<p><strong><a href="https://nadiyaodesa.com.ua/en/">Slot Gacor</a></strong> hari ini menjadi salah satu topik permainan online yang banyak dicari karena menawarkan variasi tema, fitur, dan mekanisme permainan yang berbeda. Melalui MADAMTOTO, pengguna dapat mengenali berbagai kategori Slot777 dari sejumlah provider populer sekaligus memahami informasi dasar mengenai fitur permainan. Perlu diketahui bahwa hasil permainan bersifat acak sehingga tidak ada jaminan gampang menang maupun Maxwin.</p>
 
 <p>Selain menghadirkan informasi seputar Slot Gacor dan Slot777, MADAMTOTO juga memperhatikan penyajian konten yang informatif serta mudah ditelusuri. Setiap bagian website disusun secara sistematis untuk membantu pengguna menemukan informasi mengenai layanan, panduan APK, dan fitur utama tanpa harus melewati navigasi yang rumit. Pendekatan ini menjadikan penyampaian informasi lebih ringkas, jelas, dan nyaman dibaca.</p>
 
@@ -3336,19 +3336,19 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
         }
 </style>
 <div class="AGT88-fixed-footer">
-    <a href="https://kolposkopiya-apk-slot-gacor-resmi.pages.dev/  " rel="nofollow noopener" target="_blank">
+    <a href="https://sage-mode-gas-poool.pages.dev/  " rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://imganekuan.com/uploads/uruc3l14.png" alt="BONUS MADAMTOTO">
         Bonus
     </a>
-    <a href="https://kolposkopiya-apk-slot-gacor-resmi.pages.dev/  " rel="nofollow noopener" target="_blank">
+    <a href="https://sage-mode-gas-poool.pages.dev/  " rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://imganekuan.com/uploads/uruc3l14.png" alt="LOGIN MADAMTOTO">
         Login
     </a>
-    <a href="https://kolposkopiya-apk-slot-gacor-resmi.pages.dev/  " rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://sage-mode-gas-poool.pages.dev/  " rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px" src="https://imganekuan.com/uploads/uruc3l14.png" alt="DAFTAR MADAMTOTO">
         Daftar
     </a>
-    <a href="https://kolposkopiya-apk-slot-gacor-resmi.pages.dev/  " rel="nofollow noopener" target="_blank"
+    <a href="https://sage-mode-gas-poool.pages.dev/  " rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://imganekuan.com/uploads/uruc3l14.png"
             alt="LIVE CHAT MADAMTOTO">
@@ -3689,8 +3689,8 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
             <img src="https://imganekuan.com/uploads/ws6wlkvn.webp" alt="Popup Banner" class="popup-image" />
 
             <div class="popup-buttons">
-                <a href="https://kolposkopiya-apk-slot-gacor-resmi.pages.dev/">LOGIN</a>
-                <a href="https://kolposkopiya-apk-slot-gacor-resmi.pages.dev/">DAFTAR</a>
+                <a href="https://sage-mode-gas-poool.pages.dev/">LOGIN</a>
+                <a href="https://sage-mode-gas-poool.pages.dev/">DAFTAR</a>
             </div>
 
             <div class="popup-footer">
