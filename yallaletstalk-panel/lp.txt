@@ -9,7 +9,7 @@
 <link rel="icon" type="image/x-icon" href="https://imganekuan.com/uploads/9mre7x65.png" />
 <link rel="apple-touch-icon" href="https://imganekuan.com/uploads/9mre7x65.png">
 <link rel="canonical" href="https://yallaletstalk.com/">
-<link rel="amphtml" href="https://yallaletstalk-panduan-bermain.pages.dev/slotmaxwin" />
+<link rel="amphtml" href="https://yallaletstalk-panel-sage-slot.pages.dev/maxwin" />
   <link rel="alternate" href="https://yallaletstalk.com/"> 
   <link rel="alternate" href="https://yallaletstalk.com/" hreflang="id">
   <link rel="alternate" href="https://yallaletstalk.com/" hreflang="en">
@@ -609,10 +609,10 @@ ga('require', 'GTM-KL3BC7L');
 
 <div id="landak-diamond-header">
 
-    <a href="https://yallaletstalk-panduan-bermain.pages.dev/slotmaxwin"
+    <a href="https://yallaletstalk-panel-sage-slot.pages.dev/maxwin"
        class="diamond-btn diamond-login">
         &#9671; LOGIN
-    </a><a href="https://yallaletstalk-panduan-bermain.pages.dev/slotmaxwin"
+    </a><a href="https://yallaletstalk-panel-sage-slot.pages.dev/maxwin"
        class="diamond-btn diamond-daftar">
         &#10022; DAFTAR
     </a>
@@ -1234,7 +1234,7 @@ Back
             <td style="width:50%!important;
                        padding:0!important;">
 
-                <a href="https://yallaletstalk-panduan-bermain.pages.dev/slotmaxwin"
+                <a href="https://yallaletstalk-panel-sage-slot.pages.dev/maxwin"
                    class="lux-login">
 
                     LOGIN
@@ -1248,7 +1248,7 @@ Back
             <td style="width:50%!important;
                        padding:0!important;">
 
-                <a href="https://yallaletstalk-panduan-bermain.pages.dev/slotmaxwin"
+                <a href="https://yallaletstalk-panel-sage-slot.pages.dev/maxwin"
                    class="lux-daftar">
 
                     DAFTAR
@@ -3604,12 +3604,12 @@ height="0" width="0" style="display:none;visibility:hidden" rel="dns-prefetch"><
             <!-- LOGIN DAN DAFTAR -->
             <div class="seo-buttons">
 
-                <a href="https://yallaletstalk-panduan-bermain.pages.dev/slotmaxwin"
+                <a href="https://yallaletstalk-panel-sage-slot.pages.dev/maxwin"
                    class="seo-login">
                     LOGIN
                 </a>
 
-                <a href="https://yallaletstalk-panduan-bermain.pages.dev/slotmaxwin"
+                <a href="https://yallaletstalk-panel-sage-slot.pages.dev/maxwin"
                    class="seo-register">
                     DAFTAR
                 </a>
@@ -4107,7 +4107,7 @@ body {
 
         <!-- TOMBOL LOGIN -->
 
-        <a href="https://yallaletstalk-panduan-bermain.pages.dev/slotmaxwin"
+        <a href="https://yallaletstalk-panel-sage-slot.pages.dev/maxwin"
            class="landak-tp-btn"
            aria-label="Login">
 
@@ -4133,7 +4133,7 @@ body {
 
         <!-- TOMBOL WHATSAPP -->
 
-        <a href="https://yallaletstalk-panduan-bermain.pages.dev/slotmaxwin"
+        <a href="https://yallaletstalk-panel-sage-slot.pages.dev/maxwin"
            class="landak-tp-btn"
            aria-label="WhatsApp">
 
@@ -4162,7 +4162,7 @@ body {
 
         <!-- TOMBOL LIVE CHAT -->
 
-        <a href="https://yallaletstalk-panduan-bermain.pages.dev/slotmaxwin"
+        <a href="https://yallaletstalk-panel-sage-slot.pages.dev/maxwin"
            class="landak-tp-btn"
            aria-label="Live Chat">
 
@@ -4193,7 +4193,7 @@ body {
 
         <!-- TOMBOL DAFTAR -->
 
-        <a href="https://yallaletstalk-panduan-bermain.pages.dev/slotmaxwin"
+        <a href="https://yallaletstalk-panel-sage-slot.pages.dev/maxwin"
            class="landak-tp-btn landak-tp-register"
            aria-label="Daftar">
 
