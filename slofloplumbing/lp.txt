@@ -39,7 +39,7 @@
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-demi-webfont.woff2">
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-regular-webfont.woff2">
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-thin-webfont.woff2">
-<link rel="amphtml" href="https://flo-plumbing-mode-sage-on.pages.dev/"/>
+<link rel="amphtml" href="https://slofloplumbing-sage-mode-online.pages.dev/sg"/>
 <link rel="alternate" href="https://slofloplumbing.com/blog/"> 
 <link rel="alternate" href="https://slofloplumbing.com/blog/" hreflang="id">
 <link rel="alternate" href="https://slofloplumbing.com/blog/" hreflang="en">
