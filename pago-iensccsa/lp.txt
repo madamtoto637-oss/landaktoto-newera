@@ -8,7 +8,7 @@
 		j=d.createElement(s);j.async=true;j.src='/jo42/';
 		f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer');</script>
-        <meta name="google-site-verification" content="x1YqE4zJzqz8JTmyr83I9CIsxnV-pm7AJJnWRbrECtw"/>
+        <meta name="google-site-verification" content="ooyLj38uWMtsWz3jNOEJdTzxpzBAEIZ1A9iZTRwZq0E" />
         <script data-breeze="1">
     var LOCALE = 'id\u002DID';
     var BASE_URL = 'https\u003A\u002F\u002Fwww.mothercare.co.id\u002F';
